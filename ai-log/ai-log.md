@@ -582,4 +582,233 @@ A regra de tratamento textual passou a reduzir whitespace consecutivo a um espa�
 
 ---
 
-_Fim do histórico no segundo ponto de backup de 26 de agosto de 2026, imediatamente antes do commit da Etapa 1._
+_Fim do segundo ponto de backup de 26 de agosto de 2026, imediatamente antes do commit da Etapa 1._
+
+---
+
+## 12. Commit da Etapa 1
+
+### Assistente — atualização
+
+> O stage final passou sem erros de whitespace e contém somente a Etapa 1, suas saídas, a atualização do roadmap e a consolidação do log. Vou criar o commit em português agora.
+
+### Registro de execução
+
+Foi criado o commit:
+
+```text
+[hacka 8f65ed9] dados: conclui auditoria e validação da etapa 1
+10 files changed, 74214 insertions(+), 46 deletions(-)
+```
+
+O commit incluiu o notebook de auditoria, seis artefatos em `outputs/auditoria/`, o roadmap atualizado e o log consolidado. `ai-log/sessao-01.md` foi removido, mantendo `ai-log/ai-log.md` como registro único.
+
+### Assistente — resposta
+
+> Logs incrementais salvos em `ai-log/ai-log.md`.
+>
+> Commit criado:
+>
+> ```text
+> 8f65ed9 dados: conclui auditoria e validação da etapa 1
+> ```
+>
+> O commit inclui a Etapa 1, tabelas derivadas, roadmap atualizado e log consolidado. A árvore de trabalho está limpa e a branch `hacka` está um commit à frente de `origin/hacka`. Nenhum push foi realizado.
+
+---
+
+## 13. Planejamento da Etapa 2
+
+### Usuário
+
+> Vamos dar continuidade com a etapa 2, prossiga com o plano de implementação e aguarde minha validação
+
+### Assistente — atualização
+
+> Vou revisar somente a Etapa 2, as decisões consolidadas na auditoria e os campos disponíveis nas bases derivadas. Em seguida apresentarei métricas, cenários, artefatos e critérios de aceite; nenhuma implementação ou cálculo novo será feito antes da sua aprovação.
+
+### Registro de análise
+
+Foram relidos a Etapa 2 do `ROADMAP.md`, `decisoes_limpeza.md` e os cabeçalhos das bases derivadas de Airbnb, preços e VivaReal. A árvore de trabalho estava limpa.
+
+### Assistente — resposta
+
+> Nenhuma alteração foi feita. O plano da Etapa 2 aguarda sua validação.
+>
+> **Objetivo:** definir métricas comparáveis e hipóteses auditáveis sem escolher o melhor perfil, bairro ou imóvel.
+>
+> **Universo válido proposto:**
+>
+> - Manter preços anunciados positivos.
+> - Excluir as 69 capturas posteriores à data de estadia.
+> - Excluir os 6 IDs sem correspondência na base Airbnb.
+> - Preservar a captura mais recente por anúncio/data.
+> - Não remover outliers automaticamente.
+> - Manter os 4.441 anúncios na base final, usando flags e métricas ausentes quando não houver preço.
+>
+> **Métrica primária:** mediana da diária anunciada por anúncio. Média, mínimo, máximo, percentis, dispersão, quantidade de datas, período, dias úteis e fins de semana seriam mantidos como métricas auxiliares. Segmentos seriam comparados pela mediana das medianas por anúncio.
+>
+> **Elegibilidade:** corte principal de 14 datas, acompanhado de sensibilidades de 7 e 30 datas. A cobertura seria medida por bairro, quartos e tipo de anúncio.
+>
+> **Cenários de ocupação hipotética:** conservador 40%, base 55% e otimista 70%, sempre tratados como sensibilidade e não ocupação observada.
+>
+> ```text
+> noites_ocupadas = 365 × ocupacao_assumida
+> potencial_bruto_anualizado = diaria_mediana_anunciada × noites_ocupadas
+> ```
+>
+> Também seriam formalizadas as fórmulas de investimento total, custos operacionais, potencial líquido, retorno e payback, sem preencher custos sem fonte ou hipótese explícita.
+>
+> O plano previa criar `notebooks/02_metricas_airbnb.ipynb` e seis arquivos em `outputs/metricas/`, executar a cadeia `00 → 01 → 02` e manter `data/`, `README.md`, `index.html` e `ai-log/` intactos durante a implementação.
+
+---
+
+## 14. Implementação e validação da Etapa 2
+
+### Usuário
+
+> Pode prosseguir com a implementação!
+
+### Assistente — atualização
+
+> Plano aprovado. Vou implementar `02_metricas_airbnb.ipynb`, gerar apenas os seis artefatos em `outputs/metricas/` e validar a cadeia completa sem alterar `data/`, `README.md`, `index.html` ou `ai-log/`.
+
+### Registro de execução — criação
+
+Foi criado `notebooks/02_metricas_airbnb.ipynb` com oito células para:
+
+- validar os dados brutos e os artefatos da auditoria;
+- aplicar o funil de preços válidos;
+- calcular métricas robustas por anúncio;
+- medir cobertura e comparabilidade;
+- construir cenários de ocupação;
+- documentar fórmulas e limitações;
+- exportar e validar os seis artefatos.
+
+### Assistente — atualização
+
+> O notebook foi criado e passou pela validação de estrutura e sintaxe. Vou executá-lo agora para testar os filtros, medir quantos anúncios atendem aos cortes de 7/14/30 datas e gerar os seis artefatos previstos.
+
+### Registro de execução — primeira execução
+
+O notebook executou com sucesso e gerou:
+
+- `precos_validos.csv`;
+- `metricas_por_anuncio.csv`;
+- `cobertura_amostra.csv`;
+- `parametros_cenarios.csv`;
+- `cenarios_potencial_bruto.csv`;
+- `metodologia_metricas.md`.
+
+Resultados iniciais:
+
+```text
+Anúncios totais preservados: 4.441
+Anúncios com preços válidos: 999
+Anúncios elegíveis com 14+ datas: 959
+Observações válidas de preço: 58.531
+Cenários por anúncio elegível: 3
+```
+
+### Assistente — atualização
+
+> A execução passou. Dos 999 anúncios com preço, 959 atendem ao corte principal de 14 datas; o universo válido ficou em 58.531 anúncio-datas. A cobertura total continua baixa (21,59% elegível), então vou revisar a representatividade por bairro, quartos e tipo antes de fechar a etapa.
+
+### Registro de análise — cobertura
+
+A cobertura elegível mostrou variação relevante entre grupos. Exemplos:
+
+- Meia Praia: 607 elegíveis em 2.860 anúncios, ou 21,22%;
+- Centro: 200 em 657, ou 30,44%;
+- Morretes: 77 em 441, ou 17,46%;
+- apartamentos: 879 em 3.710, ou 23,69%;
+- casas: 64 em 443, ou 14,45%;
+- hotéis: 1 em 43, ou 2,33%.
+
+O funil confirmou:
+
+```text
+Entrada auditada:                         59.040
+Após remover capturas depois da estadia: 58.971  (-69)
+Após remover IDs órfãos:                  58.531  (-440)
+```
+
+### Assistente — atualização
+
+> A revisão mostrou cobertura desigual entre bairros e tipos, confirmando que a tabela precisa carregar contagens e percentuais junto da métrica. Também tornei o funil de filtros e os cortes de 7/14/30 datas explícitos no relatório. Agora executarei a cadeia completa `00 → 01 → 02` em kernels limpos.
+
+### Registro de execução — cadeia completa
+
+Os notebooks `00_setup.ipynb`, `01_auditoria.ipynb` e `02_metricas_airbnb.ipynb` foram executados em sequência. A execução terminou sem erros. Os seis artefatos foram reabertos e as fórmulas dos 2.877 cenários foram recalculadas.
+
+### Assistente — atualização
+
+> A cadeia continua em execução após os dois primeiros kernels; vou aguardar a conclusão do último notebook e então reabrir os seis artefatos para validar fórmulas e granularidades.
+
+### Registro de validação
+
+Foram confirmados:
+
+- 58.531 preços válidos sem duplicidade anúncio/data;
+- 4.441 anúncios únicos na base de métricas;
+- 999 anúncios com preço;
+- 991 anúncios com 7+ datas;
+- 959 anúncios com 14+ datas;
+- 859 anúncios com 30+ datas;
+- 2.877 combinações anúncio/cenário;
+- cenários conservador, base e otimista recalculáveis pelos parâmetros;
+- ausência de whitespace final nos novos artefatos;
+- dependências sem conflitos;
+- hashes dos cinco CSVs brutos inalterados.
+
+A reexecução do notebook 01 alterou apenas timestamps internos de execução. Esses metadados foram restaurados para evitar uma modificação sem conteúdo na Etapa 1.
+
+### Assistente — atualização
+
+> Os artefatos estão coerentes: 991 anúncios passam em 7 datas, 959 em 14 e 859 em 30; os três cenários recalculam exatamente a partir dos parâmetros. Vou marcar a Etapa 2 como concluída no roadmap e fazer a checagem final do conjunto de mudanças.
+
+### Assistente — resposta
+
+> Etapa 2 concluída e verificada.
+>
+> Foram criados `notebooks/02_metricas_airbnb.ipynb` e seis artefatos em `outputs/metricas/`.
+>
+> Resultados principais:
+>
+> - 4.441 anúncios preservados.
+> - 59.040 anúncio-datas recebidos da auditoria.
+> - 69 capturas posteriores à estadia removidas.
+> - 440 linhas associadas aos 6 IDs órfãos removidas.
+> - 58.531 observações válidas.
+> - 999 anúncios com algum preço válido.
+> - 991, 959 e 859 anúncios elegíveis nos cortes de 7, 14 e 30 datas.
+> - Cobertura com preço de 22,49% e cobertura elegível de 21,59%.
+> - Métrica principal: mediana da diária anunciada por anúncio.
+> - Cenários hipotéticos de ocupação de 40%, 55% e 70%.
+> - 2.877 combinações anúncio/cenário.
+> - Período observado de estadias: 07/01/2025 a 20/04/2025.
+>
+> As fórmulas de investimento, custos, potencial líquido, retorno e payback foram documentadas sem inventar valores. A cadeia completa executou em kernels limpos, todos os artefatos foram reabertos e recalculados, e os arquivos protegidos permaneceram intactos. A Etapa 2 foi marcada como concluída no roadmap. Nenhum commit foi criado naquele momento.
+
+---
+
+## 15. Solicitação de backup e commit da Etapa 2
+
+### Usuário
+
+> Perfeito, os dados já parecem mais claros, siga esses passos antes de prosseguirmos
+>
+> - Adicione as novas conversas no `ai-log.md`
+> - Commit as alterações
+
+### Assistente — atualização
+
+> Vou acrescentar ao `ai-log.md` somente o histórico posterior ao último backup — planejamento, implementação, validação e encerramento da Etapa 2. Depois validarei o conjunto e criarei um commit único em português.
+
+### Registro de execução — preparação
+
+O histórico incremental da Etapa 2 foi anexado ao arquivo consolidado. O commit será preparado com o notebook de métricas, os seis artefatos, a conclusão da Etapa 2 no roadmap e este backup.
+
+---
+
+_Fim do histórico no terceiro ponto de backup de 26 de agosto de 2026, imediatamente antes do commit da Etapa 2._

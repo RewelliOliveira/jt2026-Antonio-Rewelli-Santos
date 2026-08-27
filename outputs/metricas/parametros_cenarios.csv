@@ -1,0 +1,4 @@
+cenario,ocupacao_assumida,dias_ano,natureza
+conservador,0.4,365,hipotese_de_sensibilidade
+base,0.55,365,hipotese_de_sensibilidade
+otimista,0.7,365,hipotese_de_sensibilidade

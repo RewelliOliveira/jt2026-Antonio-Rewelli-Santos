@@ -67,11 +67,11 @@ O primeiro ponto de entrada é `notebooks/00_setup.ipynb`. Ele apenas valida o a
 
 ## Etapa 2 — Definir métricas e hipóteses
 
-- [ ] Definir uma proxy de diária média/mediana por anúncio, controlando período e data de captura.
-- [ ] Não chamar preço ofertado de receita realizada. Usar termos como **diária anunciada** e **potencial de receita**.
-- [ ] Escolher uma métrica comparável entre segmentos, exibindo também tamanho de amostra e dispersão.
-- [ ] Definir cenários conservador, base e otimista de ocupação; identificar ocupação como hipótese externa, não como fato da base.
-- [ ] Formalizar o retorno:
+- [x] Definir uma proxy de diária média/mediana por anúncio, controlando período e data de captura.
+- [x] Não chamar preço ofertado de receita realizada. Usar termos como **diária anunciada** e **potencial de receita**.
+- [x] Escolher uma métrica comparável entre segmentos, exibindo também tamanho de amostra e dispersão.
+- [x] Definir cenários conservador, base e otimista de ocupação; identificar ocupação como hipótese externa, não como fato da base.
+- [x] Formalizar o retorno:
 
 ```text
 receita_bruta_anual = diária_representativa × 365 × ocupação_assumida
@@ -80,7 +80,7 @@ retorno_líquido = receita_líquida_anual ÷ investimento_total
 payback = investimento_total ÷ receita_líquida_anual
 ```
 
-- [ ] Explicitar compra, condomínio, IPTU, manutenção, administração, plataforma, mobília e demais custos incluídos ou omitidos.
+- [x] Explicitar compra, condomínio, IPTU, manutenção, administração, plataforma, mobília e demais custos incluídos ou omitidos.
 
 **Concluída quando:** todas as fórmulas, proxies e hipóteses podem ser auditadas e recalculadas.
 
