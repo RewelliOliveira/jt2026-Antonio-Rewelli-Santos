@@ -1,0 +1,11 @@
+segmento,rotulo,anuncios_airbnb,status_airbnb,diaria_p25_anunciada,diaria_mediana_anunciada,diaria_p75_anunciada,premio_fim_semana_mediano_percentual,periodo_estadias,unidade_diaria,potencial_bruto_conservador,potencial_bruto_base,potencial_bruto_otimista
+centro_studio,Centro | studio,0,nao_ranqueavel,,,,,2025-01-07 a 2025-04-20,R$ por noite anunciada,,,
+centro_1q,Centro | 1 quarto,78,ranqueavel,376.25,445.0,523.999975,4.9953231481893905,2025-01-07 a 2025-04-20,R$ por noite anunciada,64970.0,89333.75,113697.5
+meiapraia_studio,Meia Praia | studio,8,nao_ranqueavel,325.6,435.0,542.5,0.0,2025-01-07 a 2025-04-20,R$ por noite anunciada,63510.0,87326.25,111142.5
+meiapraia_1q,Meia Praia | 1 quarto,20,ranqueavel,373.5,441.0,523.25,0.0,2025-01-07 a 2025-04-20,R$ por noite anunciada,64386.0,88530.75,112675.5
+morretes_1q,Morretes | 1 quarto,2,nao_ranqueavel,251.25,327.5,403.75,-1.3888888888888895,2025-01-07 a 2025-04-20,R$ por noite anunciada,47815.0,65745.625,83676.25
+outros_compactos,Outros bairros | studio/1 quarto,34,ranqueavel,330.2,400.0,512.0,0.0,2025-01-07 a 2025-04-20,R$ por noite anunciada,58400.0,80300.0,102200.0
+centro_2q,Centro | 2 quartos,64,ranqueavel,370.0,568.5,709.8750125,0.0,2025-01-07 a 2025-04-20,R$ por noite anunciada,83001.0,114126.37500000001,145251.75
+centro_3q,Centro | 3 quartos,43,ranqueavel,520.5,750.0,850.0,0.0,2025-01-07 a 2025-04-20,R$ por noite anunciada,109500.0,150562.5,191625.0
+centro_4mais,Centro | 4+ quartos,5,nao_ranqueavel,700.0,790.0,850.0,0.0,2025-01-07 a 2025-04-20,R$ por noite anunciada,115340.0,158592.5,201845.0
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,70,ranqueavel,800.0,987.5,1596.5,0.0,2025-01-07 a 2025-04-20,R$ por noite anunciada,144175.0,198240.62500000003,252306.24999999997

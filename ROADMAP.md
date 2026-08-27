@@ -108,26 +108,26 @@ payback = investimento_total ÷ receita_líquida_anual
 
 ## Etapa 4 — Testar explicitamente a tese do Centro
 
-- [ ] Definir “compacto” antes do teste: studio ou imóvel com até 1 quarto.
-- [ ] Comparar compactos do Centro com:
+- [x] Definir “compacto” antes do teste: studio ou imóvel com até 1 quarto.
+- [x] Comparar compactos do Centro com:
   - compactos de outros bairros;
   - imóveis maiores no Centro;
   - demais combinações com amostra suficiente.
-- [ ] Avaliar diária, potencial de receita, preço de compra, retorno e sensibilidade — não apenas uma métrica isolada.
-- [ ] Procurar evidências que contradigam a hipótese inicial.
-- [ ] Dar um veredito direto: **sustentada**, **parcialmente sustentada** ou **refutada**, com condições e limitações.
+- [x] Avaliar diária, potencial de receita, preço de compra, retorno e sensibilidade — não apenas uma métrica isolada.
+- [x] Procurar evidências que contradigam a hipótese inicial.
+- [x] Dar um veredito direto: **sustentada**, **parcialmente sustentada** ou **refutada**, com condições e limitações.
 
 **Concluída quando:** a tese recebe resposta inequívoca, apoiada por comparações justas.
 
 ## Etapa 5 — Construir a recomendação de compra e retorno
 
-- [ ] Traduzir o segmento vencedor do Airbnb para imóveis comparáveis do VivaReal por bairro, tipologia e quartos.
-- [ ] Usar preço de venda anunciado como referência de aquisição, deixando essa limitação explícita.
-- [ ] Selecionar um perfil de compra principal e, no máximo, uma alternativa.
-- [ ] Calcular investimento, receita potencial, retorno líquido e payback nos três cenários.
-- [ ] Fazer sensibilidade para ocupação, diária, preço de compra e custos.
-- [ ] Listar riscos: sazonalidade, vacância, qualidade dos anúncios, liquidez, regulação, condomínio e diferença entre oferta e transação.
-- [ ] Encerrar com uma decisão executiva: **o que comprar, onde, faixa de preço e condições que fariam a decisão mudar**.
+- [x] Traduzir o segmento vencedor do Airbnb para imóveis comparáveis do VivaReal por bairro, tipologia e quartos.
+- [x] Usar preço de venda anunciado como referência de aquisição, deixando essa limitação explícita.
+- [x] Selecionar um perfil de compra principal e, no máximo, uma alternativa.
+- [x] Calcular investimento, receita potencial, retorno líquido e payback nos três cenários.
+- [x] Fazer sensibilidade para ocupação, diária, preço de compra e custos.
+- [x] Listar riscos: sazonalidade, vacância, qualidade dos anúncios, liquidez, regulação, condomínio e diferença entre oferta e transação.
+- [x] Encerrar com uma decisão executiva: **o que comprar, onde, faixa de preço e condições que fariam a decisão mudar**.
 
 **Concluída quando:** um decisor consegue aprovar ou rejeitar a compra conhecendo evidências, premissas e riscos.
 

@@ -1,0 +1,11 @@
+segmento,rotulo,anuncios_vivareal,status_vivareal,preco_venda_p25_anunciado,preco_venda_mediano_anunciado,preco_venda_p75_anunciado,area_mediana_m2,preco_m2_mediano_anunciado,condominio_mediano_positivo,cobertura_condominio_percentual,iptu_anual_mediano_positivo,cobertura_iptu_percentual,data_captura_vivareal,unidade_preco
+centro_studio,Centro | studio,0,nao_ranqueavel,,,,,,,,,,2025-01-11,R$ anunciados
+centro_1q,Centro | 1 quarto,22,ranqueavel,652500.0,890000.0,980000.0,42.0,14574.27536231884,500.0,45.45454545454545,1000.0,31.818181818181817,2025-01-11,R$ anunciados
+meiapraia_studio,Meia Praia | studio,0,nao_ranqueavel,,,,,,,,,,2025-01-11,R$ anunciados
+meiapraia_1q,Meia Praia | 1 quarto,58,ranqueavel,757000.0,877500.0,1003755.25,40.0,21250.0,727.5,31.03448275862069,1000.0,31.03448275862069,2025-01-11,R$ anunciados
+morretes_1q,Morretes | 1 quarto,50,ranqueavel,446750.0,624500.0,750000.0,43.0,12893.978260869566,350.0,26.0,1000.0,32.0,2025-01-11,R$ anunciados
+outros_compactos,Outros bairros | studio/1 quarto,141,ranqueavel,600000.0,750000.0,890000.0,43.0,14634.146341463415,462.5,29.78723404255319,1000.0,29.078014184397162,2025-01-11,R$ anunciados
+centro_2q,Centro | 2 quartos,89,ranqueavel,889000.0,1150000.0,1550000.0,86.0,13068.181818181818,500.0,61.79775280898876,1000.0,56.17977528089888,2025-01-11,R$ anunciados
+centro_3q,Centro | 3 quartos,437,ranqueavel,1750000.0,2100000.0,2790000.0,131.0,15789.473684210527,617.0,40.96109839816934,1300.0,35.24027459954233,2025-01-11,R$ anunciados
+centro_4mais,Centro | 4+ quartos,434,ranqueavel,2800000.0,3900000.0,6499950.0,200.0,18889.82046039679,1000.0,27.419354838709676,1500.0,26.95852534562212,2025-01-11,R$ anunciados
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,2313,ranqueavel,2665118.0,3610000.0,5320000.0,190.0,18231.70731707317,900.0,38.47816688283615,2500.0,33.3765672287073,2025-01-11,R$ anunciados

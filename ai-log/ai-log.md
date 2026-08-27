@@ -1040,3 +1040,177 @@ O histórico incremental da Etapa 3 foi anexado ao arquivo consolidado. O commit
 ---
 
 _Fim do histórico no quarto ponto de backup de 26 de agosto de 2026, imediatamente antes do commit da Etapa 3._
+
+---
+
+## 20. Planejamento das Etapas 4 e 5
+
+### Usuário
+
+> siga com o plano de implementacao para a etapa 4 e 5 consecultivamente, aguarde minha analise para a execução do plano
+
+### Assistente — plano proposto
+
+Foi apresentado um plano integrado, sem iniciar a implementação, com a seguinte sequência:
+
+1. criar `notebooks/04_tese_compactos_centro.ipynb` e as saídas em `outputs/tese/`;
+2. definir compacto residencial como apartamento studio ou de 1 quarto;
+3. testar separadamente studios e imóveis de 1 quarto no Centro;
+4. comparar diária, preço de compra e retorno bruto indicativo com Meia Praia, Morretes, outros bairros e imóveis maiores no Centro;
+5. executar sensibilidades nos cortes de 7, 14 e 30 datas, tratamento P1–P99, quartis de diária e compra e ocupações hipotéticas de 40%, 55% e 70%;
+6. emitir um veredito direto para a tese;
+7. criar `notebooks/05_recomendacao_retorno.ipynb` e as saídas em `outputs/recomendacao/`;
+8. comparar os segmentos com amostra suficiente, aplicar custos de aquisição e operação, calcular retorno líquido e payback em cenários conservador, base e otimista;
+9. selecionar uma recomendação principal e, no máximo, uma alternativa;
+10. executar os notebooks em sequência, verificar a integridade de `data/` e atualizar apenas as Etapas 4 e 5 do `ROADMAP.md`.
+
+O plano manteve `README.md`, `ai-log.md` e commits fora da implementação até solicitação posterior.
+
+---
+
+## 21. Dúvida sobre a ausência de studios
+
+### Usuário
+
+> Antes de prosseguir com a implementação, os studios ficarem fora da validação não vai atrapalhar o resultado final?
+
+### Assistente — resposta
+
+Foi esclarecido que a ausência de studios não inviabilizaria toda a análise, mas limitaria o alcance da conclusão:
+
+- o componente de 1 quarto continuaria testável e poderia sustentar ou refutar essa parte da tese;
+- studios receberiam o resultado **inconclusivo por falta de amostra**, em vez de serem tratados como ruins ou removidos silenciosamente;
+- o resultado de imóveis de 1 quarto não seria generalizado para studios;
+- a recomendação final poderia escolher outro segmento caso os compactos não liderassem após custos e sensibilidades.
+
+---
+
+## 22. Aprovação e implementação das Etapas 4 e 5
+
+### Usuário
+
+> Entendi, pode prosseguir com a etapa 4 e 5 consecultivamente!
+
+### Assistente — atualização
+
+> Vou retomar exatamente do ponto aprovado: gerar os notebooks das Etapas 4 e 5, executar e revisar os resultados e só então marcar o `ROADMAP.md`. O `README.md`, os logs e os dados brutos permanecerão intocados nesta implementação.
+
+### Registro de execução — Etapa 4
+
+Foi criado e executado `notebooks/04_tese_compactos_centro.ipynb`. O notebook gerou:
+
+- `outputs/tese/comparacao_tese_airbnb.csv`;
+- `outputs/tese/comparacao_tese_vivareal.csv`;
+- `outputs/tese/sensibilidade_tese.csv`;
+- `outputs/tese/veredito_tese.md`;
+- três gráficos conclusivos sobre diária, compra e retorno bruto indicativo.
+
+Um erro de escape de quebra de linha nos rótulos foi identificado pela validação estática antes da execução e corrigido. Depois disso, o notebook executou integralmente.
+
+### Assistente — atualização
+
+> A Etapa 4 fechou com evidência clara: a tese foi refutada no componente testável. O Centro com 1 quarto tem boa eficiência bruta (10,04% indicativos), mas fica em 3º no cenário-base e lidera só 44,4% das sensibilidades; studios continuam inconclusivos por ausência de amostra. Os gráficos e os arquivos exportados estão coerentes, então seguirei para os custos e a seleção da Etapa 5.
+
+### Registro de análise — veredito da tese
+
+```text
+Centro | 1 quarto
+n Airbnb elegível = 78
+n VivaReal comparável = 22
+diária mediana anunciada = R$ 445/noite
+retorno bruto indicativo base = 10,04% a.a.
+posição no cenário-base = 3º
+liderança nas sensibilidades = 44,4%
+
+Studios no Centro
+n Airbnb elegível = 0
+n VivaReal residencial = 0
+resultado = inconclusivo
+
+Veredito geral = REFUTADA
+```
+
+O resultado favorável ao Centro de 1 quarto frente a imóveis maiores do próprio bairro não foi suficiente para demonstrar vantagem robusta contra todos os compactos comparáveis. Preços continuaram tratados como anunciados, e a ocupação como hipótese.
+
+### Registro de execução — Etapa 5
+
+Foi criado e executado `notebooks/05_recomendacao_retorno.ipynb`. A modelagem incluiu:
+
+- oito candidatos com ao menos 20 anúncios Airbnb elegíveis e 20 anúncios de venda;
+- ITBI geral de 1,5% em 2026;
+- estimativa de escritura e registro conforme tabela de emolumentos de 2026 do TJSC;
+- condomínio e IPTU baseados somente em valores positivos, com cobertura informada;
+- custos variáveis de 20%, 30% e 40%;
+- preparação/mobília/reforma de 3%, 5% e 8%;
+- ocupação hipotética de 40%, 55% e 70%;
+- cenários conservador, base e otimista;
+- 243 configurações de sensibilidade por candidato.
+
+A apresentação foi revisada para usar plurais corretos, “Meia Praia”, moeda em padrão brasileiro e a expressão “ocupação de equilíbrio operacional”, deixando explícito que essa métrica cobre despesas operacionais, mas não recupera o capital investido.
+
+### Registro de análise — recomendação
+
+```text
+Recomendação principal = Morretes | 2 quartos
+n Airbnb = 47
+n VivaReal = 1.037
+diária mediana anunciada = R$ 458/noite
+preço mediano anunciado = R$ 790.000
+retorno líquido estimado base = 7,01% a.a.
+retorno conservador = 2,66% a.a.
+retorno otimista = 14,50% a.a.
+payback base = 14,3 anos
+
+Meta assumida = 8% a.a.
+preço máximo estimado para a meta = R$ 691.861
+desconto necessário sobre a mediana = 12,4%
+
+Alternativa = Centro | 2 quartos
+retorno líquido estimado base = 5,91% a.a.
+```
+
+A decisão foi condicionada à negociação: se o preço não se aproximar do limite compatível com a meta assumida, a orientação é não comprar ainda ou reavaliar a alternativa. O retorno é estimado antes de imposto de renda e sem financiamento.
+
+### Registro de fontes externas
+
+- Situação do PL 776/2025 e referência da alíquota geral de ITBI: https://site.itapema.sc.leg.br/elegis2/detalhe-proposicao/cod_proposicao/24075
+- Tabela de emolumentos de 2026 do TJSC: https://www.tjsc.jus.br/documents/d/corregedoria-geral-da-justica/circularcgj643-2025-pdf
+
+### Registro de validação final
+
+Os notebooks `00_setup.ipynb` a `05_recomendacao_retorno.ipynb` foram executados em sequência sem erros. Foram validados:
+
+- 1.620 combinações de sensibilidade da tese;
+- 8 candidatos robustos;
+- 1.944 cenários de sensibilidade de retorno;
+- exatamente uma recomendação principal e, no máximo, uma alternativa;
+- ausência de erros armazenados nos notebooks;
+- preservação exata dos hashes SHA-256 dos cinco CSVs em `data/`.
+
+As caixas das Etapas 4 e 5 foram marcadas como concluídas no `ROADMAP.md`. `README.md`, `requirements.txt`, `index.html` e os dados brutos não foram alterados.
+
+### Assistente — resposta
+
+> Etapas 4 e 5 concluídas e validadas.
+>
+> A tese de compactos no Centro foi refutada no componente testável. Centro com 1 quarto alcançou retorno bruto indicativo de 10,04% a.a., mas ficou em 3º lugar e liderou somente 44,4% das sensibilidades. Studios no Centro permanecem inconclusivos, pois não há amostra residencial comparável.
+>
+> A recomendação principal é Morretes, 2 quartos, com retorno líquido estimado de 7,01% a.a. no cenário-base. Para atingir a meta assumida de 8% a.a., o preço máximo estimado é R$ 691.861, desconto de 12,4% sobre a mediana anunciada de R$ 790.000. A alternativa é Centro, 2 quartos, com retorno-base de 5,91% a.a.
+>
+> A cadeia completa de notebooks foi executada sem erros, os hashes dos dados foram preservados e nenhum commit foi criado naquele momento.
+
+---
+
+## 23. Solicitação de backup e commit das Etapas 4 e 5
+
+### Usuário
+
+> salve os novos logs em `ai-log.md`, e commite as alterações
+
+### Assistente — atualização
+
+> Vou localizar o último ponto registrado no `ai-log.md`, acrescentar somente as conversas posteriores e então revisar todo o diff antes de criar um único commit em português com as Etapas 4 e 5 e o novo backup do log.
+
+---
+
+_Fim do histórico no quinto ponto de backup de 27 de agosto de 2026, imediatamente antes do commit das Etapas 4 e 5._

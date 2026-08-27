@@ -1,0 +1,1621 @@
+segmento,rotulo,corte_datas,tratamento_extremos,metrica_diaria,metrica_compra,cenario_ocupacao,ocupacao_assumida,anuncios_airbnb,anuncios_vivareal,diaria_usada,preco_compra_usado,retorno_bruto_indicativo_percentual,comparavel_ranqueavel,ranking_no_cenario
+centro_studio,Centro | studio,7,completa,p25,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p25,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p25,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p25,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p25,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p25,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p25,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p25,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p25,p75,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,mediana,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,mediana,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,mediana,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,mediana,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,mediana,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,mediana,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,mediana,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,mediana,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,mediana,p75,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p75,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p75,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p75,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p75,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p75,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p75,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p75,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p75,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,completa,p75,p75,otimista,0.7,0,0,,,,False,
+centro_1q,Centro | 1 quarto,7,completa,p25,p25,conservador,0.4,78,22,376.25,652500.0,8.418773946360153,True,1
+centro_1q,Centro | 1 quarto,7,completa,p25,p25,base,0.55,78,22,376.25,652500.0,11.575814176245212,True,1
+centro_1q,Centro | 1 quarto,7,completa,p25,p25,otimista,0.7,78,22,376.25,652500.0,14.732854406130269,True,1
+centro_1q,Centro | 1 quarto,7,completa,p25,mediana,conservador,0.4,78,22,376.25,890000.0,6.172191011235955,True,3
+centro_1q,Centro | 1 quarto,7,completa,p25,mediana,base,0.55,78,22,376.25,890000.0,8.486762640449438,True,3
+centro_1q,Centro | 1 quarto,7,completa,p25,mediana,otimista,0.7,78,22,376.25,890000.0,10.80133426966292,True,3
+centro_1q,Centro | 1 quarto,7,completa,p25,p75,conservador,0.4,78,22,376.25,980000.0,5.605357142857144,True,1
+centro_1q,Centro | 1 quarto,7,completa,p25,p75,base,0.55,78,22,376.25,980000.0,7.707366071428572,True,1
+centro_1q,Centro | 1 quarto,7,completa,p25,p75,otimista,0.7,78,22,376.25,980000.0,9.809375,True,1
+centro_1q,Centro | 1 quarto,7,completa,mediana,p25,conservador,0.4,78,22,445.0,652500.0,9.957088122605363,True,1
+centro_1q,Centro | 1 quarto,7,completa,mediana,p25,base,0.55,78,22,445.0,652500.0,13.690996168582375,True,1
+centro_1q,Centro | 1 quarto,7,completa,mediana,p25,otimista,0.7,78,22,445.0,652500.0,17.424904214559387,True,1
+centro_1q,Centro | 1 quarto,7,completa,mediana,mediana,conservador,0.4,78,22,445.0,890000.0,7.3,True,4
+centro_1q,Centro | 1 quarto,7,completa,mediana,mediana,base,0.55,78,22,445.0,890000.0,10.037500000000001,True,4
+centro_1q,Centro | 1 quarto,7,completa,mediana,mediana,otimista,0.7,78,22,445.0,890000.0,12.775,True,4
+centro_1q,Centro | 1 quarto,7,completa,mediana,p75,conservador,0.4,78,22,445.0,980000.0,6.6295918367346935,True,1
+centro_1q,Centro | 1 quarto,7,completa,mediana,p75,base,0.55,78,22,445.0,980000.0,9.115688775510204,True,1
+centro_1q,Centro | 1 quarto,7,completa,mediana,p75,otimista,0.7,78,22,445.0,980000.0,11.601785714285715,True,1
+centro_1q,Centro | 1 quarto,7,completa,p75,p25,conservador,0.4,78,22,523.999975,652500.0,11.724750398467433,True,2
+centro_1q,Centro | 1 quarto,7,completa,p75,p25,base,0.55,78,22,523.999975,652500.0,16.12153179789272,True,2
+centro_1q,Centro | 1 quarto,7,completa,p75,p25,otimista,0.7,78,22,523.999975,652500.0,20.518313197318005,True,2
+centro_1q,Centro | 1 quarto,7,completa,p75,mediana,conservador,0.4,78,22,523.999975,890000.0,8.595954646067415,True,4
+centro_1q,Centro | 1 quarto,7,completa,p75,mediana,base,0.55,78,22,523.999975,890000.0,11.819437638342697,True,4
+centro_1q,Centro | 1 quarto,7,completa,p75,mediana,otimista,0.7,78,22,523.999975,890000.0,15.042920630617976,True,4
+centro_1q,Centro | 1 quarto,7,completa,p75,p75,conservador,0.4,78,22,523.999975,980000.0,7.806530239795919,True,2
+centro_1q,Centro | 1 quarto,7,completa,p75,p75,base,0.55,78,22,523.999975,980000.0,10.733979079719386,True,2
+centro_1q,Centro | 1 quarto,7,completa,p75,p75,otimista,0.7,78,22,523.999975,980000.0,13.661427919642858,True,2
+meiapraia_studio,Meia Praia | studio,7,completa,p25,p25,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p25,p25,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p25,p25,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p25,mediana,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p25,mediana,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p25,mediana,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p25,p75,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p25,p75,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p25,p75,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,mediana,p25,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,mediana,p25,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,mediana,p25,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,mediana,mediana,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,mediana,mediana,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,mediana,mediana,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,mediana,p75,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,mediana,p75,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,mediana,p75,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p75,p25,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p75,p25,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p75,p25,otimista,0.7,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p75,mediana,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p75,mediana,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p75,mediana,otimista,0.7,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p75,p75,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p75,p75,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,completa,p75,p75,otimista,0.7,8,0,542.5,,,False,
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p25,p25,conservador,0.4,20,58,373.5,757000.0,7.203566710700132,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p25,p25,base,0.55,20,58,373.5,757000.0,9.90490422721268,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p25,p25,otimista,0.7,20,58,373.5,757000.0,12.60624174372523,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p25,mediana,conservador,0.4,20,58,373.5,877500.0,6.214358974358975,True,2
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p25,mediana,base,0.55,20,58,373.5,877500.0,8.54474358974359,True,2
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p25,mediana,otimista,0.7,20,58,373.5,877500.0,10.875128205128206,True,2
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p25,p75,conservador,0.4,20,58,373.5,1003755.25,5.432698857614941,True,2
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p25,p75,base,0.55,20,58,373.5,1003755.25,7.469960929220544,True,2
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p25,p75,otimista,0.7,20,58,373.5,1003755.25,9.507223000826148,True,2
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,mediana,p25,conservador,0.4,20,58,441.0,757000.0,8.505416116248348,True,4
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,mediana,p25,base,0.55,20,58,441.0,757000.0,11.69494715984148,True,4
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,mediana,p25,otimista,0.7,20,58,441.0,757000.0,14.88447820343461,True,4
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,mediana,mediana,conservador,0.4,20,58,441.0,877500.0,7.337435897435897,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,mediana,mediana,base,0.55,20,58,441.0,877500.0,10.08897435897436,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,mediana,mediana,otimista,0.7,20,58,441.0,877500.0,12.84051282051282,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,mediana,p75,conservador,0.4,20,58,441.0,1003755.25,6.414511904171858,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,mediana,p75,base,0.55,20,58,441.0,1003755.25,8.819953868236306,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,mediana,p75,otimista,0.7,20,58,441.0,1003755.25,11.225395832300752,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p75,p25,conservador,0.4,20,58,523.25,757000.0,10.091743725231176,True,4
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p75,p25,base,0.55,20,58,523.25,757000.0,13.87614762219287,True,4
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p75,p25,otimista,0.7,20,58,523.25,757000.0,17.66055151915456,True,4
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p75,mediana,conservador,0.4,20,58,523.25,877500.0,8.705925925925925,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p75,mediana,base,0.55,20,58,523.25,877500.0,11.97064814814815,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p75,mediana,otimista,0.7,20,58,523.25,877500.0,15.235370370370372,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p75,p75,conservador,0.4,20,58,523.25,1003755.25,7.610869283124547,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p75,p75,base,0.55,20,58,523.25,1003755.25,10.464945264296253,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,completa,p75,p75,otimista,0.7,20,58,523.25,1003755.25,13.319021245467958,True,3
+morretes_1q,Morretes | 1 quarto,7,completa,p25,p25,conservador,0.4,4,50,306.25,446750.0,10.008393956351428,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p25,p25,base,0.55,4,50,306.25,446750.0,13.761541689983215,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p25,p25,otimista,0.7,4,50,306.25,446750.0,17.514689423615,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p25,mediana,conservador,0.4,4,50,306.25,624500.0,7.15972778222578,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p25,mediana,base,0.55,4,50,306.25,624500.0,9.84462570056045,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p25,mediana,otimista,0.7,4,50,306.25,624500.0,12.529523618895116,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p25,p75,conservador,0.4,4,50,306.25,750000.0,5.961666666666667,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p25,p75,base,0.55,4,50,306.25,750000.0,8.197291666666667,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p25,p75,otimista,0.7,4,50,306.25,750000.0,10.432916666666667,False,
+morretes_1q,Morretes | 1 quarto,7,completa,mediana,p25,conservador,0.4,4,50,415.0,446750.0,13.562395075545608,False,
+morretes_1q,Morretes | 1 quarto,7,completa,mediana,p25,base,0.55,4,50,415.0,446750.0,18.64829322887521,False,
+morretes_1q,Morretes | 1 quarto,7,completa,mediana,p25,otimista,0.7,4,50,415.0,446750.0,23.734191382204813,False,
+morretes_1q,Morretes | 1 quarto,7,completa,mediana,mediana,conservador,0.4,4,50,415.0,624500.0,9.702161729383507,False,
+morretes_1q,Morretes | 1 quarto,7,completa,mediana,mediana,base,0.55,4,50,415.0,624500.0,13.340472377902321,False,
+morretes_1q,Morretes | 1 quarto,7,completa,mediana,mediana,otimista,0.7,4,50,415.0,624500.0,16.978783026421137,False,
+morretes_1q,Morretes | 1 quarto,7,completa,mediana,p75,conservador,0.4,4,50,415.0,750000.0,8.078666666666667,False,
+morretes_1q,Morretes | 1 quarto,7,completa,mediana,p75,base,0.55,4,50,415.0,750000.0,11.108166666666666,False,
+morretes_1q,Morretes | 1 quarto,7,completa,mediana,p75,otimista,0.7,4,50,415.0,750000.0,14.137666666666668,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p75,p25,conservador,0.4,4,50,491.25,446750.0,16.054280917739227,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p75,p25,base,0.55,4,50,491.25,446750.0,22.074636261891442,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p75,p25,otimista,0.7,4,50,491.25,446750.0,28.094991606043646,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p75,mediana,conservador,0.4,4,50,491.25,624500.0,11.484787830264212,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p75,mediana,base,0.55,4,50,491.25,624500.0,15.791583266613292,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p75,mediana,otimista,0.7,4,50,491.25,624500.0,20.098378702962368,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p75,p75,conservador,0.4,4,50,491.25,750000.0,9.563,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p75,p75,base,0.55,4,50,491.25,750000.0,13.149125000000003,False,
+morretes_1q,Morretes | 1 quarto,7,completa,p75,p75,otimista,0.7,4,50,491.25,750000.0,16.735249999999997,False,
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p25,p25,conservador,0.4,36,141,330.6,600000.0,8.0446,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p25,p25,base,0.55,36,141,330.6,600000.0,11.061325000000002,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p25,p25,otimista,0.7,36,141,330.6,600000.0,14.078050000000001,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p25,mediana,conservador,0.4,36,141,330.6,750000.0,6.4356800000000005,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p25,mediana,base,0.55,36,141,330.6,750000.0,8.849060000000001,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p25,mediana,otimista,0.7,36,141,330.6,750000.0,11.26244,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p25,p75,conservador,0.4,36,141,330.6,890000.0,5.42332584269663,True,3
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p25,p75,base,0.55,36,141,330.6,890000.0,7.457073033707866,True,3
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p25,p75,otimista,0.7,36,141,330.6,890000.0,9.490820224719101,True,3
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,mediana,p25,conservador,0.4,36,141,400.0,600000.0,9.733333333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,mediana,p25,base,0.55,36,141,400.0,600000.0,13.383333333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,mediana,p25,otimista,0.7,36,141,400.0,600000.0,17.033333333333335,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,mediana,mediana,conservador,0.4,36,141,400.0,750000.0,7.786666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,mediana,mediana,base,0.55,36,141,400.0,750000.0,10.706666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,mediana,mediana,otimista,0.7,36,141,400.0,750000.0,13.626666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,mediana,p75,conservador,0.4,36,141,400.0,890000.0,6.561797752808989,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,mediana,p75,base,0.55,36,141,400.0,890000.0,9.022471910112358,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,mediana,p75,otimista,0.7,36,141,400.0,890000.0,11.483146067415731,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p75,p25,conservador,0.4,36,141,518.25,600000.0,12.610750000000001,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p75,p25,base,0.55,36,141,518.25,600000.0,17.33978125,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p75,p25,otimista,0.7,36,141,518.25,600000.0,22.0688125,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p75,mediana,conservador,0.4,36,141,518.25,750000.0,10.0886,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p75,mediana,base,0.55,36,141,518.25,750000.0,13.871825000000001,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p75,mediana,otimista,0.7,36,141,518.25,750000.0,17.65505,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p75,p75,conservador,0.4,36,141,518.25,890000.0,8.501629213483145,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p75,p75,base,0.55,36,141,518.25,890000.0,11.689740168539327,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,completa,p75,p75,otimista,0.7,36,141,518.25,890000.0,14.877851123595507,True,1
+centro_2q,Centro | 2 quartos,7,completa,p25,p25,conservador,0.4,65,89,370.0,889000.0,6.0764904386951635,True,4
+centro_2q,Centro | 2 quartos,7,completa,p25,p25,base,0.55,65,89,370.0,889000.0,8.355174353205848,True,4
+centro_2q,Centro | 2 quartos,7,completa,p25,p25,otimista,0.7,65,89,370.0,889000.0,10.633858267716535,True,4
+centro_2q,Centro | 2 quartos,7,completa,p25,mediana,conservador,0.4,65,89,370.0,1150000.0,4.697391304347827,True,4
+centro_2q,Centro | 2 quartos,7,completa,p25,mediana,base,0.55,65,89,370.0,1150000.0,6.458913043478261,True,4
+centro_2q,Centro | 2 quartos,7,completa,p25,mediana,otimista,0.7,65,89,370.0,1150000.0,8.220434782608695,True,4
+centro_2q,Centro | 2 quartos,7,completa,p25,p75,conservador,0.4,65,89,370.0,1550000.0,3.4851612903225804,True,4
+centro_2q,Centro | 2 quartos,7,completa,p25,p75,base,0.55,65,89,370.0,1550000.0,4.792096774193548,True,4
+centro_2q,Centro | 2 quartos,7,completa,p25,p75,otimista,0.7,65,89,370.0,1550000.0,6.099032258064517,True,4
+centro_2q,Centro | 2 quartos,7,completa,mediana,p25,conservador,0.4,65,89,580.0,889000.0,9.525309336332958,True,3
+centro_2q,Centro | 2 quartos,7,completa,mediana,p25,base,0.55,65,89,580.0,889000.0,13.09730033745782,True,3
+centro_2q,Centro | 2 quartos,7,completa,mediana,p25,otimista,0.7,65,89,580.0,889000.0,16.669291338582678,True,3
+centro_2q,Centro | 2 quartos,7,completa,mediana,mediana,conservador,0.4,65,89,580.0,1150000.0,7.363478260869565,True,2
+centro_2q,Centro | 2 quartos,7,completa,mediana,mediana,base,0.55,65,89,580.0,1150000.0,10.124782608695654,True,2
+centro_2q,Centro | 2 quartos,7,completa,mediana,mediana,otimista,0.7,65,89,580.0,1150000.0,12.886086956521739,True,2
+centro_2q,Centro | 2 quartos,7,completa,mediana,p75,conservador,0.4,65,89,580.0,1550000.0,5.4632258064516135,True,4
+centro_2q,Centro | 2 quartos,7,completa,mediana,p75,base,0.55,65,89,580.0,1550000.0,7.511935483870968,True,4
+centro_2q,Centro | 2 quartos,7,completa,mediana,p75,otimista,0.7,65,89,580.0,1550000.0,9.560645161290322,True,4
+centro_2q,Centro | 2 quartos,7,completa,p75,p25,conservador,0.4,65,89,713.0,889000.0,11.709561304836894,True,3
+centro_2q,Centro | 2 quartos,7,completa,p75,p25,base,0.55,65,89,713.0,889000.0,16.10064679415073,True,3
+centro_2q,Centro | 2 quartos,7,completa,p75,p25,otimista,0.7,65,89,713.0,889000.0,20.491732283464568,True,3
+centro_2q,Centro | 2 quartos,7,completa,p75,mediana,conservador,0.4,65,89,713.0,1150000.0,9.052,True,2
+centro_2q,Centro | 2 quartos,7,completa,p75,mediana,base,0.55,65,89,713.0,1150000.0,12.4465,True,2
+centro_2q,Centro | 2 quartos,7,completa,p75,mediana,otimista,0.7,65,89,713.0,1150000.0,15.841,True,2
+centro_2q,Centro | 2 quartos,7,completa,p75,p75,conservador,0.4,65,89,713.0,1550000.0,6.715999999999999,True,4
+centro_2q,Centro | 2 quartos,7,completa,p75,p75,base,0.55,65,89,713.0,1550000.0,9.234499999999999,True,4
+centro_2q,Centro | 2 quartos,7,completa,p75,p75,otimista,0.7,65,89,713.0,1550000.0,11.753,True,4
+centro_3q,Centro | 3 quartos,7,completa,p25,p25,conservador,0.4,45,437,523.0,1750000.0,4.363314285714286,True,6
+centro_3q,Centro | 3 quartos,7,completa,p25,p25,base,0.55,45,437,523.0,1750000.0,5.999557142857144,True,6
+centro_3q,Centro | 3 quartos,7,completa,p25,p25,otimista,0.7,45,437,523.0,1750000.0,7.6358,True,6
+centro_3q,Centro | 3 quartos,7,completa,p25,mediana,conservador,0.4,45,437,523.0,2100000.0,3.6360952380952383,True,5
+centro_3q,Centro | 3 quartos,7,completa,p25,mediana,base,0.55,45,437,523.0,2100000.0,4.9996309523809535,True,5
+centro_3q,Centro | 3 quartos,7,completa,p25,mediana,otimista,0.7,45,437,523.0,2100000.0,6.363166666666667,True,5
+centro_3q,Centro | 3 quartos,7,completa,p25,p75,conservador,0.4,45,437,523.0,2790000.0,2.736845878136201,True,5
+centro_3q,Centro | 3 quartos,7,completa,p25,p75,base,0.55,45,437,523.0,2790000.0,3.763163082437276,True,5
+centro_3q,Centro | 3 quartos,7,completa,p25,p75,otimista,0.7,45,437,523.0,2790000.0,4.7894802867383515,True,5
+centro_3q,Centro | 3 quartos,7,completa,mediana,p25,conservador,0.4,45,437,790.0,1750000.0,6.590857142857143,True,5
+centro_3q,Centro | 3 quartos,7,completa,mediana,p25,base,0.55,45,437,790.0,1750000.0,9.06242857142857,True,5
+centro_3q,Centro | 3 quartos,7,completa,mediana,p25,otimista,0.7,45,437,790.0,1750000.0,11.533999999999999,True,5
+centro_3q,Centro | 3 quartos,7,completa,mediana,mediana,conservador,0.4,45,437,790.0,2100000.0,5.492380952380952,True,5
+centro_3q,Centro | 3 quartos,7,completa,mediana,mediana,base,0.55,45,437,790.0,2100000.0,7.55202380952381,True,5
+centro_3q,Centro | 3 quartos,7,completa,mediana,mediana,otimista,0.7,45,437,790.0,2100000.0,9.611666666666666,True,5
+centro_3q,Centro | 3 quartos,7,completa,mediana,p75,conservador,0.4,45,437,790.0,2790000.0,4.13405017921147,True,5
+centro_3q,Centro | 3 quartos,7,completa,mediana,p75,base,0.55,45,437,790.0,2790000.0,5.6843189964157705,True,5
+centro_3q,Centro | 3 quartos,7,completa,mediana,p75,otimista,0.7,45,437,790.0,2790000.0,7.234587813620072,True,5
+centro_3q,Centro | 3 quartos,7,completa,p75,p25,conservador,0.4,45,437,850.0,1750000.0,7.091428571428571,True,6
+centro_3q,Centro | 3 quartos,7,completa,p75,p25,base,0.55,45,437,850.0,1750000.0,9.750714285714286,True,6
+centro_3q,Centro | 3 quartos,7,completa,p75,p25,otimista,0.7,45,437,850.0,1750000.0,12.41,True,6
+centro_3q,Centro | 3 quartos,7,completa,p75,mediana,conservador,0.4,45,437,850.0,2100000.0,5.90952380952381,True,6
+centro_3q,Centro | 3 quartos,7,completa,p75,mediana,base,0.55,45,437,850.0,2100000.0,8.125595238095238,True,6
+centro_3q,Centro | 3 quartos,7,completa,p75,mediana,otimista,0.7,45,437,850.0,2100000.0,10.341666666666667,True,6
+centro_3q,Centro | 3 quartos,7,completa,p75,p75,conservador,0.4,45,437,850.0,2790000.0,4.448028673835125,True,5
+centro_3q,Centro | 3 quartos,7,completa,p75,p75,base,0.55,45,437,850.0,2790000.0,6.116039426523297,True,5
+centro_3q,Centro | 3 quartos,7,completa,p75,p75,otimista,0.7,45,437,850.0,2790000.0,7.78405017921147,True,5
+centro_4mais,Centro | 4+ quartos,7,completa,p25,p25,conservador,0.4,5,434,700.0,2800000.0,3.65,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p25,p25,base,0.55,5,434,700.0,2800000.0,5.018750000000001,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p25,p25,otimista,0.7,5,434,700.0,2800000.0,6.3875,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p25,mediana,conservador,0.4,5,434,700.0,3900000.0,2.6205128205128205,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p25,mediana,base,0.55,5,434,700.0,3900000.0,3.6032051282051283,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p25,mediana,otimista,0.7,5,434,700.0,3900000.0,4.5858974358974365,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p25,p75,conservador,0.4,5,434,700.0,6499950.0,1.5723197870752852,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p25,p75,base,0.55,5,434,700.0,6499950.0,2.1619397072285174,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p25,p75,otimista,0.7,5,434,700.0,6499950.0,2.751559627381749,False,
+centro_4mais,Centro | 4+ quartos,7,completa,mediana,p25,conservador,0.4,5,434,790.0,2800000.0,4.119285714285715,False,
+centro_4mais,Centro | 4+ quartos,7,completa,mediana,p25,base,0.55,5,434,790.0,2800000.0,5.664017857142857,False,
+centro_4mais,Centro | 4+ quartos,7,completa,mediana,p25,otimista,0.7,5,434,790.0,2800000.0,7.20875,False,
+centro_4mais,Centro | 4+ quartos,7,completa,mediana,mediana,conservador,0.4,5,434,790.0,3900000.0,2.9574358974358974,False,
+centro_4mais,Centro | 4+ quartos,7,completa,mediana,mediana,base,0.55,5,434,790.0,3900000.0,4.066474358974359,False,
+centro_4mais,Centro | 4+ quartos,7,completa,mediana,mediana,otimista,0.7,5,434,790.0,3900000.0,5.175512820512821,False,
+centro_4mais,Centro | 4+ quartos,7,completa,mediana,p75,conservador,0.4,5,434,790.0,6499950.0,1.7744751882706788,False,
+centro_4mais,Centro | 4+ quartos,7,completa,mediana,p75,base,0.55,5,434,790.0,6499950.0,2.4399033838721835,False,
+centro_4mais,Centro | 4+ quartos,7,completa,mediana,p75,otimista,0.7,5,434,790.0,6499950.0,3.105331579473688,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p75,p25,conservador,0.4,5,434,850.0,2800000.0,4.432142857142858,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p75,p25,base,0.55,5,434,850.0,2800000.0,6.094196428571428,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p75,p25,otimista,0.7,5,434,850.0,2800000.0,7.7562500000000005,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p75,mediana,conservador,0.4,5,434,850.0,3900000.0,3.182051282051282,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p75,mediana,base,0.55,5,434,850.0,3900000.0,4.3753205128205135,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p75,mediana,otimista,0.7,5,434,850.0,3900000.0,5.568589743589744,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p75,p75,conservador,0.4,5,434,850.0,6499950.0,1.909245455734275,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p75,p75,base,0.55,5,434,850.0,6499950.0,2.625212501634628,False,
+centro_4mais,Centro | 4+ quartos,7,completa,p75,p75,otimista,0.7,5,434,850.0,6499950.0,3.341179547534981,False,
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p25,p25,conservador,0.4,72,2313,800.0,2665118.0,4.382545163103472,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p25,p25,base,0.55,72,2313,800.0,2665118.0,6.025999599267275,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p25,p25,otimista,0.7,72,2313,800.0,2665118.0,7.669454035431077,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p25,mediana,conservador,0.4,72,2313,800.0,3610000.0,3.2354570637119116,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p25,mediana,base,0.55,72,2313,800.0,3610000.0,4.448753462603878,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p25,mediana,otimista,0.7,72,2313,800.0,3610000.0,5.662049861495845,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p25,p75,conservador,0.4,72,2313,800.0,5320000.0,2.1954887218045114,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p25,p75,base,0.55,72,2313,800.0,5320000.0,3.018796992481203,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p25,p75,otimista,0.7,72,2313,800.0,5320000.0,3.8421052631578947,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,mediana,p25,conservador,0.4,72,2313,987.5,2665118.0,5.4097041857058485,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,mediana,p25,base,0.55,72,2313,987.5,2665118.0,7.4383432553455435,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,mediana,p25,otimista,0.7,72,2313,987.5,2665118.0,9.466982324985235,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,mediana,mediana,conservador,0.4,72,2313,987.5,3610000.0,3.9937673130193905,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,mediana,mediana,base,0.55,72,2313,987.5,3610000.0,5.491430055401663,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,mediana,mediana,otimista,0.7,72,2313,987.5,3610000.0,6.9890927977839326,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,mediana,p75,conservador,0.4,72,2313,987.5,5320000.0,2.7100563909774436,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,mediana,p75,base,0.55,72,2313,987.5,5320000.0,3.7263275375939853,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,mediana,p75,otimista,0.7,72,2313,987.5,5320000.0,4.742598684210526,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p75,p25,conservador,0.4,72,2313,1581.5,2665118.0,8.663743969310177,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p75,p25,base,0.55,72,2313,1581.5,2665118.0,11.912647957801493,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p75,p25,otimista,0.7,72,2313,1581.5,2665118.0,15.161551946292809,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p75,mediana,conservador,0.4,72,2313,1581.5,3610000.0,6.396094182825484,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p75,mediana,base,0.55,72,2313,1581.5,3610000.0,8.79462950138504,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p75,mediana,otimista,0.7,72,2313,1581.5,3610000.0,11.193164819944599,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p75,p75,conservador,0.4,72,2313,1581.5,5320000.0,4.3402067669172935,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p75,p75,base,0.55,72,2313,1581.5,5320000.0,5.967784304511278,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,completa,p75,p75,otimista,0.7,72,2313,1581.5,5320000.0,7.595361842105264,True,6
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p25,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p25,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p25,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p25,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p25,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p25,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p25,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p25,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p25,p75,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,mediana,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,mediana,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,mediana,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,mediana,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,mediana,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,mediana,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,mediana,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,mediana,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,mediana,p75,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p75,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p75,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p75,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p75,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p75,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p75,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p75,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p75,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,7,diagnostico_p1_p99,p75,p75,otimista,0.7,0,0,,,,False,
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p25,p25,conservador,0.4,78,22,376.25,652500.0,8.418773946360153,True,1
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p25,p25,base,0.55,78,22,376.25,652500.0,11.575814176245212,True,1
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p25,p25,otimista,0.7,78,22,376.25,652500.0,14.732854406130269,True,1
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p25,mediana,conservador,0.4,78,22,376.25,890000.0,6.172191011235955,True,3
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p25,mediana,base,0.55,78,22,376.25,890000.0,8.486762640449438,True,3
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p25,mediana,otimista,0.7,78,22,376.25,890000.0,10.80133426966292,True,3
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p25,p75,conservador,0.4,78,22,376.25,980000.0,5.605357142857144,True,1
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p25,p75,base,0.55,78,22,376.25,980000.0,7.707366071428572,True,1
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p25,p75,otimista,0.7,78,22,376.25,980000.0,9.809375,True,1
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,mediana,p25,conservador,0.4,78,22,445.0,652500.0,9.957088122605363,True,1
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,mediana,p25,base,0.55,78,22,445.0,652500.0,13.690996168582375,True,1
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,mediana,p25,otimista,0.7,78,22,445.0,652500.0,17.424904214559387,True,1
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,mediana,mediana,conservador,0.4,78,22,445.0,890000.0,7.3,True,4
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,mediana,mediana,base,0.55,78,22,445.0,890000.0,10.037500000000001,True,4
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,mediana,mediana,otimista,0.7,78,22,445.0,890000.0,12.775,True,4
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,mediana,p75,conservador,0.4,78,22,445.0,980000.0,6.6295918367346935,True,1
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,mediana,p75,base,0.55,78,22,445.0,980000.0,9.115688775510204,True,1
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,mediana,p75,otimista,0.7,78,22,445.0,980000.0,11.601785714285715,True,1
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p75,p25,conservador,0.4,78,22,523.999975,652500.0,11.724750398467433,True,2
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p75,p25,base,0.55,78,22,523.999975,652500.0,16.12153179789272,True,2
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p75,p25,otimista,0.7,78,22,523.999975,652500.0,20.518313197318005,True,2
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p75,mediana,conservador,0.4,78,22,523.999975,890000.0,8.595954646067415,True,4
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p75,mediana,base,0.55,78,22,523.999975,890000.0,11.819437638342697,True,4
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p75,mediana,otimista,0.7,78,22,523.999975,890000.0,15.042920630617976,True,4
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p75,p75,conservador,0.4,78,22,523.999975,980000.0,7.806530239795919,True,2
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p75,p75,base,0.55,78,22,523.999975,980000.0,10.733979079719386,True,2
+centro_1q,Centro | 1 quarto,7,diagnostico_p1_p99,p75,p75,otimista,0.7,78,22,523.999975,980000.0,13.661427919642858,True,2
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p25,p25,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p25,p25,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p25,p25,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p25,mediana,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p25,mediana,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p25,mediana,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p25,p75,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p25,p75,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p25,p75,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,mediana,p25,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,mediana,p25,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,mediana,p25,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,mediana,mediana,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,mediana,mediana,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,mediana,mediana,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,mediana,p75,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,mediana,p75,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,mediana,p75,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p75,p25,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p75,p25,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p75,p25,otimista,0.7,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p75,mediana,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p75,mediana,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p75,mediana,otimista,0.7,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p75,p75,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p75,p75,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,7,diagnostico_p1_p99,p75,p75,otimista,0.7,8,0,542.5,,,False,
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p25,p25,conservador,0.4,20,58,373.5,757000.0,7.203566710700132,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p25,p25,base,0.55,20,58,373.5,757000.0,9.90490422721268,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p25,p25,otimista,0.7,20,58,373.5,757000.0,12.60624174372523,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p25,mediana,conservador,0.4,20,58,373.5,877500.0,6.214358974358975,True,2
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p25,mediana,base,0.55,20,58,373.5,877500.0,8.54474358974359,True,2
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p25,mediana,otimista,0.7,20,58,373.5,877500.0,10.875128205128206,True,2
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p25,p75,conservador,0.4,20,58,373.5,1003755.25,5.432698857614941,True,2
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p25,p75,base,0.55,20,58,373.5,1003755.25,7.469960929220544,True,2
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p25,p75,otimista,0.7,20,58,373.5,1003755.25,9.507223000826148,True,2
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,mediana,p25,conservador,0.4,20,58,441.0,757000.0,8.505416116248348,True,4
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,mediana,p25,base,0.55,20,58,441.0,757000.0,11.69494715984148,True,4
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,mediana,p25,otimista,0.7,20,58,441.0,757000.0,14.88447820343461,True,4
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,mediana,mediana,conservador,0.4,20,58,441.0,877500.0,7.337435897435897,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,mediana,mediana,base,0.55,20,58,441.0,877500.0,10.08897435897436,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,mediana,mediana,otimista,0.7,20,58,441.0,877500.0,12.84051282051282,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,mediana,p75,conservador,0.4,20,58,441.0,1003755.25,6.414511904171858,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,mediana,p75,base,0.55,20,58,441.0,1003755.25,8.819953868236306,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,mediana,p75,otimista,0.7,20,58,441.0,1003755.25,11.225395832300752,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p75,p25,conservador,0.4,20,58,523.25,757000.0,10.091743725231176,True,4
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p75,p25,base,0.55,20,58,523.25,757000.0,13.87614762219287,True,4
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p75,p25,otimista,0.7,20,58,523.25,757000.0,17.66055151915456,True,4
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p75,mediana,conservador,0.4,20,58,523.25,877500.0,8.705925925925925,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p75,mediana,base,0.55,20,58,523.25,877500.0,11.97064814814815,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p75,mediana,otimista,0.7,20,58,523.25,877500.0,15.235370370370372,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p75,p75,conservador,0.4,20,58,523.25,1003755.25,7.610869283124547,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p75,p75,base,0.55,20,58,523.25,1003755.25,10.464945264296253,True,3
+meiapraia_1q,Meia Praia | 1 quarto,7,diagnostico_p1_p99,p75,p75,otimista,0.7,20,58,523.25,1003755.25,13.319021245467958,True,3
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p25,p25,conservador,0.4,4,50,306.25,446750.0,10.008393956351428,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p25,p25,base,0.55,4,50,306.25,446750.0,13.761541689983215,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p25,p25,otimista,0.7,4,50,306.25,446750.0,17.514689423615,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p25,mediana,conservador,0.4,4,50,306.25,624500.0,7.15972778222578,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p25,mediana,base,0.55,4,50,306.25,624500.0,9.84462570056045,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p25,mediana,otimista,0.7,4,50,306.25,624500.0,12.529523618895116,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p25,p75,conservador,0.4,4,50,306.25,750000.0,5.961666666666667,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p25,p75,base,0.55,4,50,306.25,750000.0,8.197291666666667,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p25,p75,otimista,0.7,4,50,306.25,750000.0,10.432916666666667,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,mediana,p25,conservador,0.4,4,50,415.0,446750.0,13.562395075545608,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,mediana,p25,base,0.55,4,50,415.0,446750.0,18.64829322887521,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,mediana,p25,otimista,0.7,4,50,415.0,446750.0,23.734191382204813,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,mediana,mediana,conservador,0.4,4,50,415.0,624500.0,9.702161729383507,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,mediana,mediana,base,0.55,4,50,415.0,624500.0,13.340472377902321,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,mediana,mediana,otimista,0.7,4,50,415.0,624500.0,16.978783026421137,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,mediana,p75,conservador,0.4,4,50,415.0,750000.0,8.078666666666667,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,mediana,p75,base,0.55,4,50,415.0,750000.0,11.108166666666666,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,mediana,p75,otimista,0.7,4,50,415.0,750000.0,14.137666666666668,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p75,p25,conservador,0.4,4,50,491.25,446750.0,16.054280917739227,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p75,p25,base,0.55,4,50,491.25,446750.0,22.074636261891442,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p75,p25,otimista,0.7,4,50,491.25,446750.0,28.094991606043646,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p75,mediana,conservador,0.4,4,50,491.25,624500.0,11.484787830264212,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p75,mediana,base,0.55,4,50,491.25,624500.0,15.791583266613292,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p75,mediana,otimista,0.7,4,50,491.25,624500.0,20.098378702962368,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p75,p75,conservador,0.4,4,50,491.25,750000.0,9.563,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p75,p75,base,0.55,4,50,491.25,750000.0,13.149125000000003,False,
+morretes_1q,Morretes | 1 quarto,7,diagnostico_p1_p99,p75,p75,otimista,0.7,4,50,491.25,750000.0,16.735249999999997,False,
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p25,p25,conservador,0.4,36,141,330.6,600000.0,8.0446,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p25,p25,base,0.55,36,141,330.6,600000.0,11.061325000000002,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p25,p25,otimista,0.7,36,141,330.6,600000.0,14.078050000000001,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p25,mediana,conservador,0.4,36,141,330.6,750000.0,6.4356800000000005,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p25,mediana,base,0.55,36,141,330.6,750000.0,8.849060000000001,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p25,mediana,otimista,0.7,36,141,330.6,750000.0,11.26244,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p25,p75,conservador,0.4,36,141,330.6,890000.0,5.42332584269663,True,3
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p25,p75,base,0.55,36,141,330.6,890000.0,7.457073033707866,True,3
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p25,p75,otimista,0.7,36,141,330.6,890000.0,9.490820224719101,True,3
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,mediana,p25,conservador,0.4,36,141,400.0,600000.0,9.733333333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,mediana,p25,base,0.55,36,141,400.0,600000.0,13.383333333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,mediana,p25,otimista,0.7,36,141,400.0,600000.0,17.033333333333335,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,mediana,mediana,conservador,0.4,36,141,400.0,750000.0,7.786666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,mediana,mediana,base,0.55,36,141,400.0,750000.0,10.706666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,mediana,mediana,otimista,0.7,36,141,400.0,750000.0,13.626666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,mediana,p75,conservador,0.4,36,141,400.0,890000.0,6.561797752808989,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,mediana,p75,base,0.55,36,141,400.0,890000.0,9.022471910112358,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,mediana,p75,otimista,0.7,36,141,400.0,890000.0,11.483146067415731,True,2
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p75,p25,conservador,0.4,36,141,518.25,600000.0,12.610750000000001,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p75,p25,base,0.55,36,141,518.25,600000.0,17.33978125,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p75,p25,otimista,0.7,36,141,518.25,600000.0,22.0688125,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p75,mediana,conservador,0.4,36,141,518.25,750000.0,10.0886,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p75,mediana,base,0.55,36,141,518.25,750000.0,13.871825000000001,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p75,mediana,otimista,0.7,36,141,518.25,750000.0,17.65505,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p75,p75,conservador,0.4,36,141,518.25,890000.0,8.501629213483145,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p75,p75,base,0.55,36,141,518.25,890000.0,11.689740168539327,True,1
+outros_compactos,Outros bairros | studio/1 quarto,7,diagnostico_p1_p99,p75,p75,otimista,0.7,36,141,518.25,890000.0,14.877851123595507,True,1
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p25,p25,conservador,0.4,65,89,370.0,889000.0,6.0764904386951635,True,4
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p25,p25,base,0.55,65,89,370.0,889000.0,8.355174353205848,True,4
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p25,p25,otimista,0.7,65,89,370.0,889000.0,10.633858267716535,True,4
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p25,mediana,conservador,0.4,65,89,370.0,1150000.0,4.697391304347827,True,4
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p25,mediana,base,0.55,65,89,370.0,1150000.0,6.458913043478261,True,4
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p25,mediana,otimista,0.7,65,89,370.0,1150000.0,8.220434782608695,True,4
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p25,p75,conservador,0.4,65,89,370.0,1550000.0,3.4851612903225804,True,4
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p25,p75,base,0.55,65,89,370.0,1550000.0,4.792096774193548,True,4
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p25,p75,otimista,0.7,65,89,370.0,1550000.0,6.099032258064517,True,4
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,mediana,p25,conservador,0.4,65,89,580.0,889000.0,9.525309336332958,True,3
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,mediana,p25,base,0.55,65,89,580.0,889000.0,13.09730033745782,True,3
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,mediana,p25,otimista,0.7,65,89,580.0,889000.0,16.669291338582678,True,3
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,mediana,mediana,conservador,0.4,65,89,580.0,1150000.0,7.363478260869565,True,2
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,mediana,mediana,base,0.55,65,89,580.0,1150000.0,10.124782608695654,True,2
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,mediana,mediana,otimista,0.7,65,89,580.0,1150000.0,12.886086956521739,True,2
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,mediana,p75,conservador,0.4,65,89,580.0,1550000.0,5.4632258064516135,True,4
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,mediana,p75,base,0.55,65,89,580.0,1550000.0,7.511935483870968,True,4
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,mediana,p75,otimista,0.7,65,89,580.0,1550000.0,9.560645161290322,True,4
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p75,p25,conservador,0.4,65,89,713.0,889000.0,11.709561304836894,True,3
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p75,p25,base,0.55,65,89,713.0,889000.0,16.10064679415073,True,3
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p75,p25,otimista,0.7,65,89,713.0,889000.0,20.491732283464568,True,3
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p75,mediana,conservador,0.4,65,89,713.0,1150000.0,9.052,True,2
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p75,mediana,base,0.55,65,89,713.0,1150000.0,12.4465,True,2
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p75,mediana,otimista,0.7,65,89,713.0,1150000.0,15.841,True,2
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p75,p75,conservador,0.4,65,89,713.0,1550000.0,6.715999999999999,True,4
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p75,p75,base,0.55,65,89,713.0,1550000.0,9.234499999999999,True,4
+centro_2q,Centro | 2 quartos,7,diagnostico_p1_p99,p75,p75,otimista,0.7,65,89,713.0,1550000.0,11.753,True,4
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p25,p25,conservador,0.4,44,437,521.75,1750000.0,4.352885714285714,True,6
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p25,p25,base,0.55,44,437,521.75,1750000.0,5.985217857142858,True,6
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p25,p25,otimista,0.7,44,437,521.75,1750000.0,7.61755,True,6
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p25,mediana,conservador,0.4,44,437,521.75,2100000.0,3.6274047619047622,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p25,mediana,base,0.55,44,437,521.75,2100000.0,4.987681547619048,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p25,mediana,otimista,0.7,44,437,521.75,2100000.0,6.347958333333334,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p25,p75,conservador,0.4,44,437,521.75,2790000.0,2.730304659498208,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p25,p75,base,0.55,44,437,521.75,2790000.0,3.7541689068100363,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p25,p75,otimista,0.7,44,437,521.75,2790000.0,4.7780331541218635,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,mediana,p25,conservador,0.4,44,437,770.0,1750000.0,6.424,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,mediana,p25,base,0.55,44,437,770.0,1750000.0,8.833,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,mediana,p25,otimista,0.7,44,437,770.0,1750000.0,11.242,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,mediana,mediana,conservador,0.4,44,437,770.0,2100000.0,5.3533333333333335,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,mediana,mediana,base,0.55,44,437,770.0,2100000.0,7.360833333333333,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,mediana,mediana,otimista,0.7,44,437,770.0,2100000.0,9.368333333333332,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,mediana,p75,conservador,0.4,44,437,770.0,2790000.0,4.029390681003584,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,mediana,p75,base,0.55,44,437,770.0,2790000.0,5.540412186379928,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,mediana,p75,otimista,0.7,44,437,770.0,2790000.0,7.051433691756272,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p75,p25,conservador,0.4,44,437,850.0,1750000.0,7.091428571428571,True,6
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p75,p25,base,0.55,44,437,850.0,1750000.0,9.750714285714286,True,6
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p75,p25,otimista,0.7,44,437,850.0,1750000.0,12.41,True,6
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p75,mediana,conservador,0.4,44,437,850.0,2100000.0,5.90952380952381,True,6
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p75,mediana,base,0.55,44,437,850.0,2100000.0,8.125595238095238,True,6
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p75,mediana,otimista,0.7,44,437,850.0,2100000.0,10.341666666666667,True,6
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p75,p75,conservador,0.4,44,437,850.0,2790000.0,4.448028673835125,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p75,p75,base,0.55,44,437,850.0,2790000.0,6.116039426523297,True,5
+centro_3q,Centro | 3 quartos,7,diagnostico_p1_p99,p75,p75,otimista,0.7,44,437,850.0,2790000.0,7.78405017921147,True,5
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p25,p25,conservador,0.4,5,434,700.0,2800000.0,3.65,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p25,p25,base,0.55,5,434,700.0,2800000.0,5.018750000000001,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p25,p25,otimista,0.7,5,434,700.0,2800000.0,6.3875,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p25,mediana,conservador,0.4,5,434,700.0,3900000.0,2.6205128205128205,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p25,mediana,base,0.55,5,434,700.0,3900000.0,3.6032051282051283,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p25,mediana,otimista,0.7,5,434,700.0,3900000.0,4.5858974358974365,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p25,p75,conservador,0.4,5,434,700.0,6499950.0,1.5723197870752852,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p25,p75,base,0.55,5,434,700.0,6499950.0,2.1619397072285174,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p25,p75,otimista,0.7,5,434,700.0,6499950.0,2.751559627381749,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,mediana,p25,conservador,0.4,5,434,790.0,2800000.0,4.119285714285715,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,mediana,p25,base,0.55,5,434,790.0,2800000.0,5.664017857142857,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,mediana,p25,otimista,0.7,5,434,790.0,2800000.0,7.20875,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,mediana,mediana,conservador,0.4,5,434,790.0,3900000.0,2.9574358974358974,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,mediana,mediana,base,0.55,5,434,790.0,3900000.0,4.066474358974359,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,mediana,mediana,otimista,0.7,5,434,790.0,3900000.0,5.175512820512821,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,mediana,p75,conservador,0.4,5,434,790.0,6499950.0,1.7744751882706788,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,mediana,p75,base,0.55,5,434,790.0,6499950.0,2.4399033838721835,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,mediana,p75,otimista,0.7,5,434,790.0,6499950.0,3.105331579473688,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p75,p25,conservador,0.4,5,434,850.0,2800000.0,4.432142857142858,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p75,p25,base,0.55,5,434,850.0,2800000.0,6.094196428571428,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p75,p25,otimista,0.7,5,434,850.0,2800000.0,7.7562500000000005,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p75,mediana,conservador,0.4,5,434,850.0,3900000.0,3.182051282051282,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p75,mediana,base,0.55,5,434,850.0,3900000.0,4.3753205128205135,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p75,mediana,otimista,0.7,5,434,850.0,3900000.0,5.568589743589744,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p75,p75,conservador,0.4,5,434,850.0,6499950.0,1.909245455734275,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p75,p75,base,0.55,5,434,850.0,6499950.0,2.625212501634628,False,
+centro_4mais,Centro | 4+ quartos,7,diagnostico_p1_p99,p75,p75,otimista,0.7,5,434,850.0,6499950.0,3.341179547534981,False,
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p25,p25,conservador,0.4,69,2313,800.0,2665118.0,4.382545163103472,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p25,p25,base,0.55,69,2313,800.0,2665118.0,6.025999599267275,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p25,p25,otimista,0.7,69,2313,800.0,2665118.0,7.669454035431077,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p25,mediana,conservador,0.4,69,2313,800.0,3610000.0,3.2354570637119116,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p25,mediana,base,0.55,69,2313,800.0,3610000.0,4.448753462603878,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p25,mediana,otimista,0.7,69,2313,800.0,3610000.0,5.662049861495845,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p25,p75,conservador,0.4,69,2313,800.0,5320000.0,2.1954887218045114,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p25,p75,base,0.55,69,2313,800.0,5320000.0,3.018796992481203,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p25,p75,otimista,0.7,69,2313,800.0,5320000.0,3.8421052631578947,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,mediana,p25,conservador,0.4,69,2313,900.0,2665118.0,4.9303633084914065,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,mediana,p25,base,0.55,69,2313,900.0,2665118.0,6.7792495491756855,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,mediana,p25,otimista,0.7,69,2313,900.0,2665118.0,8.62813578985996,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,mediana,mediana,conservador,0.4,69,2313,900.0,3610000.0,3.6398891966759,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,mediana,mediana,base,0.55,69,2313,900.0,3610000.0,5.004847645429364,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,mediana,mediana,otimista,0.7,69,2313,900.0,3610000.0,6.369806094182824,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,mediana,p75,conservador,0.4,69,2313,900.0,5320000.0,2.4699248120300754,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,mediana,p75,base,0.55,69,2313,900.0,5320000.0,3.396146616541354,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,mediana,p75,otimista,0.7,69,2313,900.0,5320000.0,4.322368421052631,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p75,p25,conservador,0.4,69,2313,1500.0,2665118.0,8.21727218081901,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p75,p25,base,0.55,69,2313,1500.0,2665118.0,11.298749248626141,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p75,p25,otimista,0.7,69,2313,1500.0,2665118.0,14.38022631643327,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p75,mediana,conservador,0.4,69,2313,1500.0,3610000.0,6.066481994459834,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p75,mediana,base,0.55,69,2313,1500.0,3610000.0,8.341412742382271,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p75,mediana,otimista,0.7,69,2313,1500.0,3610000.0,10.61634349030471,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p75,p75,conservador,0.4,69,2313,1500.0,5320000.0,4.116541353383458,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p75,p75,base,0.55,69,2313,1500.0,5320000.0,5.660244360902256,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,7,diagnostico_p1_p99,p75,p75,otimista,0.7,69,2313,1500.0,5320000.0,7.203947368421053,True,6
+centro_studio,Centro | studio,14,completa,p25,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p25,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p25,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p25,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p25,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p25,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p25,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p25,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p25,p75,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,mediana,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,mediana,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,mediana,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,mediana,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,mediana,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,mediana,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,mediana,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,mediana,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,mediana,p75,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p75,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p75,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p75,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p75,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p75,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p75,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p75,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p75,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,completa,p75,p75,otimista,0.7,0,0,,,,False,
+centro_1q,Centro | 1 quarto,14,completa,p25,p25,conservador,0.4,78,22,376.25,652500.0,8.418773946360153,True,1
+centro_1q,Centro | 1 quarto,14,completa,p25,p25,base,0.55,78,22,376.25,652500.0,11.575814176245212,True,1
+centro_1q,Centro | 1 quarto,14,completa,p25,p25,otimista,0.7,78,22,376.25,652500.0,14.732854406130269,True,1
+centro_1q,Centro | 1 quarto,14,completa,p25,mediana,conservador,0.4,78,22,376.25,890000.0,6.172191011235955,True,3
+centro_1q,Centro | 1 quarto,14,completa,p25,mediana,base,0.55,78,22,376.25,890000.0,8.486762640449438,True,3
+centro_1q,Centro | 1 quarto,14,completa,p25,mediana,otimista,0.7,78,22,376.25,890000.0,10.80133426966292,True,3
+centro_1q,Centro | 1 quarto,14,completa,p25,p75,conservador,0.4,78,22,376.25,980000.0,5.605357142857144,True,1
+centro_1q,Centro | 1 quarto,14,completa,p25,p75,base,0.55,78,22,376.25,980000.0,7.707366071428572,True,1
+centro_1q,Centro | 1 quarto,14,completa,p25,p75,otimista,0.7,78,22,376.25,980000.0,9.809375,True,1
+centro_1q,Centro | 1 quarto,14,completa,mediana,p25,conservador,0.4,78,22,445.0,652500.0,9.957088122605363,True,1
+centro_1q,Centro | 1 quarto,14,completa,mediana,p25,base,0.55,78,22,445.0,652500.0,13.690996168582375,True,1
+centro_1q,Centro | 1 quarto,14,completa,mediana,p25,otimista,0.7,78,22,445.0,652500.0,17.424904214559387,True,1
+centro_1q,Centro | 1 quarto,14,completa,mediana,mediana,conservador,0.4,78,22,445.0,890000.0,7.3,True,3
+centro_1q,Centro | 1 quarto,14,completa,mediana,mediana,base,0.55,78,22,445.0,890000.0,10.037500000000001,True,3
+centro_1q,Centro | 1 quarto,14,completa,mediana,mediana,otimista,0.7,78,22,445.0,890000.0,12.775,True,3
+centro_1q,Centro | 1 quarto,14,completa,mediana,p75,conservador,0.4,78,22,445.0,980000.0,6.6295918367346935,True,1
+centro_1q,Centro | 1 quarto,14,completa,mediana,p75,base,0.55,78,22,445.0,980000.0,9.115688775510204,True,1
+centro_1q,Centro | 1 quarto,14,completa,mediana,p75,otimista,0.7,78,22,445.0,980000.0,11.601785714285715,True,1
+centro_1q,Centro | 1 quarto,14,completa,p75,p25,conservador,0.4,78,22,523.999975,652500.0,11.724750398467433,True,2
+centro_1q,Centro | 1 quarto,14,completa,p75,p25,base,0.55,78,22,523.999975,652500.0,16.12153179789272,True,2
+centro_1q,Centro | 1 quarto,14,completa,p75,p25,otimista,0.7,78,22,523.999975,652500.0,20.518313197318005,True,2
+centro_1q,Centro | 1 quarto,14,completa,p75,mediana,conservador,0.4,78,22,523.999975,890000.0,8.595954646067415,True,4
+centro_1q,Centro | 1 quarto,14,completa,p75,mediana,base,0.55,78,22,523.999975,890000.0,11.819437638342697,True,4
+centro_1q,Centro | 1 quarto,14,completa,p75,mediana,otimista,0.7,78,22,523.999975,890000.0,15.042920630617976,True,4
+centro_1q,Centro | 1 quarto,14,completa,p75,p75,conservador,0.4,78,22,523.999975,980000.0,7.806530239795919,True,2
+centro_1q,Centro | 1 quarto,14,completa,p75,p75,base,0.55,78,22,523.999975,980000.0,10.733979079719386,True,2
+centro_1q,Centro | 1 quarto,14,completa,p75,p75,otimista,0.7,78,22,523.999975,980000.0,13.661427919642858,True,2
+meiapraia_studio,Meia Praia | studio,14,completa,p25,p25,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p25,p25,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p25,p25,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p25,mediana,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p25,mediana,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p25,mediana,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p25,p75,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p25,p75,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p25,p75,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,mediana,p25,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,mediana,p25,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,mediana,p25,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,mediana,mediana,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,mediana,mediana,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,mediana,mediana,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,mediana,p75,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,mediana,p75,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,mediana,p75,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p75,p25,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p75,p25,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p75,p25,otimista,0.7,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p75,mediana,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p75,mediana,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p75,mediana,otimista,0.7,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p75,p75,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p75,p75,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,completa,p75,p75,otimista,0.7,8,0,542.5,,,False,
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p25,p25,conservador,0.4,20,58,373.5,757000.0,7.203566710700132,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p25,p25,base,0.55,20,58,373.5,757000.0,9.90490422721268,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p25,p25,otimista,0.7,20,58,373.5,757000.0,12.60624174372523,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p25,mediana,conservador,0.4,20,58,373.5,877500.0,6.214358974358975,True,2
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p25,mediana,base,0.55,20,58,373.5,877500.0,8.54474358974359,True,2
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p25,mediana,otimista,0.7,20,58,373.5,877500.0,10.875128205128206,True,2
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p25,p75,conservador,0.4,20,58,373.5,1003755.25,5.432698857614941,True,2
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p25,p75,base,0.55,20,58,373.5,1003755.25,7.469960929220544,True,2
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p25,p75,otimista,0.7,20,58,373.5,1003755.25,9.507223000826148,True,2
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,mediana,p25,conservador,0.4,20,58,441.0,757000.0,8.505416116248348,True,4
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,mediana,p25,base,0.55,20,58,441.0,757000.0,11.69494715984148,True,4
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,mediana,p25,otimista,0.7,20,58,441.0,757000.0,14.88447820343461,True,4
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,mediana,mediana,conservador,0.4,20,58,441.0,877500.0,7.337435897435897,True,2
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,mediana,mediana,base,0.55,20,58,441.0,877500.0,10.08897435897436,True,2
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,mediana,mediana,otimista,0.7,20,58,441.0,877500.0,12.84051282051282,True,2
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,mediana,p75,conservador,0.4,20,58,441.0,1003755.25,6.414511904171858,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,mediana,p75,base,0.55,20,58,441.0,1003755.25,8.819953868236306,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,mediana,p75,otimista,0.7,20,58,441.0,1003755.25,11.225395832300752,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p75,p25,conservador,0.4,20,58,523.25,757000.0,10.091743725231176,True,4
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p75,p25,base,0.55,20,58,523.25,757000.0,13.87614762219287,True,4
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p75,p25,otimista,0.7,20,58,523.25,757000.0,17.66055151915456,True,4
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p75,mediana,conservador,0.4,20,58,523.25,877500.0,8.705925925925925,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p75,mediana,base,0.55,20,58,523.25,877500.0,11.97064814814815,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p75,mediana,otimista,0.7,20,58,523.25,877500.0,15.235370370370372,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p75,p75,conservador,0.4,20,58,523.25,1003755.25,7.610869283124547,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p75,p75,base,0.55,20,58,523.25,1003755.25,10.464945264296253,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,completa,p75,p75,otimista,0.7,20,58,523.25,1003755.25,13.319021245467958,True,3
+morretes_1q,Morretes | 1 quarto,14,completa,p25,p25,conservador,0.4,2,50,251.25,446750.0,8.210968102965865,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p25,p25,base,0.55,2,50,251.25,446750.0,11.290081141578066,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p25,p25,otimista,0.7,2,50,251.25,446750.0,14.369194180190261,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p25,mediana,conservador,0.4,2,50,251.25,624500.0,5.873899119295436,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p25,mediana,base,0.55,2,50,251.25,624500.0,8.076611289031225,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p25,mediana,otimista,0.7,2,50,251.25,624500.0,10.279323458767012,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p25,p75,conservador,0.4,2,50,251.25,750000.0,4.891,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p25,p75,base,0.55,2,50,251.25,750000.0,6.725125000000001,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p25,p75,otimista,0.7,2,50,251.25,750000.0,8.559249999999999,False,
+morretes_1q,Morretes | 1 quarto,14,completa,mediana,p25,conservador,0.4,2,50,327.5,446750.0,10.702853945159486,False,
+morretes_1q,Morretes | 1 quarto,14,completa,mediana,p25,base,0.55,2,50,327.5,446750.0,14.716424174594293,False,
+morretes_1q,Morretes | 1 quarto,14,completa,mediana,p25,otimista,0.7,2,50,327.5,446750.0,18.7299944040291,False,
+morretes_1q,Morretes | 1 quarto,14,completa,mediana,mediana,conservador,0.4,2,50,327.5,624500.0,7.656525220176142,False,
+morretes_1q,Morretes | 1 quarto,14,completa,mediana,mediana,base,0.55,2,50,327.5,624500.0,10.527722177742193,False,
+morretes_1q,Morretes | 1 quarto,14,completa,mediana,mediana,otimista,0.7,2,50,327.5,624500.0,13.398919135308246,False,
+morretes_1q,Morretes | 1 quarto,14,completa,mediana,p75,conservador,0.4,2,50,327.5,750000.0,6.375333333333333,False,
+morretes_1q,Morretes | 1 quarto,14,completa,mediana,p75,base,0.55,2,50,327.5,750000.0,8.766083333333333,False,
+morretes_1q,Morretes | 1 quarto,14,completa,mediana,p75,otimista,0.7,2,50,327.5,750000.0,11.156833333333333,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p75,p25,conservador,0.4,2,50,403.75,446750.0,13.194739787353104,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p75,p25,base,0.55,2,50,403.75,446750.0,18.14276720761052,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p75,p25,otimista,0.7,2,50,403.75,446750.0,23.090794627867936,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p75,mediana,conservador,0.4,2,50,403.75,624500.0,9.439151321056844,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p75,mediana,base,0.55,2,50,403.75,624500.0,12.978833066453163,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p75,mediana,otimista,0.7,2,50,403.75,624500.0,16.51851481184948,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p75,p75,conservador,0.4,2,50,403.75,750000.0,7.859666666666667,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p75,p75,base,0.55,2,50,403.75,750000.0,10.807041666666667,False,
+morretes_1q,Morretes | 1 quarto,14,completa,p75,p75,otimista,0.7,2,50,403.75,750000.0,13.754416666666666,False,
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p25,p25,conservador,0.4,34,141,330.2,600000.0,8.034866666666668,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p25,p25,base,0.55,34,141,330.2,600000.0,11.047941666666668,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p25,p25,otimista,0.7,34,141,330.2,600000.0,14.061016666666665,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p25,mediana,conservador,0.4,34,141,330.2,750000.0,6.427893333333334,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p25,mediana,base,0.55,34,141,330.2,750000.0,8.838353333333334,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p25,mediana,otimista,0.7,34,141,330.2,750000.0,11.248813333333333,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p25,p75,conservador,0.4,34,141,330.2,890000.0,5.416764044943821,True,3
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p25,p75,base,0.55,34,141,330.2,890000.0,7.4480505617977535,True,3
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p25,p75,otimista,0.7,34,141,330.2,890000.0,9.479337078651684,True,3
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,mediana,p25,conservador,0.4,34,141,400.0,600000.0,9.733333333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,mediana,p25,base,0.55,34,141,400.0,600000.0,13.383333333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,mediana,p25,otimista,0.7,34,141,400.0,600000.0,17.033333333333335,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,mediana,mediana,conservador,0.4,34,141,400.0,750000.0,7.786666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,mediana,mediana,base,0.55,34,141,400.0,750000.0,10.706666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,mediana,mediana,otimista,0.7,34,141,400.0,750000.0,13.626666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,mediana,p75,conservador,0.4,34,141,400.0,890000.0,6.561797752808989,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,mediana,p75,base,0.55,34,141,400.0,890000.0,9.022471910112358,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,mediana,p75,otimista,0.7,34,141,400.0,890000.0,11.483146067415731,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p75,p25,conservador,0.4,34,141,512.0,600000.0,12.458666666666666,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p75,p25,base,0.55,34,141,512.0,600000.0,17.13066666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p75,p25,otimista,0.7,34,141,512.0,600000.0,21.802666666666664,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p75,mediana,conservador,0.4,34,141,512.0,750000.0,9.966933333333333,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p75,mediana,base,0.55,34,141,512.0,750000.0,13.704533333333336,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p75,mediana,otimista,0.7,34,141,512.0,750000.0,17.44213333333333,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p75,p75,conservador,0.4,34,141,512.0,890000.0,8.399101123595505,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p75,p75,base,0.55,34,141,512.0,890000.0,11.548764044943823,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,completa,p75,p75,otimista,0.7,34,141,512.0,890000.0,14.698426966292132,True,1
+centro_2q,Centro | 2 quartos,14,completa,p25,p25,conservador,0.4,64,89,370.0,889000.0,6.0764904386951635,True,4
+centro_2q,Centro | 2 quartos,14,completa,p25,p25,base,0.55,64,89,370.0,889000.0,8.355174353205848,True,4
+centro_2q,Centro | 2 quartos,14,completa,p25,p25,otimista,0.7,64,89,370.0,889000.0,10.633858267716535,True,4
+centro_2q,Centro | 2 quartos,14,completa,p25,mediana,conservador,0.4,64,89,370.0,1150000.0,4.697391304347827,True,4
+centro_2q,Centro | 2 quartos,14,completa,p25,mediana,base,0.55,64,89,370.0,1150000.0,6.458913043478261,True,4
+centro_2q,Centro | 2 quartos,14,completa,p25,mediana,otimista,0.7,64,89,370.0,1150000.0,8.220434782608695,True,4
+centro_2q,Centro | 2 quartos,14,completa,p25,p75,conservador,0.4,64,89,370.0,1550000.0,3.4851612903225804,True,4
+centro_2q,Centro | 2 quartos,14,completa,p25,p75,base,0.55,64,89,370.0,1550000.0,4.792096774193548,True,4
+centro_2q,Centro | 2 quartos,14,completa,p25,p75,otimista,0.7,64,89,370.0,1550000.0,6.099032258064517,True,4
+centro_2q,Centro | 2 quartos,14,completa,mediana,p25,conservador,0.4,64,89,568.5,889000.0,9.33644544431946,True,3
+centro_2q,Centro | 2 quartos,14,completa,mediana,p25,base,0.55,64,89,568.5,889000.0,12.837612485939259,True,3
+centro_2q,Centro | 2 quartos,14,completa,mediana,p25,otimista,0.7,64,89,568.5,889000.0,16.338779527559055,True,3
+centro_2q,Centro | 2 quartos,14,completa,mediana,mediana,conservador,0.4,64,89,568.5,1150000.0,7.217478260869566,True,4
+centro_2q,Centro | 2 quartos,14,completa,mediana,mediana,base,0.55,64,89,568.5,1150000.0,9.924032608695653,True,4
+centro_2q,Centro | 2 quartos,14,completa,mediana,mediana,otimista,0.7,64,89,568.5,1150000.0,12.63058695652174,True,4
+centro_2q,Centro | 2 quartos,14,completa,mediana,p75,conservador,0.4,64,89,568.5,1550000.0,5.354903225806452,True,4
+centro_2q,Centro | 2 quartos,14,completa,mediana,p75,base,0.55,64,89,568.5,1550000.0,7.362991935483872,True,4
+centro_2q,Centro | 2 quartos,14,completa,mediana,p75,otimista,0.7,64,89,568.5,1550000.0,9.37108064516129,True,4
+centro_2q,Centro | 2 quartos,14,completa,p75,p25,conservador,0.4,64,89,709.8750125,889000.0,11.65823980033746,True,3
+centro_2q,Centro | 2 quartos,14,completa,p75,p25,base,0.55,64,89,709.8750125,889000.0,16.030079725464006,True,3
+centro_2q,Centro | 2 quartos,14,completa,p75,p25,otimista,0.7,64,89,709.8750125,889000.0,20.401919650590553,True,3
+centro_2q,Centro | 2 quartos,14,completa,p75,mediana,conservador,0.4,64,89,709.8750125,1150000.0,9.012326245652174,True,2
+centro_2q,Centro | 2 quartos,14,completa,p75,mediana,base,0.55,64,89,709.8750125,1150000.0,12.391948587771742,True,2
+centro_2q,Centro | 2 quartos,14,completa,p75,mediana,otimista,0.7,64,89,709.8750125,1150000.0,15.771570929891308,True,2
+centro_2q,Centro | 2 quartos,14,completa,p75,p75,conservador,0.4,64,89,709.8750125,1550000.0,6.686564633870969,True,4
+centro_2q,Centro | 2 quartos,14,completa,p75,p75,base,0.55,64,89,709.8750125,1550000.0,9.194026371572582,True,4
+centro_2q,Centro | 2 quartos,14,completa,p75,p75,otimista,0.7,64,89,709.8750125,1550000.0,11.701488109274194,True,4
+centro_3q,Centro | 3 quartos,14,completa,p25,p25,conservador,0.4,43,437,520.5,1750000.0,4.3424571428571435,True,6
+centro_3q,Centro | 3 quartos,14,completa,p25,p25,base,0.55,43,437,520.5,1750000.0,5.970878571428572,True,6
+centro_3q,Centro | 3 quartos,14,completa,p25,p25,otimista,0.7,43,437,520.5,1750000.0,7.5993,True,6
+centro_3q,Centro | 3 quartos,14,completa,p25,mediana,conservador,0.4,43,437,520.5,2100000.0,3.6187142857142853,True,5
+centro_3q,Centro | 3 quartos,14,completa,p25,mediana,base,0.55,43,437,520.5,2100000.0,4.975732142857144,True,5
+centro_3q,Centro | 3 quartos,14,completa,p25,mediana,otimista,0.7,43,437,520.5,2100000.0,6.33275,True,5
+centro_3q,Centro | 3 quartos,14,completa,p25,p75,conservador,0.4,43,437,520.5,2790000.0,2.7237634408602154,True,5
+centro_3q,Centro | 3 quartos,14,completa,p25,p75,base,0.55,43,437,520.5,2790000.0,3.745174731182796,True,5
+centro_3q,Centro | 3 quartos,14,completa,p25,p75,otimista,0.7,43,437,520.5,2790000.0,4.766586021505376,True,5
+centro_3q,Centro | 3 quartos,14,completa,mediana,p25,conservador,0.4,43,437,750.0,1750000.0,6.257142857142857,True,5
+centro_3q,Centro | 3 quartos,14,completa,mediana,p25,base,0.55,43,437,750.0,1750000.0,8.603571428571428,True,5
+centro_3q,Centro | 3 quartos,14,completa,mediana,p25,otimista,0.7,43,437,750.0,1750000.0,10.95,True,5
+centro_3q,Centro | 3 quartos,14,completa,mediana,mediana,conservador,0.4,43,437,750.0,2100000.0,5.214285714285714,True,5
+centro_3q,Centro | 3 quartos,14,completa,mediana,mediana,base,0.55,43,437,750.0,2100000.0,7.169642857142858,True,5
+centro_3q,Centro | 3 quartos,14,completa,mediana,mediana,otimista,0.7,43,437,750.0,2100000.0,9.125,True,5
+centro_3q,Centro | 3 quartos,14,completa,mediana,p75,conservador,0.4,43,437,750.0,2790000.0,3.924731182795699,True,5
+centro_3q,Centro | 3 quartos,14,completa,mediana,p75,base,0.55,43,437,750.0,2790000.0,5.396505376344086,True,5
+centro_3q,Centro | 3 quartos,14,completa,mediana,p75,otimista,0.7,43,437,750.0,2790000.0,6.868279569892473,True,5
+centro_3q,Centro | 3 quartos,14,completa,p75,p25,conservador,0.4,43,437,850.0,1750000.0,7.091428571428571,True,6
+centro_3q,Centro | 3 quartos,14,completa,p75,p25,base,0.55,43,437,850.0,1750000.0,9.750714285714286,True,6
+centro_3q,Centro | 3 quartos,14,completa,p75,p25,otimista,0.7,43,437,850.0,1750000.0,12.41,True,6
+centro_3q,Centro | 3 quartos,14,completa,p75,mediana,conservador,0.4,43,437,850.0,2100000.0,5.90952380952381,True,6
+centro_3q,Centro | 3 quartos,14,completa,p75,mediana,base,0.55,43,437,850.0,2100000.0,8.125595238095238,True,6
+centro_3q,Centro | 3 quartos,14,completa,p75,mediana,otimista,0.7,43,437,850.0,2100000.0,10.341666666666667,True,6
+centro_3q,Centro | 3 quartos,14,completa,p75,p75,conservador,0.4,43,437,850.0,2790000.0,4.448028673835125,True,5
+centro_3q,Centro | 3 quartos,14,completa,p75,p75,base,0.55,43,437,850.0,2790000.0,6.116039426523297,True,5
+centro_3q,Centro | 3 quartos,14,completa,p75,p75,otimista,0.7,43,437,850.0,2790000.0,7.78405017921147,True,5
+centro_4mais,Centro | 4+ quartos,14,completa,p25,p25,conservador,0.4,5,434,700.0,2800000.0,3.65,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p25,p25,base,0.55,5,434,700.0,2800000.0,5.018750000000001,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p25,p25,otimista,0.7,5,434,700.0,2800000.0,6.3875,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p25,mediana,conservador,0.4,5,434,700.0,3900000.0,2.6205128205128205,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p25,mediana,base,0.55,5,434,700.0,3900000.0,3.6032051282051283,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p25,mediana,otimista,0.7,5,434,700.0,3900000.0,4.5858974358974365,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p25,p75,conservador,0.4,5,434,700.0,6499950.0,1.5723197870752852,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p25,p75,base,0.55,5,434,700.0,6499950.0,2.1619397072285174,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p25,p75,otimista,0.7,5,434,700.0,6499950.0,2.751559627381749,False,
+centro_4mais,Centro | 4+ quartos,14,completa,mediana,p25,conservador,0.4,5,434,790.0,2800000.0,4.119285714285715,False,
+centro_4mais,Centro | 4+ quartos,14,completa,mediana,p25,base,0.55,5,434,790.0,2800000.0,5.664017857142857,False,
+centro_4mais,Centro | 4+ quartos,14,completa,mediana,p25,otimista,0.7,5,434,790.0,2800000.0,7.20875,False,
+centro_4mais,Centro | 4+ quartos,14,completa,mediana,mediana,conservador,0.4,5,434,790.0,3900000.0,2.9574358974358974,False,
+centro_4mais,Centro | 4+ quartos,14,completa,mediana,mediana,base,0.55,5,434,790.0,3900000.0,4.066474358974359,False,
+centro_4mais,Centro | 4+ quartos,14,completa,mediana,mediana,otimista,0.7,5,434,790.0,3900000.0,5.175512820512821,False,
+centro_4mais,Centro | 4+ quartos,14,completa,mediana,p75,conservador,0.4,5,434,790.0,6499950.0,1.7744751882706788,False,
+centro_4mais,Centro | 4+ quartos,14,completa,mediana,p75,base,0.55,5,434,790.0,6499950.0,2.4399033838721835,False,
+centro_4mais,Centro | 4+ quartos,14,completa,mediana,p75,otimista,0.7,5,434,790.0,6499950.0,3.105331579473688,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p75,p25,conservador,0.4,5,434,850.0,2800000.0,4.432142857142858,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p75,p25,base,0.55,5,434,850.0,2800000.0,6.094196428571428,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p75,p25,otimista,0.7,5,434,850.0,2800000.0,7.7562500000000005,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p75,mediana,conservador,0.4,5,434,850.0,3900000.0,3.182051282051282,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p75,mediana,base,0.55,5,434,850.0,3900000.0,4.3753205128205135,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p75,mediana,otimista,0.7,5,434,850.0,3900000.0,5.568589743589744,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p75,p75,conservador,0.4,5,434,850.0,6499950.0,1.909245455734275,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p75,p75,base,0.55,5,434,850.0,6499950.0,2.625212501634628,False,
+centro_4mais,Centro | 4+ quartos,14,completa,p75,p75,otimista,0.7,5,434,850.0,6499950.0,3.341179547534981,False,
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p25,p25,conservador,0.4,70,2313,800.0,2665118.0,4.382545163103472,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p25,p25,base,0.55,70,2313,800.0,2665118.0,6.025999599267275,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p25,p25,otimista,0.7,70,2313,800.0,2665118.0,7.669454035431077,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p25,mediana,conservador,0.4,70,2313,800.0,3610000.0,3.2354570637119116,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p25,mediana,base,0.55,70,2313,800.0,3610000.0,4.448753462603878,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p25,mediana,otimista,0.7,70,2313,800.0,3610000.0,5.662049861495845,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p25,p75,conservador,0.4,70,2313,800.0,5320000.0,2.1954887218045114,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p25,p75,base,0.55,70,2313,800.0,5320000.0,3.018796992481203,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p25,p75,otimista,0.7,70,2313,800.0,5320000.0,3.8421052631578947,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,mediana,p25,conservador,0.4,70,2313,987.5,2665118.0,5.4097041857058485,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,mediana,p25,base,0.55,70,2313,987.5,2665118.0,7.4383432553455435,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,mediana,p25,otimista,0.7,70,2313,987.5,2665118.0,9.466982324985235,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,mediana,mediana,conservador,0.4,70,2313,987.5,3610000.0,3.9937673130193905,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,mediana,mediana,base,0.55,70,2313,987.5,3610000.0,5.491430055401663,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,mediana,mediana,otimista,0.7,70,2313,987.5,3610000.0,6.9890927977839326,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,mediana,p75,conservador,0.4,70,2313,987.5,5320000.0,2.7100563909774436,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,mediana,p75,base,0.55,70,2313,987.5,5320000.0,3.7263275375939853,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,mediana,p75,otimista,0.7,70,2313,987.5,5320000.0,4.742598684210526,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p75,p25,conservador,0.4,70,2313,1596.5,2665118.0,8.745916691118367,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p75,p25,base,0.55,70,2313,1596.5,2665118.0,12.025635450287755,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p75,p25,otimista,0.7,70,2313,1596.5,2665118.0,15.305354209457143,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p75,mediana,conservador,0.4,70,2313,1596.5,3610000.0,6.456759002770084,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p75,mediana,base,0.55,70,2313,1596.5,3610000.0,8.878043628808864,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p75,mediana,otimista,0.7,70,2313,1596.5,3610000.0,11.299328254847646,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p75,p75,conservador,0.4,70,2313,1596.5,5320000.0,4.381372180451128,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p75,p75,base,0.55,70,2313,1596.5,5320000.0,6.024386748120301,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,completa,p75,p75,otimista,0.7,70,2313,1596.5,5320000.0,7.667401315789474,True,6
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p25,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p25,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p25,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p25,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p25,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p25,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p25,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p25,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p25,p75,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,mediana,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,mediana,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,mediana,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,mediana,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,mediana,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,mediana,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,mediana,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,mediana,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,mediana,p75,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p75,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p75,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p75,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p75,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p75,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p75,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p75,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p75,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,14,diagnostico_p1_p99,p75,p75,otimista,0.7,0,0,,,,False,
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p25,p25,conservador,0.4,78,22,376.25,652500.0,8.418773946360153,True,1
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p25,p25,base,0.55,78,22,376.25,652500.0,11.575814176245212,True,1
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p25,p25,otimista,0.7,78,22,376.25,652500.0,14.732854406130269,True,1
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p25,mediana,conservador,0.4,78,22,376.25,890000.0,6.172191011235955,True,3
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p25,mediana,base,0.55,78,22,376.25,890000.0,8.486762640449438,True,3
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p25,mediana,otimista,0.7,78,22,376.25,890000.0,10.80133426966292,True,3
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p25,p75,conservador,0.4,78,22,376.25,980000.0,5.605357142857144,True,1
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p25,p75,base,0.55,78,22,376.25,980000.0,7.707366071428572,True,1
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p25,p75,otimista,0.7,78,22,376.25,980000.0,9.809375,True,1
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,mediana,p25,conservador,0.4,78,22,445.0,652500.0,9.957088122605363,True,1
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,mediana,p25,base,0.55,78,22,445.0,652500.0,13.690996168582375,True,1
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,mediana,p25,otimista,0.7,78,22,445.0,652500.0,17.424904214559387,True,1
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,mediana,mediana,conservador,0.4,78,22,445.0,890000.0,7.3,True,4
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,mediana,mediana,base,0.55,78,22,445.0,890000.0,10.037500000000001,True,4
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,mediana,mediana,otimista,0.7,78,22,445.0,890000.0,12.775,True,4
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,mediana,p75,conservador,0.4,78,22,445.0,980000.0,6.6295918367346935,True,1
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,mediana,p75,base,0.55,78,22,445.0,980000.0,9.115688775510204,True,1
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,mediana,p75,otimista,0.7,78,22,445.0,980000.0,11.601785714285715,True,1
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p75,p25,conservador,0.4,78,22,523.999975,652500.0,11.724750398467433,True,2
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p75,p25,base,0.55,78,22,523.999975,652500.0,16.12153179789272,True,2
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p75,p25,otimista,0.7,78,22,523.999975,652500.0,20.518313197318005,True,2
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p75,mediana,conservador,0.4,78,22,523.999975,890000.0,8.595954646067415,True,4
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p75,mediana,base,0.55,78,22,523.999975,890000.0,11.819437638342697,True,4
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p75,mediana,otimista,0.7,78,22,523.999975,890000.0,15.042920630617976,True,4
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p75,p75,conservador,0.4,78,22,523.999975,980000.0,7.806530239795919,True,2
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p75,p75,base,0.55,78,22,523.999975,980000.0,10.733979079719386,True,2
+centro_1q,Centro | 1 quarto,14,diagnostico_p1_p99,p75,p75,otimista,0.7,78,22,523.999975,980000.0,13.661427919642858,True,2
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p25,p25,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p25,p25,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p25,p25,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p25,mediana,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p25,mediana,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p25,mediana,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p25,p75,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p25,p75,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p25,p75,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,mediana,p25,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,mediana,p25,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,mediana,p25,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,mediana,mediana,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,mediana,mediana,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,mediana,mediana,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,mediana,p75,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,mediana,p75,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,mediana,p75,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p75,p25,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p75,p25,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p75,p25,otimista,0.7,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p75,mediana,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p75,mediana,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p75,mediana,otimista,0.7,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p75,p75,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p75,p75,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,14,diagnostico_p1_p99,p75,p75,otimista,0.7,8,0,542.5,,,False,
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p25,p25,conservador,0.4,20,58,373.5,757000.0,7.203566710700132,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p25,p25,base,0.55,20,58,373.5,757000.0,9.90490422721268,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p25,p25,otimista,0.7,20,58,373.5,757000.0,12.60624174372523,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p25,mediana,conservador,0.4,20,58,373.5,877500.0,6.214358974358975,True,2
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p25,mediana,base,0.55,20,58,373.5,877500.0,8.54474358974359,True,2
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p25,mediana,otimista,0.7,20,58,373.5,877500.0,10.875128205128206,True,2
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p25,p75,conservador,0.4,20,58,373.5,1003755.25,5.432698857614941,True,2
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p25,p75,base,0.55,20,58,373.5,1003755.25,7.469960929220544,True,2
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p25,p75,otimista,0.7,20,58,373.5,1003755.25,9.507223000826148,True,2
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,mediana,p25,conservador,0.4,20,58,441.0,757000.0,8.505416116248348,True,4
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,mediana,p25,base,0.55,20,58,441.0,757000.0,11.69494715984148,True,4
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,mediana,p25,otimista,0.7,20,58,441.0,757000.0,14.88447820343461,True,4
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,mediana,mediana,conservador,0.4,20,58,441.0,877500.0,7.337435897435897,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,mediana,mediana,base,0.55,20,58,441.0,877500.0,10.08897435897436,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,mediana,mediana,otimista,0.7,20,58,441.0,877500.0,12.84051282051282,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,mediana,p75,conservador,0.4,20,58,441.0,1003755.25,6.414511904171858,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,mediana,p75,base,0.55,20,58,441.0,1003755.25,8.819953868236306,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,mediana,p75,otimista,0.7,20,58,441.0,1003755.25,11.225395832300752,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p75,p25,conservador,0.4,20,58,523.25,757000.0,10.091743725231176,True,4
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p75,p25,base,0.55,20,58,523.25,757000.0,13.87614762219287,True,4
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p75,p25,otimista,0.7,20,58,523.25,757000.0,17.66055151915456,True,4
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p75,mediana,conservador,0.4,20,58,523.25,877500.0,8.705925925925925,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p75,mediana,base,0.55,20,58,523.25,877500.0,11.97064814814815,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p75,mediana,otimista,0.7,20,58,523.25,877500.0,15.235370370370372,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p75,p75,conservador,0.4,20,58,523.25,1003755.25,7.610869283124547,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p75,p75,base,0.55,20,58,523.25,1003755.25,10.464945264296253,True,3
+meiapraia_1q,Meia Praia | 1 quarto,14,diagnostico_p1_p99,p75,p75,otimista,0.7,20,58,523.25,1003755.25,13.319021245467958,True,3
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p25,p25,conservador,0.4,2,50,251.25,446750.0,8.210968102965865,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p25,p25,base,0.55,2,50,251.25,446750.0,11.290081141578066,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p25,p25,otimista,0.7,2,50,251.25,446750.0,14.369194180190261,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p25,mediana,conservador,0.4,2,50,251.25,624500.0,5.873899119295436,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p25,mediana,base,0.55,2,50,251.25,624500.0,8.076611289031225,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p25,mediana,otimista,0.7,2,50,251.25,624500.0,10.279323458767012,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p25,p75,conservador,0.4,2,50,251.25,750000.0,4.891,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p25,p75,base,0.55,2,50,251.25,750000.0,6.725125000000001,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p25,p75,otimista,0.7,2,50,251.25,750000.0,8.559249999999999,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,mediana,p25,conservador,0.4,2,50,327.5,446750.0,10.702853945159486,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,mediana,p25,base,0.55,2,50,327.5,446750.0,14.716424174594293,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,mediana,p25,otimista,0.7,2,50,327.5,446750.0,18.7299944040291,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,mediana,mediana,conservador,0.4,2,50,327.5,624500.0,7.656525220176142,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,mediana,mediana,base,0.55,2,50,327.5,624500.0,10.527722177742193,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,mediana,mediana,otimista,0.7,2,50,327.5,624500.0,13.398919135308246,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,mediana,p75,conservador,0.4,2,50,327.5,750000.0,6.375333333333333,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,mediana,p75,base,0.55,2,50,327.5,750000.0,8.766083333333333,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,mediana,p75,otimista,0.7,2,50,327.5,750000.0,11.156833333333333,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p75,p25,conservador,0.4,2,50,403.75,446750.0,13.194739787353104,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p75,p25,base,0.55,2,50,403.75,446750.0,18.14276720761052,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p75,p25,otimista,0.7,2,50,403.75,446750.0,23.090794627867936,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p75,mediana,conservador,0.4,2,50,403.75,624500.0,9.439151321056844,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p75,mediana,base,0.55,2,50,403.75,624500.0,12.978833066453163,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p75,mediana,otimista,0.7,2,50,403.75,624500.0,16.51851481184948,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p75,p75,conservador,0.4,2,50,403.75,750000.0,7.859666666666667,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p75,p75,base,0.55,2,50,403.75,750000.0,10.807041666666667,False,
+morretes_1q,Morretes | 1 quarto,14,diagnostico_p1_p99,p75,p75,otimista,0.7,2,50,403.75,750000.0,13.754416666666666,False,
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p25,p25,conservador,0.4,34,141,330.2,600000.0,8.034866666666668,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p25,p25,base,0.55,34,141,330.2,600000.0,11.047941666666668,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p25,p25,otimista,0.7,34,141,330.2,600000.0,14.061016666666665,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p25,mediana,conservador,0.4,34,141,330.2,750000.0,6.427893333333334,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p25,mediana,base,0.55,34,141,330.2,750000.0,8.838353333333334,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p25,mediana,otimista,0.7,34,141,330.2,750000.0,11.248813333333333,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p25,p75,conservador,0.4,34,141,330.2,890000.0,5.416764044943821,True,3
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p25,p75,base,0.55,34,141,330.2,890000.0,7.4480505617977535,True,3
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p25,p75,otimista,0.7,34,141,330.2,890000.0,9.479337078651684,True,3
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,mediana,p25,conservador,0.4,34,141,400.0,600000.0,9.733333333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,mediana,p25,base,0.55,34,141,400.0,600000.0,13.383333333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,mediana,p25,otimista,0.7,34,141,400.0,600000.0,17.033333333333335,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,mediana,mediana,conservador,0.4,34,141,400.0,750000.0,7.786666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,mediana,mediana,base,0.55,34,141,400.0,750000.0,10.706666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,mediana,mediana,otimista,0.7,34,141,400.0,750000.0,13.626666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,mediana,p75,conservador,0.4,34,141,400.0,890000.0,6.561797752808989,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,mediana,p75,base,0.55,34,141,400.0,890000.0,9.022471910112358,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,mediana,p75,otimista,0.7,34,141,400.0,890000.0,11.483146067415731,True,2
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p75,p25,conservador,0.4,34,141,512.0,600000.0,12.458666666666666,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p75,p25,base,0.55,34,141,512.0,600000.0,17.13066666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p75,p25,otimista,0.7,34,141,512.0,600000.0,21.802666666666664,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p75,mediana,conservador,0.4,34,141,512.0,750000.0,9.966933333333333,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p75,mediana,base,0.55,34,141,512.0,750000.0,13.704533333333336,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p75,mediana,otimista,0.7,34,141,512.0,750000.0,17.44213333333333,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p75,p75,conservador,0.4,34,141,512.0,890000.0,8.399101123595505,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p75,p75,base,0.55,34,141,512.0,890000.0,11.548764044943823,True,1
+outros_compactos,Outros bairros | studio/1 quarto,14,diagnostico_p1_p99,p75,p75,otimista,0.7,34,141,512.0,890000.0,14.698426966292132,True,1
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p25,p25,conservador,0.4,63,89,384.5,889000.0,6.314623172103487,True,4
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p25,p25,base,0.55,63,89,384.5,889000.0,8.682606861642295,True,4
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p25,p25,otimista,0.7,63,89,384.5,889000.0,11.050590551181102,True,4
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p25,mediana,conservador,0.4,63,89,384.5,1150000.0,4.8814782608695655,True,4
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p25,mediana,base,0.55,63,89,384.5,1150000.0,6.712032608695652,True,4
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p25,mediana,otimista,0.7,63,89,384.5,1150000.0,8.542586956521738,True,4
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p25,p75,conservador,0.4,63,89,384.5,1550000.0,3.621741935483871,True,4
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p25,p75,base,0.55,63,89,384.5,1550000.0,4.979895161290323,True,4
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p25,p75,otimista,0.7,63,89,384.5,1550000.0,6.338048387096775,True,4
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,mediana,p25,conservador,0.4,63,89,580.0,889000.0,9.525309336332958,True,3
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,mediana,p25,base,0.55,63,89,580.0,889000.0,13.09730033745782,True,3
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,mediana,p25,otimista,0.7,63,89,580.0,889000.0,16.669291338582678,True,3
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,mediana,mediana,conservador,0.4,63,89,580.0,1150000.0,7.363478260869565,True,2
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,mediana,mediana,base,0.55,63,89,580.0,1150000.0,10.124782608695654,True,2
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,mediana,mediana,otimista,0.7,63,89,580.0,1150000.0,12.886086956521739,True,2
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,mediana,p75,conservador,0.4,63,89,580.0,1550000.0,5.4632258064516135,True,4
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,mediana,p75,base,0.55,63,89,580.0,1550000.0,7.511935483870968,True,4
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,mediana,p75,otimista,0.7,63,89,580.0,1550000.0,9.560645161290322,True,4
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p75,p25,conservador,0.4,63,89,710.9166749999999,889000.0,11.675346968503938,True,3
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p75,p25,base,0.55,63,89,710.9166749999999,889000.0,16.053602081692915,True,3
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p75,p25,otimista,0.7,63,89,710.9166749999999,889000.0,20.43185719488189,True,3
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p75,mediana,conservador,0.4,63,89,710.9166749999999,1150000.0,9.025550830434783,True,2
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p75,mediana,base,0.55,63,89,710.9166749999999,1150000.0,12.410132391847826,True,2
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p75,mediana,otimista,0.7,63,89,710.9166749999999,1150000.0,15.79471395326087,True,2
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p75,p75,conservador,0.4,63,89,710.9166749999999,1550000.0,6.696376422580645,True,4
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p75,p75,base,0.55,63,89,710.9166749999999,1550000.0,9.20751758104839,True,4
+centro_2q,Centro | 2 quartos,14,diagnostico_p1_p99,p75,p75,otimista,0.7,63,89,710.9166749999999,1550000.0,11.718658739516128,True,4
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p25,p25,conservador,0.4,42,437,519.25,1750000.0,4.332028571428571,True,6
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p25,p25,base,0.55,42,437,519.25,1750000.0,5.956539285714286,True,6
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p25,p25,otimista,0.7,42,437,519.25,1750000.0,7.58105,True,6
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p25,mediana,conservador,0.4,42,437,519.25,2100000.0,3.6100238095238093,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p25,mediana,base,0.55,42,437,519.25,2100000.0,4.963782738095239,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p25,mediana,otimista,0.7,42,437,519.25,2100000.0,6.317541666666666,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p25,p75,conservador,0.4,42,437,519.25,2790000.0,2.7172222222222224,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p25,p75,base,0.55,42,437,519.25,2790000.0,3.736180555555556,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p25,p75,otimista,0.7,42,437,519.25,2790000.0,4.755138888888888,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,mediana,p25,conservador,0.4,42,437,749.5,1750000.0,6.252971428571429,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,mediana,p25,base,0.55,42,437,749.5,1750000.0,8.597835714285715,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,mediana,p25,otimista,0.7,42,437,749.5,1750000.0,10.9427,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,mediana,mediana,conservador,0.4,42,437,749.5,2100000.0,5.210809523809524,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,mediana,mediana,base,0.55,42,437,749.5,2100000.0,7.164863095238096,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,mediana,mediana,otimista,0.7,42,437,749.5,2100000.0,9.118916666666667,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,mediana,p75,conservador,0.4,42,437,749.5,2790000.0,3.922114695340502,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,mediana,p75,base,0.55,42,437,749.5,2790000.0,5.392907706093189,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,mediana,p75,otimista,0.7,42,437,749.5,2790000.0,6.8637007168458775,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p75,p25,conservador,0.4,42,437,848.75,1750000.0,7.0809999999999995,True,6
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p75,p25,base,0.55,42,437,848.75,1750000.0,9.736375,True,6
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p75,p25,otimista,0.7,42,437,848.75,1750000.0,12.39175,True,6
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p75,mediana,conservador,0.4,42,437,848.75,2100000.0,5.900833333333334,True,6
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p75,mediana,base,0.55,42,437,848.75,2100000.0,8.113645833333333,True,6
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p75,mediana,otimista,0.7,42,437,848.75,2100000.0,10.326458333333335,True,6
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p75,p75,conservador,0.4,42,437,848.75,2790000.0,4.441487455197132,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p75,p75,base,0.55,42,437,848.75,2790000.0,6.107045250896057,True,5
+centro_3q,Centro | 3 quartos,14,diagnostico_p1_p99,p75,p75,otimista,0.7,42,437,848.75,2790000.0,7.772603046594982,True,5
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p25,p25,conservador,0.4,5,434,700.0,2800000.0,3.65,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p25,p25,base,0.55,5,434,700.0,2800000.0,5.018750000000001,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p25,p25,otimista,0.7,5,434,700.0,2800000.0,6.3875,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p25,mediana,conservador,0.4,5,434,700.0,3900000.0,2.6205128205128205,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p25,mediana,base,0.55,5,434,700.0,3900000.0,3.6032051282051283,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p25,mediana,otimista,0.7,5,434,700.0,3900000.0,4.5858974358974365,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p25,p75,conservador,0.4,5,434,700.0,6499950.0,1.5723197870752852,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p25,p75,base,0.55,5,434,700.0,6499950.0,2.1619397072285174,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p25,p75,otimista,0.7,5,434,700.0,6499950.0,2.751559627381749,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,mediana,p25,conservador,0.4,5,434,790.0,2800000.0,4.119285714285715,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,mediana,p25,base,0.55,5,434,790.0,2800000.0,5.664017857142857,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,mediana,p25,otimista,0.7,5,434,790.0,2800000.0,7.20875,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,mediana,mediana,conservador,0.4,5,434,790.0,3900000.0,2.9574358974358974,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,mediana,mediana,base,0.55,5,434,790.0,3900000.0,4.066474358974359,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,mediana,mediana,otimista,0.7,5,434,790.0,3900000.0,5.175512820512821,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,mediana,p75,conservador,0.4,5,434,790.0,6499950.0,1.7744751882706788,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,mediana,p75,base,0.55,5,434,790.0,6499950.0,2.4399033838721835,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,mediana,p75,otimista,0.7,5,434,790.0,6499950.0,3.105331579473688,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p75,p25,conservador,0.4,5,434,850.0,2800000.0,4.432142857142858,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p75,p25,base,0.55,5,434,850.0,2800000.0,6.094196428571428,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p75,p25,otimista,0.7,5,434,850.0,2800000.0,7.7562500000000005,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p75,mediana,conservador,0.4,5,434,850.0,3900000.0,3.182051282051282,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p75,mediana,base,0.55,5,434,850.0,3900000.0,4.3753205128205135,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p75,mediana,otimista,0.7,5,434,850.0,3900000.0,5.568589743589744,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p75,p75,conservador,0.4,5,434,850.0,6499950.0,1.909245455734275,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p75,p75,base,0.55,5,434,850.0,6499950.0,2.625212501634628,False,
+centro_4mais,Centro | 4+ quartos,14,diagnostico_p1_p99,p75,p75,otimista,0.7,5,434,850.0,6499950.0,3.341179547534981,False,
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p25,p25,conservador,0.4,66,2313,799.55,2665118.0,4.380079981449227,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p25,p25,base,0.55,66,2313,799.55,2665118.0,6.022609974492687,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p25,p25,otimista,0.7,66,2313,799.55,2665118.0,7.665139967536147,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p25,mediana,conservador,0.4,66,2313,799.55,3610000.0,3.2336371191135735,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p25,mediana,base,0.55,66,2313,799.55,3610000.0,4.446251038781163,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p25,mediana,otimista,0.7,66,2313,799.55,3610000.0,5.658864958448754,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p25,p75,conservador,0.4,66,2313,799.55,5320000.0,2.1942537593984963,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p25,p75,base,0.55,66,2313,799.55,5320000.0,3.0170989191729327,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p25,p75,otimista,0.7,66,2313,799.55,5320000.0,3.8399440789473682,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,mediana,p25,conservador,0.4,66,2313,900.0,2665118.0,4.9303633084914065,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,mediana,p25,base,0.55,66,2313,900.0,2665118.0,6.7792495491756855,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,mediana,p25,otimista,0.7,66,2313,900.0,2665118.0,8.62813578985996,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,mediana,mediana,conservador,0.4,66,2313,900.0,3610000.0,3.6398891966759,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,mediana,mediana,base,0.55,66,2313,900.0,3610000.0,5.004847645429364,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,mediana,mediana,otimista,0.7,66,2313,900.0,3610000.0,6.369806094182824,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,mediana,p75,conservador,0.4,66,2313,900.0,5320000.0,2.4699248120300754,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,mediana,p75,base,0.55,66,2313,900.0,5320000.0,3.396146616541354,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,mediana,p75,otimista,0.7,66,2313,900.0,5320000.0,4.322368421052631,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p75,p25,conservador,0.4,66,2313,1500.0,2665118.0,8.21727218081901,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p75,p25,base,0.55,66,2313,1500.0,2665118.0,11.298749248626141,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p75,p25,otimista,0.7,66,2313,1500.0,2665118.0,14.38022631643327,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p75,mediana,conservador,0.4,66,2313,1500.0,3610000.0,6.066481994459834,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p75,mediana,base,0.55,66,2313,1500.0,3610000.0,8.341412742382271,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p75,mediana,otimista,0.7,66,2313,1500.0,3610000.0,10.61634349030471,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p75,p75,conservador,0.4,66,2313,1500.0,5320000.0,4.116541353383458,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p75,p75,base,0.55,66,2313,1500.0,5320000.0,5.660244360902256,True,6
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,14,diagnostico_p1_p99,p75,p75,otimista,0.7,66,2313,1500.0,5320000.0,7.203947368421053,True,6
+centro_studio,Centro | studio,30,completa,p25,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p25,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p25,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p25,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p25,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p25,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p25,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p25,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p25,p75,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,mediana,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,mediana,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,mediana,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,mediana,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,mediana,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,mediana,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,mediana,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,mediana,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,mediana,p75,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p75,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p75,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p75,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p75,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p75,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p75,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p75,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p75,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,completa,p75,p75,otimista,0.7,0,0,,,,False,
+centro_1q,Centro | 1 quarto,30,completa,p25,p25,conservador,0.4,76,22,376.75,652500.0,8.429961685823754,True,1
+centro_1q,Centro | 1 quarto,30,completa,p25,p25,base,0.55,76,22,376.75,652500.0,11.591197318007662,True,1
+centro_1q,Centro | 1 quarto,30,completa,p25,p25,otimista,0.7,76,22,376.75,652500.0,14.75243295019157,True,1
+centro_1q,Centro | 1 quarto,30,completa,p25,mediana,conservador,0.4,76,22,376.75,890000.0,6.1803932584269665,True,2
+centro_1q,Centro | 1 quarto,30,completa,p25,mediana,base,0.55,76,22,376.75,890000.0,8.498040730337078,True,2
+centro_1q,Centro | 1 quarto,30,completa,p25,mediana,otimista,0.7,76,22,376.75,890000.0,10.815688202247191,True,2
+centro_1q,Centro | 1 quarto,30,completa,p25,p75,conservador,0.4,76,22,376.75,980000.0,5.61280612244898,True,1
+centro_1q,Centro | 1 quarto,30,completa,p25,p75,base,0.55,76,22,376.75,980000.0,7.717608418367347,True,1
+centro_1q,Centro | 1 quarto,30,completa,p25,p75,otimista,0.7,76,22,376.75,980000.0,9.822410714285715,True,1
+centro_1q,Centro | 1 quarto,30,completa,mediana,p25,conservador,0.4,76,22,450.0,652500.0,10.068965517241379,True,1
+centro_1q,Centro | 1 quarto,30,completa,mediana,p25,base,0.55,76,22,450.0,652500.0,13.844827586206899,True,1
+centro_1q,Centro | 1 quarto,30,completa,mediana,p25,otimista,0.7,76,22,450.0,652500.0,17.620689655172413,True,1
+centro_1q,Centro | 1 quarto,30,completa,mediana,mediana,conservador,0.4,76,22,450.0,890000.0,7.382022471910113,True,3
+centro_1q,Centro | 1 quarto,30,completa,mediana,mediana,base,0.55,76,22,450.0,890000.0,10.150280898876405,True,3
+centro_1q,Centro | 1 quarto,30,completa,mediana,mediana,otimista,0.7,76,22,450.0,890000.0,12.918539325842696,True,3
+centro_1q,Centro | 1 quarto,30,completa,mediana,p75,conservador,0.4,76,22,450.0,980000.0,6.704081632653061,True,1
+centro_1q,Centro | 1 quarto,30,completa,mediana,p75,base,0.55,76,22,450.0,980000.0,9.218112244897961,True,1
+centro_1q,Centro | 1 quarto,30,completa,mediana,p75,otimista,0.7,76,22,450.0,980000.0,11.732142857142856,True,1
+centro_1q,Centro | 1 quarto,30,completa,p75,p25,conservador,0.4,76,22,527.374975,652500.0,11.800267639846744,True,2
+centro_1q,Centro | 1 quarto,30,completa,p75,p25,base,0.55,76,22,527.374975,652500.0,16.225368004789274,True,2
+centro_1q,Centro | 1 quarto,30,completa,p75,p25,otimista,0.7,76,22,527.374975,652500.0,20.6504683697318,True,2
+centro_1q,Centro | 1 quarto,30,completa,p75,mediana,conservador,0.4,76,22,527.374975,890000.0,8.651319814606742,True,3
+centro_1q,Centro | 1 quarto,30,completa,p75,mediana,base,0.55,76,22,527.374975,890000.0,11.89556474508427,True,3
+centro_1q,Centro | 1 quarto,30,completa,p75,mediana,otimista,0.7,76,22,527.374975,890000.0,15.139809675561796,True,3
+centro_1q,Centro | 1 quarto,30,completa,p75,p75,conservador,0.4,76,22,527.374975,980000.0,7.856810852040816,True,2
+centro_1q,Centro | 1 quarto,30,completa,p75,p75,base,0.55,76,22,527.374975,980000.0,10.803114921556123,True,2
+centro_1q,Centro | 1 quarto,30,completa,p75,p75,otimista,0.7,76,22,527.374975,980000.0,13.749418991071426,True,2
+meiapraia_studio,Meia Praia | studio,30,completa,p25,p25,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p25,p25,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p25,p25,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p25,mediana,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p25,mediana,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p25,mediana,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p25,p75,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p25,p75,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p25,p75,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,mediana,p25,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,mediana,p25,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,mediana,p25,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,mediana,mediana,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,mediana,mediana,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,mediana,mediana,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,mediana,p75,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,mediana,p75,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,mediana,p75,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p75,p25,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p75,p25,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p75,p25,otimista,0.7,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p75,mediana,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p75,mediana,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p75,mediana,otimista,0.7,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p75,p75,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p75,p75,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,completa,p75,p75,otimista,0.7,8,0,542.5,,,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p25,p25,conservador,0.4,17,58,400.0,757000.0,7.714663143989433,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p25,p25,base,0.55,17,58,400.0,757000.0,10.607661822985468,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p25,p25,otimista,0.7,17,58,400.0,757000.0,13.500660501981507,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p25,mediana,conservador,0.4,17,58,400.0,877500.0,6.655270655270655,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p25,mediana,base,0.55,17,58,400.0,877500.0,9.150997150997151,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p25,mediana,otimista,0.7,17,58,400.0,877500.0,11.646723646723647,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p25,p75,conservador,0.4,17,58,400.0,1003755.25,5.818151387003953,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p25,p75,base,0.55,17,58,400.0,1003755.25,7.999958157130436,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p25,p75,otimista,0.7,17,58,400.0,1003755.25,10.181764927256918,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,mediana,p25,conservador,0.4,17,58,490.0,757000.0,9.450462351387054,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,mediana,p25,base,0.55,17,58,490.0,757000.0,12.994385733157202,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,mediana,p25,otimista,0.7,17,58,490.0,757000.0,16.538309114927344,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,mediana,mediana,conservador,0.4,17,58,490.0,877500.0,8.152706552706553,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,mediana,mediana,base,0.55,17,58,490.0,877500.0,11.209971509971512,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,mediana,mediana,otimista,0.7,17,58,490.0,877500.0,14.267236467236465,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,mediana,p75,conservador,0.4,17,58,490.0,1003755.25,7.127235449079842,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,mediana,p75,base,0.55,17,58,490.0,1003755.25,9.799948742484785,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,mediana,p75,otimista,0.7,17,58,490.0,1003755.25,12.472662035889725,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p75,p25,conservador,0.4,17,58,545.0,757000.0,10.511228533685602,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p75,p25,base,0.55,17,58,545.0,757000.0,14.452939233817702,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p75,p25,otimista,0.7,17,58,545.0,757000.0,18.394649933949804,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p75,mediana,conservador,0.4,17,58,545.0,877500.0,9.067806267806269,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p75,mediana,base,0.55,17,58,545.0,877500.0,12.468233618233619,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p75,mediana,otimista,0.7,17,58,545.0,877500.0,15.868660968660969,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p75,p75,conservador,0.4,17,58,545.0,1003755.25,7.927231264792886,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p75,p75,base,0.55,17,58,545.0,1003755.25,10.89994298909022,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,completa,p75,p75,otimista,0.7,17,58,545.0,1003755.25,13.872654713387552,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p25,p25,conservador,0.4,2,50,251.25,446750.0,8.210968102965865,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p25,p25,base,0.55,2,50,251.25,446750.0,11.290081141578066,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p25,p25,otimista,0.7,2,50,251.25,446750.0,14.369194180190261,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p25,mediana,conservador,0.4,2,50,251.25,624500.0,5.873899119295436,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p25,mediana,base,0.55,2,50,251.25,624500.0,8.076611289031225,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p25,mediana,otimista,0.7,2,50,251.25,624500.0,10.279323458767012,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p25,p75,conservador,0.4,2,50,251.25,750000.0,4.891,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p25,p75,base,0.55,2,50,251.25,750000.0,6.725125000000001,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p25,p75,otimista,0.7,2,50,251.25,750000.0,8.559249999999999,False,
+morretes_1q,Morretes | 1 quarto,30,completa,mediana,p25,conservador,0.4,2,50,327.5,446750.0,10.702853945159486,False,
+morretes_1q,Morretes | 1 quarto,30,completa,mediana,p25,base,0.55,2,50,327.5,446750.0,14.716424174594293,False,
+morretes_1q,Morretes | 1 quarto,30,completa,mediana,p25,otimista,0.7,2,50,327.5,446750.0,18.7299944040291,False,
+morretes_1q,Morretes | 1 quarto,30,completa,mediana,mediana,conservador,0.4,2,50,327.5,624500.0,7.656525220176142,False,
+morretes_1q,Morretes | 1 quarto,30,completa,mediana,mediana,base,0.55,2,50,327.5,624500.0,10.527722177742193,False,
+morretes_1q,Morretes | 1 quarto,30,completa,mediana,mediana,otimista,0.7,2,50,327.5,624500.0,13.398919135308246,False,
+morretes_1q,Morretes | 1 quarto,30,completa,mediana,p75,conservador,0.4,2,50,327.5,750000.0,6.375333333333333,False,
+morretes_1q,Morretes | 1 quarto,30,completa,mediana,p75,base,0.55,2,50,327.5,750000.0,8.766083333333333,False,
+morretes_1q,Morretes | 1 quarto,30,completa,mediana,p75,otimista,0.7,2,50,327.5,750000.0,11.156833333333333,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p75,p25,conservador,0.4,2,50,403.75,446750.0,13.194739787353104,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p75,p25,base,0.55,2,50,403.75,446750.0,18.14276720761052,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p75,p25,otimista,0.7,2,50,403.75,446750.0,23.090794627867936,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p75,mediana,conservador,0.4,2,50,403.75,624500.0,9.439151321056844,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p75,mediana,base,0.55,2,50,403.75,624500.0,12.978833066453163,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p75,mediana,otimista,0.7,2,50,403.75,624500.0,16.51851481184948,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p75,p75,conservador,0.4,2,50,403.75,750000.0,7.859666666666667,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p75,p75,base,0.55,2,50,403.75,750000.0,10.807041666666667,False,
+morretes_1q,Morretes | 1 quarto,30,completa,p75,p75,otimista,0.7,2,50,403.75,750000.0,13.754416666666666,False,
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p25,p25,conservador,0.4,31,141,330.4,600000.0,8.039733333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p25,p25,base,0.55,31,141,330.4,600000.0,11.054633333333335,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p25,p25,otimista,0.7,31,141,330.4,600000.0,14.06953333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p25,mediana,conservador,0.4,31,141,330.4,750000.0,6.431786666666666,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p25,mediana,base,0.55,31,141,330.4,750000.0,8.843706666666668,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p25,mediana,otimista,0.7,31,141,330.4,750000.0,11.255626666666664,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p25,p75,conservador,0.4,31,141,330.4,890000.0,5.4200449438202245,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p25,p75,base,0.55,31,141,330.4,890000.0,7.452561797752809,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p25,p75,otimista,0.7,31,141,330.4,890000.0,9.485078651685392,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,mediana,p25,conservador,0.4,31,141,400.0,600000.0,9.733333333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,mediana,p25,base,0.55,31,141,400.0,600000.0,13.383333333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,mediana,p25,otimista,0.7,31,141,400.0,600000.0,17.033333333333335,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,mediana,mediana,conservador,0.4,31,141,400.0,750000.0,7.786666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,mediana,mediana,base,0.55,31,141,400.0,750000.0,10.706666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,mediana,mediana,otimista,0.7,31,141,400.0,750000.0,13.626666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,mediana,p75,conservador,0.4,31,141,400.0,890000.0,6.561797752808989,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,mediana,p75,base,0.55,31,141,400.0,890000.0,9.022471910112358,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,mediana,p75,otimista,0.7,31,141,400.0,890000.0,11.483146067415731,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p75,p25,conservador,0.4,31,141,528.0,600000.0,12.848,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p75,p25,base,0.55,31,141,528.0,600000.0,17.666,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p75,p25,otimista,0.7,31,141,528.0,600000.0,22.484,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p75,mediana,conservador,0.4,31,141,528.0,750000.0,10.2784,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p75,mediana,base,0.55,31,141,528.0,750000.0,14.132800000000001,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p75,mediana,otimista,0.7,31,141,528.0,750000.0,17.9872,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p75,p75,conservador,0.4,31,141,528.0,890000.0,8.661573033707866,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p75,p75,base,0.55,31,141,528.0,890000.0,11.909662921348316,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,completa,p75,p75,otimista,0.7,31,141,528.0,890000.0,15.157752808988764,True,1
+centro_2q,Centro | 2 quartos,30,completa,p25,p25,conservador,0.4,61,89,399.0,889000.0,6.552755905511811,True,3
+centro_2q,Centro | 2 quartos,30,completa,p25,p25,base,0.55,61,89,399.0,889000.0,9.01003937007874,True,3
+centro_2q,Centro | 2 quartos,30,completa,p25,p25,otimista,0.7,61,89,399.0,889000.0,11.46732283464567,True,3
+centro_2q,Centro | 2 quartos,30,completa,p25,mediana,conservador,0.4,61,89,399.0,1150000.0,5.065565217391304,True,3
+centro_2q,Centro | 2 quartos,30,completa,p25,mediana,base,0.55,61,89,399.0,1150000.0,6.965152173913043,True,3
+centro_2q,Centro | 2 quartos,30,completa,p25,mediana,otimista,0.7,61,89,399.0,1150000.0,8.864739130434783,True,3
+centro_2q,Centro | 2 quartos,30,completa,p25,p75,conservador,0.4,61,89,399.0,1550000.0,3.758322580645161,True,3
+centro_2q,Centro | 2 quartos,30,completa,p25,p75,base,0.55,61,89,399.0,1550000.0,5.1676935483870965,True,3
+centro_2q,Centro | 2 quartos,30,completa,p25,p75,otimista,0.7,61,89,399.0,1550000.0,6.577064516129032,True,3
+centro_2q,Centro | 2 quartos,30,completa,mediana,p25,conservador,0.4,61,89,583.3333,889000.0,9.58005194600675,True,3
+centro_2q,Centro | 2 quartos,30,completa,mediana,p25,base,0.55,61,89,583.3333,889000.0,13.172571425759283,True,3
+centro_2q,Centro | 2 quartos,30,completa,mediana,p25,otimista,0.7,61,89,583.3333,889000.0,16.765090905511812,True,3
+centro_2q,Centro | 2 quartos,30,completa,mediana,mediana,conservador,0.4,61,89,583.3333,1150000.0,7.40579667826087,True,2
+centro_2q,Centro | 2 quartos,30,completa,mediana,mediana,base,0.55,61,89,583.3333,1150000.0,10.182970432608696,True,2
+centro_2q,Centro | 2 quartos,30,completa,mediana,mediana,otimista,0.7,61,89,583.3333,1150000.0,12.960144186956521,True,2
+centro_2q,Centro | 2 quartos,30,completa,mediana,p75,conservador,0.4,61,89,583.3333,1550000.0,5.494623341935484,True,3
+centro_2q,Centro | 2 quartos,30,completa,mediana,p75,base,0.55,61,89,583.3333,1550000.0,7.555107095161291,True,3
+centro_2q,Centro | 2 quartos,30,completa,mediana,p75,otimista,0.7,61,89,583.3333,1550000.0,9.615590848387097,True,3
+centro_2q,Centro | 2 quartos,30,completa,p75,p25,conservador,0.4,61,89,713.0,889000.0,11.709561304836894,True,3
+centro_2q,Centro | 2 quartos,30,completa,p75,p25,base,0.55,61,89,713.0,889000.0,16.10064679415073,True,3
+centro_2q,Centro | 2 quartos,30,completa,p75,p25,otimista,0.7,61,89,713.0,889000.0,20.491732283464568,True,3
+centro_2q,Centro | 2 quartos,30,completa,p75,mediana,conservador,0.4,61,89,713.0,1150000.0,9.052,True,2
+centro_2q,Centro | 2 quartos,30,completa,p75,mediana,base,0.55,61,89,713.0,1150000.0,12.4465,True,2
+centro_2q,Centro | 2 quartos,30,completa,p75,mediana,otimista,0.7,61,89,713.0,1150000.0,15.841,True,2
+centro_2q,Centro | 2 quartos,30,completa,p75,p75,conservador,0.4,61,89,713.0,1550000.0,6.715999999999999,True,3
+centro_2q,Centro | 2 quartos,30,completa,p75,p75,base,0.55,61,89,713.0,1550000.0,9.234499999999999,True,3
+centro_2q,Centro | 2 quartos,30,completa,p75,p75,otimista,0.7,61,89,713.0,1550000.0,11.753,True,3
+centro_3q,Centro | 3 quartos,30,completa,p25,p25,conservador,0.4,39,437,520.5,1750000.0,4.3424571428571435,True,5
+centro_3q,Centro | 3 quartos,30,completa,p25,p25,base,0.55,39,437,520.5,1750000.0,5.970878571428572,True,5
+centro_3q,Centro | 3 quartos,30,completa,p25,p25,otimista,0.7,39,437,520.5,1750000.0,7.5993,True,5
+centro_3q,Centro | 3 quartos,30,completa,p25,mediana,conservador,0.4,39,437,520.5,2100000.0,3.6187142857142853,True,4
+centro_3q,Centro | 3 quartos,30,completa,p25,mediana,base,0.55,39,437,520.5,2100000.0,4.975732142857144,True,4
+centro_3q,Centro | 3 quartos,30,completa,p25,mediana,otimista,0.7,39,437,520.5,2100000.0,6.33275,True,4
+centro_3q,Centro | 3 quartos,30,completa,p25,p75,conservador,0.4,39,437,520.5,2790000.0,2.7237634408602154,True,4
+centro_3q,Centro | 3 quartos,30,completa,p25,p75,base,0.55,39,437,520.5,2790000.0,3.745174731182796,True,4
+centro_3q,Centro | 3 quartos,30,completa,p25,p75,otimista,0.7,39,437,520.5,2790000.0,4.766586021505376,True,4
+centro_3q,Centro | 3 quartos,30,completa,mediana,p25,conservador,0.4,39,437,750.0,1750000.0,6.257142857142857,True,4
+centro_3q,Centro | 3 quartos,30,completa,mediana,p25,base,0.55,39,437,750.0,1750000.0,8.603571428571428,True,4
+centro_3q,Centro | 3 quartos,30,completa,mediana,p25,otimista,0.7,39,437,750.0,1750000.0,10.95,True,4
+centro_3q,Centro | 3 quartos,30,completa,mediana,mediana,conservador,0.4,39,437,750.0,2100000.0,5.214285714285714,True,4
+centro_3q,Centro | 3 quartos,30,completa,mediana,mediana,base,0.55,39,437,750.0,2100000.0,7.169642857142858,True,4
+centro_3q,Centro | 3 quartos,30,completa,mediana,mediana,otimista,0.7,39,437,750.0,2100000.0,9.125,True,4
+centro_3q,Centro | 3 quartos,30,completa,mediana,p75,conservador,0.4,39,437,750.0,2790000.0,3.924731182795699,True,4
+centro_3q,Centro | 3 quartos,30,completa,mediana,p75,base,0.55,39,437,750.0,2790000.0,5.396505376344086,True,4
+centro_3q,Centro | 3 quartos,30,completa,mediana,p75,otimista,0.7,39,437,750.0,2790000.0,6.868279569892473,True,4
+centro_3q,Centro | 3 quartos,30,completa,p75,p25,conservador,0.4,39,437,850.0,1750000.0,7.091428571428571,True,5
+centro_3q,Centro | 3 quartos,30,completa,p75,p25,base,0.55,39,437,850.0,1750000.0,9.750714285714286,True,5
+centro_3q,Centro | 3 quartos,30,completa,p75,p25,otimista,0.7,39,437,850.0,1750000.0,12.41,True,5
+centro_3q,Centro | 3 quartos,30,completa,p75,mediana,conservador,0.4,39,437,850.0,2100000.0,5.90952380952381,True,5
+centro_3q,Centro | 3 quartos,30,completa,p75,mediana,base,0.55,39,437,850.0,2100000.0,8.125595238095238,True,5
+centro_3q,Centro | 3 quartos,30,completa,p75,mediana,otimista,0.7,39,437,850.0,2100000.0,10.341666666666667,True,5
+centro_3q,Centro | 3 quartos,30,completa,p75,p75,conservador,0.4,39,437,850.0,2790000.0,4.448028673835125,True,4
+centro_3q,Centro | 3 quartos,30,completa,p75,p75,base,0.55,39,437,850.0,2790000.0,6.116039426523297,True,4
+centro_3q,Centro | 3 quartos,30,completa,p75,p75,otimista,0.7,39,437,850.0,2790000.0,7.78405017921147,True,4
+centro_4mais,Centro | 4+ quartos,30,completa,p25,p25,conservador,0.4,4,434,637.5,2800000.0,3.3241071428571427,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p25,p25,base,0.55,4,434,637.5,2800000.0,4.570647321428572,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p25,p25,otimista,0.7,4,434,637.5,2800000.0,5.8171875,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p25,mediana,conservador,0.4,4,434,637.5,3900000.0,2.3865384615384615,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p25,mediana,base,0.55,4,434,637.5,3900000.0,3.2814903846153847,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p25,mediana,otimista,0.7,4,434,637.5,3900000.0,4.176442307692307,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p25,p75,conservador,0.4,4,434,637.5,6499950.0,1.4319340918007062,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p25,p75,base,0.55,4,434,637.5,6499950.0,1.968909376225971,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p25,p75,otimista,0.7,4,434,637.5,6499950.0,2.5058846606512355,False,
+centro_4mais,Centro | 4+ quartos,30,completa,mediana,p25,conservador,0.4,4,434,745.0,2800000.0,3.8846428571428575,False,
+centro_4mais,Centro | 4+ quartos,30,completa,mediana,p25,base,0.55,4,434,745.0,2800000.0,5.341383928571428,False,
+centro_4mais,Centro | 4+ quartos,30,completa,mediana,p25,otimista,0.7,4,434,745.0,2800000.0,6.798124999999999,False,
+centro_4mais,Centro | 4+ quartos,30,completa,mediana,mediana,conservador,0.4,4,434,745.0,3900000.0,2.7889743589743587,False,
+centro_4mais,Centro | 4+ quartos,30,completa,mediana,mediana,base,0.55,4,434,745.0,3900000.0,3.8348397435897437,False,
+centro_4mais,Centro | 4+ quartos,30,completa,mediana,mediana,otimista,0.7,4,434,745.0,3900000.0,4.880705128205128,False,
+centro_4mais,Centro | 4+ quartos,30,completa,mediana,p75,conservador,0.4,4,434,745.0,6499950.0,1.673397487672982,False,
+centro_4mais,Centro | 4+ quartos,30,completa,mediana,p75,base,0.55,4,434,745.0,6499950.0,2.3009215455503504,False,
+centro_4mais,Centro | 4+ quartos,30,completa,mediana,p75,otimista,0.7,4,434,745.0,6499950.0,2.9284456034277184,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p75,p25,conservador,0.4,4,434,805.0,2800000.0,4.1975,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p75,p25,base,0.55,4,434,805.0,2800000.0,5.7715625,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p75,p25,otimista,0.7,4,434,805.0,2800000.0,7.345625,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p75,mediana,conservador,0.4,4,434,805.0,3900000.0,3.0135897435897436,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p75,mediana,base,0.55,4,434,805.0,3900000.0,4.143685897435898,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p75,mediana,otimista,0.7,4,434,805.0,3900000.0,5.273782051282051,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p75,p75,conservador,0.4,4,434,805.0,6499950.0,1.808167755136578,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p75,p75,base,0.55,4,434,805.0,6499950.0,2.486230663312795,False,
+centro_4mais,Centro | 4+ quartos,30,completa,p75,p75,otimista,0.7,4,434,805.0,6499950.0,3.1642935714890115,False,
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p25,p25,conservador,0.4,59,2313,810.0,2665118.0,4.4373269776422655,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p25,p25,base,0.55,59,2313,810.0,2665118.0,6.101324594258116,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p25,p25,otimista,0.7,59,2313,810.0,2665118.0,7.765322210873965,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p25,mediana,conservador,0.4,59,2313,810.0,3610000.0,3.2759002770083105,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p25,mediana,base,0.55,59,2313,810.0,3610000.0,4.5043628808864264,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p25,mediana,otimista,0.7,59,2313,810.0,3610000.0,5.732825484764543,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p25,p75,conservador,0.4,59,2313,810.0,5320000.0,2.2229323308270676,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p25,p75,base,0.55,59,2313,810.0,5320000.0,3.0565319548872183,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p25,p75,otimista,0.7,59,2313,810.0,5320000.0,3.8901315789473685,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,mediana,p25,conservador,0.4,59,2313,1000.0,2665118.0,5.4781814538793405,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,mediana,p25,base,0.55,59,2313,1000.0,2665118.0,7.5324994990840946,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,mediana,p25,otimista,0.7,59,2313,1000.0,2665118.0,9.586817544288845,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,mediana,mediana,conservador,0.4,59,2313,1000.0,3610000.0,4.044321329639889,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,mediana,mediana,base,0.55,59,2313,1000.0,3610000.0,5.560941828254848,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,mediana,mediana,otimista,0.7,59,2313,1000.0,3610000.0,7.077562326869806,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,mediana,p75,conservador,0.4,59,2313,1000.0,5320000.0,2.744360902255639,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,mediana,p75,base,0.55,59,2313,1000.0,5320000.0,3.7734962406015047,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,mediana,p75,otimista,0.7,59,2313,1000.0,5320000.0,4.802631578947368,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p75,p25,conservador,0.4,59,2313,1589.0,2665118.0,8.704830330214271,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p75,p25,base,0.55,59,2313,1589.0,2665118.0,11.969141704044624,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p75,p25,otimista,0.7,59,2313,1589.0,2665118.0,15.233453077874975,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p75,mediana,conservador,0.4,59,2313,1589.0,3610000.0,6.4264265927977835,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p75,mediana,base,0.55,59,2313,1589.0,3610000.0,8.836336565096953,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p75,mediana,otimista,0.7,59,2313,1589.0,3610000.0,11.246246537396122,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p75,p75,conservador,0.4,59,2313,1589.0,5320000.0,4.3607894736842105,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p75,p75,base,0.55,59,2313,1589.0,5320000.0,5.996085526315789,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,completa,p75,p75,otimista,0.7,59,2313,1589.0,5320000.0,7.6313815789473685,True,5
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p25,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p25,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p25,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p25,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p25,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p25,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p25,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p25,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p25,p75,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,mediana,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,mediana,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,mediana,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,mediana,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,mediana,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,mediana,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,mediana,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,mediana,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,mediana,p75,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p75,p25,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p75,p25,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p75,p25,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p75,mediana,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p75,mediana,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p75,mediana,otimista,0.7,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p75,p75,conservador,0.4,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p75,p75,base,0.55,0,0,,,,False,
+centro_studio,Centro | studio,30,diagnostico_p1_p99,p75,p75,otimista,0.7,0,0,,,,False,
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p25,p25,conservador,0.4,76,22,376.75,652500.0,8.429961685823754,True,1
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p25,p25,base,0.55,76,22,376.75,652500.0,11.591197318007662,True,1
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p25,p25,otimista,0.7,76,22,376.75,652500.0,14.75243295019157,True,1
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p25,mediana,conservador,0.4,76,22,376.75,890000.0,6.1803932584269665,True,2
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p25,mediana,base,0.55,76,22,376.75,890000.0,8.498040730337078,True,2
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p25,mediana,otimista,0.7,76,22,376.75,890000.0,10.815688202247191,True,2
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p25,p75,conservador,0.4,76,22,376.75,980000.0,5.61280612244898,True,1
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p25,p75,base,0.55,76,22,376.75,980000.0,7.717608418367347,True,1
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p25,p75,otimista,0.7,76,22,376.75,980000.0,9.822410714285715,True,1
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,mediana,p25,conservador,0.4,76,22,450.0,652500.0,10.068965517241379,True,1
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,mediana,p25,base,0.55,76,22,450.0,652500.0,13.844827586206899,True,1
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,mediana,p25,otimista,0.7,76,22,450.0,652500.0,17.620689655172413,True,1
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,mediana,mediana,conservador,0.4,76,22,450.0,890000.0,7.382022471910113,True,3
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,mediana,mediana,base,0.55,76,22,450.0,890000.0,10.150280898876405,True,3
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,mediana,mediana,otimista,0.7,76,22,450.0,890000.0,12.918539325842696,True,3
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,mediana,p75,conservador,0.4,76,22,450.0,980000.0,6.704081632653061,True,1
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,mediana,p75,base,0.55,76,22,450.0,980000.0,9.218112244897961,True,1
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,mediana,p75,otimista,0.7,76,22,450.0,980000.0,11.732142857142856,True,1
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p75,p25,conservador,0.4,76,22,527.374975,652500.0,11.800267639846744,True,2
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p75,p25,base,0.55,76,22,527.374975,652500.0,16.225368004789274,True,2
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p75,p25,otimista,0.7,76,22,527.374975,652500.0,20.6504683697318,True,2
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p75,mediana,conservador,0.4,76,22,527.374975,890000.0,8.651319814606742,True,3
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p75,mediana,base,0.55,76,22,527.374975,890000.0,11.89556474508427,True,3
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p75,mediana,otimista,0.7,76,22,527.374975,890000.0,15.139809675561796,True,3
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p75,p75,conservador,0.4,76,22,527.374975,980000.0,7.856810852040816,True,2
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p75,p75,base,0.55,76,22,527.374975,980000.0,10.803114921556123,True,2
+centro_1q,Centro | 1 quarto,30,diagnostico_p1_p99,p75,p75,otimista,0.7,76,22,527.374975,980000.0,13.749418991071426,True,2
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p25,p25,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p25,p25,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p25,p25,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p25,mediana,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p25,mediana,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p25,mediana,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p25,p75,conservador,0.4,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p25,p75,base,0.55,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p25,p75,otimista,0.7,8,0,325.6,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,mediana,p25,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,mediana,p25,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,mediana,p25,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,mediana,mediana,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,mediana,mediana,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,mediana,mediana,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,mediana,p75,conservador,0.4,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,mediana,p75,base,0.55,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,mediana,p75,otimista,0.7,8,0,435.0,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p75,p25,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p75,p25,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p75,p25,otimista,0.7,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p75,mediana,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p75,mediana,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p75,mediana,otimista,0.7,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p75,p75,conservador,0.4,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p75,p75,base,0.55,8,0,542.5,,,False,
+meiapraia_studio,Meia Praia | studio,30,diagnostico_p1_p99,p75,p75,otimista,0.7,8,0,542.5,,,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p25,p25,conservador,0.4,17,58,400.0,757000.0,7.714663143989433,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p25,p25,base,0.55,17,58,400.0,757000.0,10.607661822985468,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p25,p25,otimista,0.7,17,58,400.0,757000.0,13.500660501981507,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p25,mediana,conservador,0.4,17,58,400.0,877500.0,6.655270655270655,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p25,mediana,base,0.55,17,58,400.0,877500.0,9.150997150997151,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p25,mediana,otimista,0.7,17,58,400.0,877500.0,11.646723646723647,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p25,p75,conservador,0.4,17,58,400.0,1003755.25,5.818151387003953,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p25,p75,base,0.55,17,58,400.0,1003755.25,7.999958157130436,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p25,p75,otimista,0.7,17,58,400.0,1003755.25,10.181764927256918,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,mediana,p25,conservador,0.4,17,58,490.0,757000.0,9.450462351387054,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,mediana,p25,base,0.55,17,58,490.0,757000.0,12.994385733157202,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,mediana,p25,otimista,0.7,17,58,490.0,757000.0,16.538309114927344,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,mediana,mediana,conservador,0.4,17,58,490.0,877500.0,8.152706552706553,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,mediana,mediana,base,0.55,17,58,490.0,877500.0,11.209971509971512,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,mediana,mediana,otimista,0.7,17,58,490.0,877500.0,14.267236467236465,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,mediana,p75,conservador,0.4,17,58,490.0,1003755.25,7.127235449079842,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,mediana,p75,base,0.55,17,58,490.0,1003755.25,9.799948742484785,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,mediana,p75,otimista,0.7,17,58,490.0,1003755.25,12.472662035889725,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p75,p25,conservador,0.4,17,58,545.0,757000.0,10.511228533685602,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p75,p25,base,0.55,17,58,545.0,757000.0,14.452939233817702,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p75,p25,otimista,0.7,17,58,545.0,757000.0,18.394649933949804,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p75,mediana,conservador,0.4,17,58,545.0,877500.0,9.067806267806269,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p75,mediana,base,0.55,17,58,545.0,877500.0,12.468233618233619,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p75,mediana,otimista,0.7,17,58,545.0,877500.0,15.868660968660969,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p75,p75,conservador,0.4,17,58,545.0,1003755.25,7.927231264792886,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p75,p75,base,0.55,17,58,545.0,1003755.25,10.89994298909022,False,
+meiapraia_1q,Meia Praia | 1 quarto,30,diagnostico_p1_p99,p75,p75,otimista,0.7,17,58,545.0,1003755.25,13.872654713387552,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p25,p25,conservador,0.4,2,50,251.25,446750.0,8.210968102965865,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p25,p25,base,0.55,2,50,251.25,446750.0,11.290081141578066,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p25,p25,otimista,0.7,2,50,251.25,446750.0,14.369194180190261,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p25,mediana,conservador,0.4,2,50,251.25,624500.0,5.873899119295436,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p25,mediana,base,0.55,2,50,251.25,624500.0,8.076611289031225,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p25,mediana,otimista,0.7,2,50,251.25,624500.0,10.279323458767012,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p25,p75,conservador,0.4,2,50,251.25,750000.0,4.891,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p25,p75,base,0.55,2,50,251.25,750000.0,6.725125000000001,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p25,p75,otimista,0.7,2,50,251.25,750000.0,8.559249999999999,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,mediana,p25,conservador,0.4,2,50,327.5,446750.0,10.702853945159486,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,mediana,p25,base,0.55,2,50,327.5,446750.0,14.716424174594293,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,mediana,p25,otimista,0.7,2,50,327.5,446750.0,18.7299944040291,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,mediana,mediana,conservador,0.4,2,50,327.5,624500.0,7.656525220176142,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,mediana,mediana,base,0.55,2,50,327.5,624500.0,10.527722177742193,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,mediana,mediana,otimista,0.7,2,50,327.5,624500.0,13.398919135308246,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,mediana,p75,conservador,0.4,2,50,327.5,750000.0,6.375333333333333,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,mediana,p75,base,0.55,2,50,327.5,750000.0,8.766083333333333,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,mediana,p75,otimista,0.7,2,50,327.5,750000.0,11.156833333333333,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p75,p25,conservador,0.4,2,50,403.75,446750.0,13.194739787353104,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p75,p25,base,0.55,2,50,403.75,446750.0,18.14276720761052,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p75,p25,otimista,0.7,2,50,403.75,446750.0,23.090794627867936,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p75,mediana,conservador,0.4,2,50,403.75,624500.0,9.439151321056844,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p75,mediana,base,0.55,2,50,403.75,624500.0,12.978833066453163,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p75,mediana,otimista,0.7,2,50,403.75,624500.0,16.51851481184948,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p75,p75,conservador,0.4,2,50,403.75,750000.0,7.859666666666667,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p75,p75,base,0.55,2,50,403.75,750000.0,10.807041666666667,False,
+morretes_1q,Morretes | 1 quarto,30,diagnostico_p1_p99,p75,p75,otimista,0.7,2,50,403.75,750000.0,13.754416666666666,False,
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p25,p25,conservador,0.4,31,141,330.4,600000.0,8.039733333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p25,p25,base,0.55,31,141,330.4,600000.0,11.054633333333335,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p25,p25,otimista,0.7,31,141,330.4,600000.0,14.06953333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p25,mediana,conservador,0.4,31,141,330.4,750000.0,6.431786666666666,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p25,mediana,base,0.55,31,141,330.4,750000.0,8.843706666666668,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p25,mediana,otimista,0.7,31,141,330.4,750000.0,11.255626666666664,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p25,p75,conservador,0.4,31,141,330.4,890000.0,5.4200449438202245,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p25,p75,base,0.55,31,141,330.4,890000.0,7.452561797752809,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p25,p75,otimista,0.7,31,141,330.4,890000.0,9.485078651685392,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,mediana,p25,conservador,0.4,31,141,400.0,600000.0,9.733333333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,mediana,p25,base,0.55,31,141,400.0,600000.0,13.383333333333333,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,mediana,p25,otimista,0.7,31,141,400.0,600000.0,17.033333333333335,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,mediana,mediana,conservador,0.4,31,141,400.0,750000.0,7.786666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,mediana,mediana,base,0.55,31,141,400.0,750000.0,10.706666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,mediana,mediana,otimista,0.7,31,141,400.0,750000.0,13.626666666666667,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,mediana,p75,conservador,0.4,31,141,400.0,890000.0,6.561797752808989,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,mediana,p75,base,0.55,31,141,400.0,890000.0,9.022471910112358,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,mediana,p75,otimista,0.7,31,141,400.0,890000.0,11.483146067415731,True,2
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p75,p25,conservador,0.4,31,141,528.0,600000.0,12.848,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p75,p25,base,0.55,31,141,528.0,600000.0,17.666,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p75,p25,otimista,0.7,31,141,528.0,600000.0,22.484,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p75,mediana,conservador,0.4,31,141,528.0,750000.0,10.2784,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p75,mediana,base,0.55,31,141,528.0,750000.0,14.132800000000001,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p75,mediana,otimista,0.7,31,141,528.0,750000.0,17.9872,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p75,p75,conservador,0.4,31,141,528.0,890000.0,8.661573033707866,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p75,p75,base,0.55,31,141,528.0,890000.0,11.909662921348316,True,1
+outros_compactos,Outros bairros | studio/1 quarto,30,diagnostico_p1_p99,p75,p75,otimista,0.7,31,141,528.0,890000.0,15.157752808988764,True,1
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p25,p25,conservador,0.4,61,89,399.0,889000.0,6.552755905511811,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p25,p25,base,0.55,61,89,399.0,889000.0,9.01003937007874,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p25,p25,otimista,0.7,61,89,399.0,889000.0,11.46732283464567,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p25,mediana,conservador,0.4,61,89,399.0,1150000.0,5.065565217391304,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p25,mediana,base,0.55,61,89,399.0,1150000.0,6.965152173913043,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p25,mediana,otimista,0.7,61,89,399.0,1150000.0,8.864739130434783,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p25,p75,conservador,0.4,61,89,399.0,1550000.0,3.758322580645161,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p25,p75,base,0.55,61,89,399.0,1550000.0,5.1676935483870965,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p25,p75,otimista,0.7,61,89,399.0,1550000.0,6.577064516129032,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,mediana,p25,conservador,0.4,61,89,583.3333,889000.0,9.58005194600675,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,mediana,p25,base,0.55,61,89,583.3333,889000.0,13.172571425759283,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,mediana,p25,otimista,0.7,61,89,583.3333,889000.0,16.765090905511812,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,mediana,mediana,conservador,0.4,61,89,583.3333,1150000.0,7.40579667826087,True,2
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,mediana,mediana,base,0.55,61,89,583.3333,1150000.0,10.182970432608696,True,2
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,mediana,mediana,otimista,0.7,61,89,583.3333,1150000.0,12.960144186956521,True,2
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,mediana,p75,conservador,0.4,61,89,583.3333,1550000.0,5.494623341935484,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,mediana,p75,base,0.55,61,89,583.3333,1550000.0,7.555107095161291,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,mediana,p75,otimista,0.7,61,89,583.3333,1550000.0,9.615590848387097,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p75,p25,conservador,0.4,61,89,713.0,889000.0,11.709561304836894,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p75,p25,base,0.55,61,89,713.0,889000.0,16.10064679415073,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p75,p25,otimista,0.7,61,89,713.0,889000.0,20.491732283464568,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p75,mediana,conservador,0.4,61,89,713.0,1150000.0,9.052,True,2
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p75,mediana,base,0.55,61,89,713.0,1150000.0,12.4465,True,2
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p75,mediana,otimista,0.7,61,89,713.0,1150000.0,15.841,True,2
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p75,p75,conservador,0.4,61,89,713.0,1550000.0,6.715999999999999,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p75,p75,base,0.55,61,89,713.0,1550000.0,9.234499999999999,True,3
+centro_2q,Centro | 2 quartos,30,diagnostico_p1_p99,p75,p75,otimista,0.7,61,89,713.0,1550000.0,11.753,True,3
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p25,p25,conservador,0.4,39,437,520.5,1750000.0,4.3424571428571435,True,5
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p25,p25,base,0.55,39,437,520.5,1750000.0,5.970878571428572,True,5
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p25,p25,otimista,0.7,39,437,520.5,1750000.0,7.5993,True,5
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p25,mediana,conservador,0.4,39,437,520.5,2100000.0,3.6187142857142853,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p25,mediana,base,0.55,39,437,520.5,2100000.0,4.975732142857144,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p25,mediana,otimista,0.7,39,437,520.5,2100000.0,6.33275,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p25,p75,conservador,0.4,39,437,520.5,2790000.0,2.7237634408602154,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p25,p75,base,0.55,39,437,520.5,2790000.0,3.745174731182796,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p25,p75,otimista,0.7,39,437,520.5,2790000.0,4.766586021505376,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,mediana,p25,conservador,0.4,39,437,750.0,1750000.0,6.257142857142857,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,mediana,p25,base,0.55,39,437,750.0,1750000.0,8.603571428571428,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,mediana,p25,otimista,0.7,39,437,750.0,1750000.0,10.95,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,mediana,mediana,conservador,0.4,39,437,750.0,2100000.0,5.214285714285714,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,mediana,mediana,base,0.55,39,437,750.0,2100000.0,7.169642857142858,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,mediana,mediana,otimista,0.7,39,437,750.0,2100000.0,9.125,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,mediana,p75,conservador,0.4,39,437,750.0,2790000.0,3.924731182795699,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,mediana,p75,base,0.55,39,437,750.0,2790000.0,5.396505376344086,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,mediana,p75,otimista,0.7,39,437,750.0,2790000.0,6.868279569892473,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p75,p25,conservador,0.4,39,437,850.0,1750000.0,7.091428571428571,True,5
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p75,p25,base,0.55,39,437,850.0,1750000.0,9.750714285714286,True,5
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p75,p25,otimista,0.7,39,437,850.0,1750000.0,12.41,True,5
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p75,mediana,conservador,0.4,39,437,850.0,2100000.0,5.90952380952381,True,5
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p75,mediana,base,0.55,39,437,850.0,2100000.0,8.125595238095238,True,5
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p75,mediana,otimista,0.7,39,437,850.0,2100000.0,10.341666666666667,True,5
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p75,p75,conservador,0.4,39,437,850.0,2790000.0,4.448028673835125,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p75,p75,base,0.55,39,437,850.0,2790000.0,6.116039426523297,True,4
+centro_3q,Centro | 3 quartos,30,diagnostico_p1_p99,p75,p75,otimista,0.7,39,437,850.0,2790000.0,7.78405017921147,True,4
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p25,p25,conservador,0.4,4,434,637.5,2800000.0,3.3241071428571427,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p25,p25,base,0.55,4,434,637.5,2800000.0,4.570647321428572,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p25,p25,otimista,0.7,4,434,637.5,2800000.0,5.8171875,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p25,mediana,conservador,0.4,4,434,637.5,3900000.0,2.3865384615384615,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p25,mediana,base,0.55,4,434,637.5,3900000.0,3.2814903846153847,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p25,mediana,otimista,0.7,4,434,637.5,3900000.0,4.176442307692307,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p25,p75,conservador,0.4,4,434,637.5,6499950.0,1.4319340918007062,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p25,p75,base,0.55,4,434,637.5,6499950.0,1.968909376225971,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p25,p75,otimista,0.7,4,434,637.5,6499950.0,2.5058846606512355,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,mediana,p25,conservador,0.4,4,434,745.0,2800000.0,3.8846428571428575,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,mediana,p25,base,0.55,4,434,745.0,2800000.0,5.341383928571428,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,mediana,p25,otimista,0.7,4,434,745.0,2800000.0,6.798124999999999,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,mediana,mediana,conservador,0.4,4,434,745.0,3900000.0,2.7889743589743587,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,mediana,mediana,base,0.55,4,434,745.0,3900000.0,3.8348397435897437,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,mediana,mediana,otimista,0.7,4,434,745.0,3900000.0,4.880705128205128,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,mediana,p75,conservador,0.4,4,434,745.0,6499950.0,1.673397487672982,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,mediana,p75,base,0.55,4,434,745.0,6499950.0,2.3009215455503504,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,mediana,p75,otimista,0.7,4,434,745.0,6499950.0,2.9284456034277184,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p75,p25,conservador,0.4,4,434,805.0,2800000.0,4.1975,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p75,p25,base,0.55,4,434,805.0,2800000.0,5.7715625,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p75,p25,otimista,0.7,4,434,805.0,2800000.0,7.345625,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p75,mediana,conservador,0.4,4,434,805.0,3900000.0,3.0135897435897436,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p75,mediana,base,0.55,4,434,805.0,3900000.0,4.143685897435898,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p75,mediana,otimista,0.7,4,434,805.0,3900000.0,5.273782051282051,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p75,p75,conservador,0.4,4,434,805.0,6499950.0,1.808167755136578,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p75,p75,base,0.55,4,434,805.0,6499950.0,2.486230663312795,False,
+centro_4mais,Centro | 4+ quartos,30,diagnostico_p1_p99,p75,p75,otimista,0.7,4,434,805.0,6499950.0,3.1642935714890115,False,
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p25,p25,conservador,0.4,55,2313,800.0,2665118.0,4.382545163103472,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p25,p25,base,0.55,55,2313,800.0,2665118.0,6.025999599267275,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p25,p25,otimista,0.7,55,2313,800.0,2665118.0,7.669454035431077,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p25,mediana,conservador,0.4,55,2313,800.0,3610000.0,3.2354570637119116,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p25,mediana,base,0.55,55,2313,800.0,3610000.0,4.448753462603878,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p25,mediana,otimista,0.7,55,2313,800.0,3610000.0,5.662049861495845,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p25,p75,conservador,0.4,55,2313,800.0,5320000.0,2.1954887218045114,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p25,p75,base,0.55,55,2313,800.0,5320000.0,3.018796992481203,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p25,p75,otimista,0.7,55,2313,800.0,5320000.0,3.8421052631578947,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,mediana,p25,conservador,0.4,55,2313,900.0,2665118.0,4.9303633084914065,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,mediana,p25,base,0.55,55,2313,900.0,2665118.0,6.7792495491756855,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,mediana,p25,otimista,0.7,55,2313,900.0,2665118.0,8.62813578985996,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,mediana,mediana,conservador,0.4,55,2313,900.0,3610000.0,3.6398891966759,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,mediana,mediana,base,0.55,55,2313,900.0,3610000.0,5.004847645429364,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,mediana,mediana,otimista,0.7,55,2313,900.0,3610000.0,6.369806094182824,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,mediana,p75,conservador,0.4,55,2313,900.0,5320000.0,2.4699248120300754,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,mediana,p75,base,0.55,55,2313,900.0,5320000.0,3.396146616541354,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,mediana,p75,otimista,0.7,55,2313,900.0,5320000.0,4.322368421052631,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p75,p25,conservador,0.4,55,2313,1500.0,2665118.0,8.21727218081901,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p75,p25,base,0.55,55,2313,1500.0,2665118.0,11.298749248626141,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p75,p25,otimista,0.7,55,2313,1500.0,2665118.0,14.38022631643327,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p75,mediana,conservador,0.4,55,2313,1500.0,3610000.0,6.066481994459834,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p75,mediana,base,0.55,55,2313,1500.0,3610000.0,8.341412742382271,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p75,mediana,otimista,0.7,55,2313,1500.0,3610000.0,10.61634349030471,True,4
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p75,p75,conservador,0.4,55,2313,1500.0,5320000.0,4.116541353383458,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p75,p75,base,0.55,55,2313,1500.0,5320000.0,5.660244360902256,True,5
+perfil_vencedor_etapa3,Itapema | 4+ quartos e 7+ hóspedes,30,diagnostico_p1_p99,p75,p75,otimista,0.7,55,2313,1500.0,5320000.0,7.203947368421053,True,5

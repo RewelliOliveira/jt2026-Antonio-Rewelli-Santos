@@ -1,0 +1,13 @@
+parametro,valor,unidade,natureza,fonte
+ocupacao_conservadora,0.4,proporcao,hipotese_sensibilidade,Etapa 2
+ocupacao_base,0.55,proporcao,hipotese_sensibilidade,Etapa 2
+ocupacao_otimista,0.7,proporcao,hipotese_sensibilidade,Etapa 2
+custos_variaveis_baixo,0.2,proporcao_receita_bruta,hipotese_sensibilidade,premissa de modelagem; não é média de mercado
+custos_variaveis_base,0.3,proporcao_receita_bruta,hipotese_sensibilidade,premissa de modelagem; não é média de mercado
+custos_variaveis_alto,0.4,proporcao_receita_bruta,hipotese_sensibilidade,premissa de modelagem; não é média de mercado
+preparacao_baixa,0.03,proporcao_preco_compra,hipotese_sensibilidade,mobília/reforma combinadas; não observado
+preparacao_base,0.05,proporcao_preco_compra,hipotese_sensibilidade,mobília/reforma combinadas; não observado
+preparacao_alta,0.08,proporcao_preco_compra,hipotese_sensibilidade,mobília/reforma combinadas; não observado
+itbi_geral_2026,0.015,proporcao_base_calculo,fonte_externa_vigente,https://site.itapema.sc.leg.br/elegis2/detalhe-proposicao/cod_proposicao/24075
+meta_retorno_decisao,0.08,proporcao_ano,regra_decisao_assumida,premissa explícita do case
+emolumentos_2026,,R$ por faixa,estimativa_tabela_oficial,https://www.tjsc.jus.br/documents/d/corregedoria-geral-da-justica/circularcgj643-2025-pdf
