@@ -133,16 +133,17 @@ payback = investimento_total ÷ receita_líquida_anual
 
 ## Etapa 6 — Montar a entrega
 
-- [ ] Salvar gráficos e tabelas finais em `outputs/`, sem depender de células executadas fora de ordem.
-- [ ] Escrever a recomendação final no `README.md` ou em relatório claramente apontado por ele.
-- [ ] Atualizar o `README.md` com:
-  - link público do vídeo na primeira linha;
+- [x] Salvar gráficos e tabelas finais em `outputs/`, sem depender de células executadas fora de ordem.
+- [x] Escrever a recomendação final no `README.md` (resumo enxuto + base técnica).
+- [x] Atualizar o `README.md` com:
   - resumo executivo e posição sobre a tese;
-  - estrutura do projeto;
-  - instalação e execução;
+  - base técnica por trás da escolha;
+  - estrutura/formas de rodar e onde está a resposta;
   - fontes, metodologia, hipóteses e limitações.
-- [ ] Exportar todas as sessões completas de IA para `ai-log/` em formato textual.
-- [ ] Preparar vídeo de até 3 minutos cobrindo recomendação, raciocínio, uso da IA e próximos passos com mais uma semana.
+  - _link público do vídeo na primeira linha: pendente (preencher manualmente)._
+- [x] Exportar todas as sessões completas de IA para `ai-log/` em formato textual.
+- [ ] Preparar vídeo de até 3 minutos cobrindo recomendação, raciocínio, uso da IA e próximos passos com mais uma semana (dependente do usuário).
+- [ ] Inserir o link público do vídeo na primeira linha do `README.md` (dependente do usuário).
 
 ## Etapa 7 — Controle de qualidade e envio
 
