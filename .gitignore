@@ -1,2 +1,7 @@
 opencode.json
 links.md
+.venv/
+.tmp/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
