@@ -88,21 +88,21 @@ payback = investimento_total ÷ receita_líquida_anual
 
 ### 3.1 Melhor perfil
 
-- [ ] Comparar tipo de imóvel, tipo de anúncio, número de quartos e capacidade.
-- [ ] Mostrar diária/potencial de receita, dispersão e amostra por segmento.
-- [ ] Evitar eleger grupos pequenos ou dominados por outliers sem ressalvas.
+- [x] Comparar tipo de imóvel, tipo de anúncio, número de quartos e capacidade.
+- [x] Mostrar diária/potencial de receita, dispersão e amostra por segmento.
+- [x] Evitar eleger grupos pequenos ou dominados por outliers sem ressalvas.
 
 ### 3.2 Melhor localização
 
-- [ ] Padronizar bairros e validar coordenadas.
-- [ ] Comparar bairros de forma geral e dentro de perfis equivalentes.
-- [ ] Separar efeito de localização de diferenças de quartos, capacidade e tipo de imóvel.
+- [x] Padronizar bairros e validar coordenadas.
+- [x] Comparar bairros de forma geral e dentro de perfis equivalentes.
+- [x] Separar efeito de localização de diferenças de quartos, capacidade e tipo de imóvel.
 
 ### 3.3 Fatores associados ao desempenho
 
-- [ ] Investigar quartos, capacidade, tipo, avaliações, superhost, resposta, comodidades e localização.
-- [ ] Usar comparações segmentadas e, se útil, modelo explicativo simples e interpretável.
-- [ ] Tratar associação como associação; não afirmar causalidade sem desenho que a sustente.
+- [x] Investigar quartos, capacidade, tipo, avaliações, superhost, resposta, comodidades e localização.
+- [x] Usar comparações segmentadas e, se útil, modelo explicativo simples e interpretável.
+- [x] Tratar associação como associação; não afirmar causalidade sem desenho que a sustente.
 
 **Saídas:** poucas tabelas e gráficos decisivos, cada um com título conclusivo, unidade, período, amostra e fonte.
 

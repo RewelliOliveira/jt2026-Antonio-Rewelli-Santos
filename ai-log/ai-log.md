@@ -812,3 +812,231 @@ O histórico incremental da Etapa 2 foi anexado ao arquivo consolidado. O commit
 ---
 
 _Fim do histórico no terceiro ponto de backup de 26 de agosto de 2026, imediatamente antes do commit da Etapa 2._
+
+---
+
+## 16. Planejamento da Etapa 3
+
+### Usuário
+
+> Podemos seguir com a etapa 3, monte o plano de implementação e espere minha validação.
+
+### Assistente — atualização
+
+> Vou revisar somente a Etapa 3 e as métricas disponíveis para propor comparações, controles de amostra, métodos explicativos, gráficos e critérios de aceite. Não executarei análises nem criarei arquivos antes da sua aprovação.
+
+### Registro de análise
+
+Foram relidos a Etapa 3 do `ROADMAP.md`, a metodologia da Etapa 2 e os campos de `metricas_por_anuncio.csv`. A amostra disponível continha 959 anúncios elegíveis no corte principal de 14 datas, com cobertura desigual entre bairros, tipos e faixas de quartos.
+
+### Assistente — resposta
+
+> Nenhum arquivo foi alterado até o momento.
+>
+> **Plano de implementação — Etapa 3**
+>
+> 1. Usar como amostra principal os 959 anúncios com pelo menos 14 datas válidas e executar sensibilidades nos cortes de 7 datas (991 anúncios) e 30 datas (859 anúncios).
+> 2. Permitir ranking apenas para segmentos com 20 ou mais anúncios; tratar grupos com 10–19 como exploratórios e grupos com menos de 10 como não ranqueáveis.
+> 3. Criar `notebooks/03_analise_airbnb.ipynb`, dividido em preparação, melhor perfil, melhor localização, fatores associados, sensibilidades e exportação.
+> 4. Comparar tipo de anúncio, quartos, capacidade e combinações de perfil usando mediana da diária anunciada, P25/P75, potencial bruto anualizado no cenário-base, cobertura e diferença entre dias úteis e fins de semana.
+> 5. Comparar bairros de forma bruta e dentro de perfis equivalentes, usando `suburb_key` e as coordenadas analíticas do Mesh, sem confundir composição dos imóveis com efeito de localização.
+> 6. Investigar quartos, banheiros, capacidade, tipo, avaliações, reviews, superhost, operação profissional, taxa de limpeza e comodidades. Campos sem cobertura seriam registrados como não analisáveis.
+> 7. Usar um modelo explicativo simples sobre o logaritmo da diária, com erros robustos e interpretação estritamente associativa, não causal.
+> 8. Gerar quatro tabelas, um resumo metodológico e poucos gráficos decisivos em `outputs/analise/`.
+> 9. Executar a cadeia `00 → 01 → 02 → 03`, conferir artefatos, preservar os hashes de `data/` e atualizar somente os itens concluídos da Etapa 3 no roadmap.
+>
+> Nesta execução não seriam alterados `README.md`, `index.html` ou `ai-log/`, e nenhum commit seria criado sem solicitação posterior.
+
+---
+
+## 17. Discussão sobre outliers
+
+### Usuário
+
+> Antes de prosseguir com o plano me responda uma duvida, os outiliers nao vao interferir no resultado final da analise?
+
+### Assistente — resposta
+
+> Eles podem interferir, mas o plano contém proteções para impedir que determinem a conclusão final.
+>
+> A análise usa duas camadas robustas:
+>
+> 1. Para cada anúncio, usamos a mediana das diárias, reduzindo o efeito de datas excepcionalmente caras ou baratas.
+> 2. Para cada perfil ou bairro, usamos a mediana das medianas dos anúncios, evitando que um imóvel de luxo isolado distorça o segmento inteiro.
+>
+> Além disso:
+>
+> - segmentos pequenos não poderão liderar rankings;
+> - P25, P75 e IQR mostrarão a dispersão;
+> - o modelo usará o logaritmo da diária, reduzindo a influência dos extremos;
+> - haverá uma análise de sensibilidade comparando o resultado completo com uma versão diagnóstica sem os extremos, como P1–P99;
+> - nenhum valor será removido automaticamente: primeiro verificaremos se é erro, anomalia de coleta ou imóvel legítimo de padrão elevado.
+>
+> Se a conclusão mudar significativamente quando os extremos forem controlados, ela será classificada como instável e não sustentará a recomendação final. Assim, imóveis realmente diferenciados permanecem representados, mas não conseguem, sozinhos, definir qual perfil ou bairro é o melhor.
+
+---
+
+## 18. Implementação e validação da Etapa 3
+
+### Usuário
+
+> pode prosseguir com o plano de implementação!
+
+### Assistente — atualização
+
+> Vou iniciar pela validação do universo analítico e das regras para outliers/amostras. Em seguida construirei o notebook, gerarei os artefatos e só marcarei a Etapa 3 no roadmap após executar toda a cadeia e confirmar que `data/` permaneceu intacta.
+
+### Registro de análise — universo e extremos
+
+A inspeção confirmou:
+
+```text
+Amostra principal:                         959 anúncios
+Diária mediana mínima/máxima:              R$ 100 / R$ 10.000
+Limites diagnósticos P1–P99:               R$ 153 / R$ 2.271
+Apartamentos elegíveis:                    879
+Casas elegíveis:                            64
+Meia Praia / Centro / Morretes:      607 / 200 / 77
+```
+
+As comodidades com variação suficiente incluíam piscina, elevador, churrasqueira, vista para praia/mar e estacionamento. Wi-Fi e ar-condicionado eram quase universais na amostra. Taxa e tempo de resposta não possuíam valores válidos.
+
+### Assistente — atualização
+
+> A amostra principal e os limiares ficaram definidos conforme aprovado. Antes de codificar as comparações, estou verificando a distribuição real dos preços, o tamanho das combinações de perfil e a cobertura das comodidades, para que os agrupamentos não sejam escolhidos de forma arbitrária.
+
+### Assistente — atualização
+
+> A inspeção confirmou a necessidade dos controles: a diária mediana por anúncio vai de R$ 100 a R$ 10.000, enquanto P1–P99 fica aproximadamente entre R$ 153 e R$ 2.271. Também há categorias muito pequenas. Vou manter os extremos legítimos na análise principal, usar dupla mediana e produzir o diagnóstico P1–P99 sem exclusão definitiva. O modelo será implementado com NumPy e erros robustos HC3, sem adicionar dependências.
+
+### Registro de execução — criação
+
+Foi criado `notebooks/03_analise_airbnb.ipynb` com nove células. O notebook:
+
+- valida entradas e hashes;
+- cria faixas de quartos, capacidade e banheiros;
+- extrai indicadores de comodidades;
+- compara perfis e bairros com limites mínimos de amostra;
+- padroniza a comparação de localização dentro de perfis equivalentes;
+- ajusta OLS sobre `log(diária)` com erros robustos HC3;
+- executa sensibilidades nos cortes de 7, 14 e 30 datas e em P1–P99;
+- gera quatro tabelas, quatro gráficos e um resumo;
+- reabre e valida todas as saídas.
+
+### Registro de execução — adaptação local do Jupyter
+
+A primeira tentativa de execução foi bloqueada porque o Jupyter tentou gravar configurações fora do workspace. Configuração, dados e runtime temporários foram redirecionados para um diretório local descartável. Nenhuma dependência ou dado externo foi necessário.
+
+### Assistente — atualização
+
+> A primeira execução foi bloqueada apenas porque o Jupyter tentou criar configuração no diretório pessoal, fora do workspace permitido. Vou redirecionar configuração, dados e runtime temporários para uma pasta local do projeto; isso não altera a análise nem exige acesso externo.
+
+### Registro de execução — resultados iniciais
+
+O notebook executou integralmente e gerou:
+
+- `perfil_segmentos.csv`;
+- `localizacao_segmentos.csv`;
+- `fatores_associados.csv`;
+- `sensibilidade_resultados.csv`;
+- `resumo_etapa3.md`;
+- `01_diaria_por_quartos.png`;
+- `02_perfis_comparaveis.png`;
+- `03_bairros_bruto_controlado.png`;
+- `04_fatores_associados.png`.
+
+### Assistente — atualização
+
+> O notebook executou integralmente e gerou as quatro tabelas, o resumo e quatro gráficos. Agora vou confrontar os números principais, revisar visualmente os gráficos e testar a estabilidade dos líderes nos cortes 7/14/30 e P1–P99 antes de atualizar o roadmap.
+
+### Registro de análise — resultados
+
+Os principais resultados foram:
+
+```text
+Perfil combinado líder:
+apartamento | 4+ quartos | 7+ hóspedes
+n = 70; mediana = R$ 987,50/noite; P25–P75 = R$ 800–R$ 1.596
+
+Bairro líder na comparação bruta:
+Meia Praia
+n = 607; mediana = R$ 589/noite
+
+Bairro líder após padronização de apartamentos de 2 e 3 quartos:
+Centro
+n da comparação controlada = 107; diária padronizada = R$ 669/noite
+
+Modelo principal:
+n = 959; R² = 0,552
+associação de 4+ quartos = +70,3%; IC95% +49,6% a +93,9%
+```
+
+Os líderes de tipo, quartos, capacidade, perfil combinado e bairro permaneceram iguais nos cortes de 7, 14 e 30 datas e no diagnóstico P1–P99.
+
+### Assistente — atualização
+
+> Os resultados estão coerentes e os líderes são estáveis, inclusive sem os extremos P1–P99. Na revisão visual, identifiquei dois ajustes de comunicação: explicitar o `n` de cada perfil/bairro dentro dos gráficos e melhorar a legenda da comparação controlada. Vou corrigir isso antes da validação final.
+
+### Registro de validação visual
+
+Os quatro gráficos foram inspecionados visualmente. Foram incluídos tamanhos de amostra por faixa, perfil e bairro; a legenda da comparação bruta/controlada foi reposicionada para não cobrir as barras; títulos, unidades, período e fonte foram mantidos visíveis.
+
+### Assistente — atualização
+
+> A análise já passou nos testes internos. Vou fazer agora a validação de reprodução mais forte: executar os notebooks `00` a `03` em ordem, reabrir os artefatos e comparar os hashes dos cinco CSVs brutos. Depois disso, se tudo permanecer consistente, atualizo apenas as caixas da Etapa 3 no roadmap.
+
+### Registro de validação final
+
+Os notebooks `00_setup.ipynb`, `01_auditoria.ipynb`, `02_metricas_airbnb.ipynb` e `03_analise_airbnb.ipynb` foram executados em sequência sem erros. As saídas foram reabertas, os notebooks foram validados pelo `nbformat` e os hashes permaneceram:
+
+```text
+Details_Itapema.csv        7A28A35811B5B01CA046D06E0AF80180E43D07AF6923FC03B76DF99AC01050C9
+Hosts_ids_Itapema.csv      B2E5AA3E0BD30A3FA63643ABC4BC3142C78BE165855BBD6C4D077D6BDE308EA9
+Mesh_Ids_Data_Itapema.csv  7C9DAA0D37FE5C8FA10E6EFA53CB9E6F66E28880E165A62D3E1F9C74585ADF1E
+Price_AV_Itapema.csv       B0B5C8C07011DAF5C91F2FB9E7BA735026F0AE4542745481376140A714DD813B
+VivaReal_Itapema.csv       C720320AE6BCD34982323A2D6EEC6D5F5F18E316B3A3DAE0A37F03638E32A631
+```
+
+Metadados incidentais de reexecução dos notebooks anteriores foram restaurados. Os nove itens da Etapa 3 foram marcados como concluídos no `ROADMAP.md`.
+
+### Assistente — atualização
+
+> A validação final passou: os quatro notebooks rodaram em ordem, não há erros armazenados, os artefatos foram reabertos com sucesso e os cinco hashes de `data/` continuam exatamente iguais. Os rankings também permaneceram estáveis nos cortes de 7, 14 e 30 datas e no diagnóstico P1–P99.
+
+### Assistente — resposta
+
+> Etapa 3 implementada e validada.
+>
+> Principais resultados:
+>
+> - Melhor perfil robusto: apartamento com 4+ quartos e capacidade para 7+ hóspedes, diária mediana de **R$ 988/noite** (`n=70`).
+> - Melhor bairro na comparação bruta: **Meia Praia**, com R$ 589/noite (`n=607`).
+> - Após controlar apartamentos de 2 e 3 quartos: **Centro**, com diária padronizada de R$ 669/noite (`n=107`).
+> - Rankings permaneceram estáveis nos cortes de 7, 14 e 30 datas e no diagnóstico P1–P99.
+> - O modelo explicativo alcançou R² de 0,552, sempre tratado como associação não causal.
+> - `data/` permaneceu intacta, com todos os hashes preservados.
+>
+> Foram criados `notebooks/03_analise_airbnb.ipynb`, `outputs/analise/` e o resumo `outputs/analise/resumo_etapa3.md`. O `ROADMAP.md` foi atualizado. `README.md`, `requirements.txt`, `index.html` e `ai-log/` não foram alterados durante a implementação. Nenhum commit foi criado naquele momento.
+
+---
+
+## 19. Solicitação de backup e commit da Etapa 3
+
+### Usuário
+
+> Antes de prosseguirmos com a etapa 4.
+>
+> - Salve os novos logs em `ai-log.md`
+> - Commite as alteracoes
+
+### Assistente — atualização
+
+> Vou identificar exatamente o último ponto registrado no `ai-log.md`, acrescentar toda a conversa da Etapa 3 — incluindo sua dúvida sobre outliers, aprovação e resultado da implementação — e então revisar o diff antes de criar o commit em português.
+
+### Registro de execução — preparação
+
+O histórico incremental da Etapa 3 foi anexado ao arquivo consolidado. O commit será preparado com o notebook analítico, os nove artefatos em `outputs/analise/`, a conclusão da Etapa 3 no roadmap e este backup.
+
+---
+
+_Fim do histórico no quarto ponto de backup de 26 de agosto de 2026, imediatamente antes do commit da Etapa 3._
