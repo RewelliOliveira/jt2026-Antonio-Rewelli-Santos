@@ -50,16 +50,16 @@ O primeiro ponto de entrada é `notebooks/00_setup.ipynb`. Ele apenas valida o a
 
 ## Etapa 1 — Auditar os dados antes de analisar
 
-- [ ] Carregar os cinco CSVs com codificação, tipos e datas consistentes.
-- [ ] Produzir um inventário: linhas, colunas, período, nulos, duplicatas e valores inválidos.
-- [ ] Verificar granularidade e snapshots usando `aquisition_date`.
-- [ ] Validar chaves e cardinalidade antes dos joins:
+- [x] Carregar os cinco CSVs com codificação, tipos e datas consistentes.
+- [x] Produzir um inventário: linhas, colunas, período, nulos, duplicatas e valores inválidos.
+- [x] Verificar granularidade e snapshots usando `aquisition_date`.
+- [x] Validar chaves e cardinalidade antes dos joins:
   - `Details.airbnb_listing_id` com `Price_AV` e `Mesh_Ids_Data`;
   - `Details.owner_id` com `Hosts_ids.owner_id`;
   - `VivaReal` como mercado de venda separado, comparável por bairro e perfil, sem join direto com Airbnb.
-- [ ] Tratar repetições de captura em `Price_AV` sem contar a mesma diária mais de uma vez.
-- [ ] Examinar preços, quartos, coordenadas, bairros e avaliações para ausências e outliers.
-- [ ] Registrar decisões de limpeza sem alterar ou gerar arquivos dentro de `data/`.
+- [x] Tratar repetições de captura em `Price_AV` sem contar a mesma diária mais de uma vez.
+- [x] Examinar preços, quartos, coordenadas, bairros e avaliações para ausências e outliers.
+- [x] Registrar decisões de limpeza sem alterar ou gerar arquivos dentro de `data/`.
 
 **Saída:** tabela de qualidade dos dados e base analítica com uma linha por anúncio/perfil, acompanhada de métricas temporais de preço.
 

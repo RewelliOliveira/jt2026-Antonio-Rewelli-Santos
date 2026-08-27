@@ -1,0 +1,83 @@
+dataset,coluna,descricao,papel,unidade,dtype_original,dtype_tratado,regra_tratamento
+details,accuracy_rating,accuracy rating,métrica,escala de avaliação,float64,float64,conversão numérica; inválidos viram ausentes
+details,ad_description,ad description,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+details,ad_name,ad name,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+details,airbnb_listing_id,airbnb listing id,identificador,sem unidade,string,string,texto sem espaços laterais; ausentes preservados
+details,amenities,amenities,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+details,aquisition_date,aquisition date,data,data/hora,str,datetime64[us],datetime; valores não interpretáveis viram ausentes
+details,can_instant_book,can instant book,indicador,booleano,object,boolean,normalização explícita de verdadeiro/falso
+details,check_in,check in,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+details,check_out,check out,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+details,checkin_rating,checkin rating,métrica,escala de avaliação,float64,float64,conversão numérica; inválidos viram ausentes
+details,cleaning_fee,cleaning fee,métrica,BRL anunciado,float64,float64,conversão numérica; inválidos viram ausentes
+details,cleanliness_rating,cleanliness rating,métrica,escala de avaliação,float64,float64,conversão numérica; inválidos viram ausentes
+details,communication_rating,communication rating,métrica,escala de avaliação,float64,float64,conversão numérica; inválidos viram ausentes
+details,guest_satisfaction_overall,guest satisfaction overall,métrica,escala de avaliação,int64,int64,conversão numérica; inválidos viram ausentes
+details,house_rules,house rules,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+details,is_guest_favorite,is guest favorite,indicador,booleano,bool,boolean,normalização explícita de verdadeiro/falso
+details,is_new_listing,is new listing,indicador,booleano,object,boolean,normalização explícita de verdadeiro/falso
+details,is_professional,is professional,indicador,booleano,object,boolean,normalização explícita de verdadeiro/falso
+details,latitude,latitude,métrica,graus decimais,float64,float64,conversão numérica; inválidos viram ausentes
+details,listing_type,listing type,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+details,location_rating,location rating,métrica,escala de avaliação,float64,float64,conversão numérica; inválidos viram ausentes
+details,longitude,longitude,métrica,graus decimais,float64,float64,conversão numérica; inválidos viram ausentes
+details,min_nights,min nights,métrica,contagem/valor numérico,int64,int64,conversão numérica; inválidos viram ausentes
+details,number_of_bathrooms,number of bathrooms,métrica,contagem/valor numérico,float64,float64,conversão numérica; inválidos viram ausentes
+details,number_of_bedrooms,number of bedrooms,métrica,contagem/valor numérico,int64,int64,conversão numérica; inválidos viram ausentes
+details,number_of_beds,number of beds,métrica,contagem/valor numérico,int64,int64,conversão numérica; inválidos viram ausentes
+details,number_of_guests,number of guests,métrica,contagem/valor numérico,int64,int64,conversão numérica; inválidos viram ausentes
+details,number_of_reviews,number of reviews,métrica,contagem/valor numérico,int64,int64,conversão numérica; inválidos viram ausentes
+details,owner_id,owner id,identificador,sem unidade,string,string,texto sem espaços laterais; ausentes preservados
+details,picture_count,picture count,métrica,contagem/valor numérico,int64,int64,conversão numérica; inválidos viram ausentes
+details,safety_features,safety features,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+details,space,space,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+details,star_rating,star rating,métrica,escala de avaliação,float64,float64,conversão numérica; inválidos viram ausentes
+details,url,url,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+details,value_rating,value rating,métrica,escala de avaliação,float64,float64,conversão numérica; inválidos viram ausentes
+hosts,host_snapshot_date,host snapshot date,data,data/hora,str,datetime64[us],datetime; valores não interpretáveis viram ausentes
+hosts,is_superhost,is superhost,indicador,booleano,bool,boolean,normalização explícita de verdadeiro/falso
+hosts,is_verified,is verified,indicador,booleano,bool,boolean,normalização explícita de verdadeiro/falso
+hosts,months_host,months host,métrica,contagem/valor numérico,int64,int64,conversão numérica; inválidos viram ausentes
+hosts,number_of_reviews_host,number of reviews host,métrica,contagem/valor numérico,float64,float64,conversão numérica; inválidos viram ausentes
+hosts,owner,owner,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+hosts,owner_id,owner id,identificador,sem unidade,string,string,texto sem espaços laterais; ausentes preservados
+hosts,response_rate_shown,response rate shown,métrica,percentual,float64,Float64,remoção do símbolo % e conversão numérica
+hosts,response_time_shown,response time shown,atributo,texto/categoria,float64,float64,texto sem espaços laterais; ausentes preservados
+hosts,star_rating_host,star rating host,métrica,escala de avaliação,float64,float64,conversão numérica; inválidos viram ausentes
+hosts,years_host,years host,métrica,contagem/valor numérico,int64,int64,conversão numérica; inválidos viram ausentes
+mesh,airbnb_listing_id,airbnb listing id,identificador,sem unidade,string,string,texto sem espaços laterais; ausentes preservados
+mesh,aquisition_date,aquisition date,data,data/hora,str,datetime64[us],datetime; valores não interpretáveis viram ausentes
+mesh,city,city,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+mesh,country,country,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+mesh,latitude,latitude,métrica,graus decimais,float64,float64,conversão numérica; inválidos viram ausentes
+mesh,longitude,longitude,métrica,graus decimais,float64,float64,conversão numérica; inválidos viram ausentes
+mesh,state,state,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+mesh,suburb,suburb,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+mesh,suburb_key,suburb key,chave derivada,texto normalizado,derivada,string,"remoção de acentos, espaços e pontuação; original preservado"
+precos,airbnb_listing_id,airbnb listing id,identificador,sem unidade,string,string,texto sem espaços laterais; ausentes preservados
+precos,aquisition_date,aquisition date,data,data/hora,str,datetime64[us],datetime; valores não interpretáveis viram ausentes
+precos,date,date,data,data/hora,str,datetime64[us],datetime; valores não interpretáveis viram ausentes
+precos,price,price,métrica,BRL anunciado,float64,float64,conversão numérica; inválidos viram ausentes
+vendas,advertiser_name,advertiser name,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+vendas,amenities,amenities,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+vendas,aquisition_date,aquisition date,data,data/hora,str,datetime64[us],datetime; valores não interpretáveis viram ausentes
+vendas,bathrooms,bathrooms,métrica,contagem/valor numérico,int64,int64,conversão numérica; inválidos viram ausentes
+vendas,bedrooms,bedrooms,métrica,contagem/valor numérico,int64,int64,conversão numérica; inválidos viram ausentes
+vendas,business_types,business types,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+vendas,city,city,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+vendas,link_url,link url,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+vendas,listing_id,listing id,identificador,sem unidade,string,string,texto sem espaços laterais; ausentes preservados
+vendas,listing_title,listing title,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+vendas,listing_type,listing type,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+vendas,monthly_condo_fee,monthly condo fee,métrica,BRL anunciado,float64,float64,conversão numérica; inválidos viram ausentes
+vendas,parking_spaces,parking spaces,métrica,contagem/valor numérico,int64,int64,conversão numérica; inválidos viram ausentes
+vendas,portal,portal,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+vendas,property_type,property type,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+vendas,rental_period,rental period,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+vendas,rental_price,rental price,métrica,BRL anunciado,float64,float64,conversão numérica; inválidos viram ausentes
+vendas,sale_price,sale price,métrica,BRL anunciado,float64,float64,conversão numérica; inválidos viram ausentes
+vendas,state,state,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+vendas,suburb,suburb,atributo,texto/categoria,str,string,texto sem espaços laterais; ausentes preservados
+vendas,suburb_key,suburb key,chave derivada,texto normalizado,derivada,string,"remoção de acentos, espaços e pontuação; original preservado"
+vendas,usable_area,usable area,métrica,m²,int64,int64,conversão numérica; inválidos viram ausentes
+vendas,yearly_iptu,yearly iptu,métrica,BRL anunciado,float64,float64,conversão numérica; inválidos viram ausentes
