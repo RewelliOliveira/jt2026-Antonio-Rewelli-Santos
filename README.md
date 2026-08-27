@@ -1,6 +1,6 @@
 # Hackathon Jovens Talentos AI Builder 2026 — Seazone · Itapema (SC)
 
-▶ **Vídeo da entrega (até 3 min):** `[LINK DO VÍDEO — preencher]`
+▶ **Vídeo da entrega (até 3 min):** `https://drive.google.com/file/d/1bRkLPK5RX_pbehdB_e6FpnUJo-LciDFI/view?usp=sharing`
 
 ---
 
@@ -50,14 +50,14 @@ No GitHub, os notebooks `.ipynb` são renderizados com todas as saídas já exec
 
 Os notebooks guardam as saídas, então o resultado que está no texto aparece renderizado abaixo de cada célula — só abrir e ler.
 
-| Assunto | Arquivo (relatório) | Notebook (renderizado) |
-|---|---|---|
-| Recomendação e retorno | `outputs/recomendacao/recomendacao_executiva.md` | `notebooks/05_recomendacao_retorno.ipynb` |
-| Veredito da tese dos compactos no Centro | `outputs/tese/veredito_tese.md` | `notebooks/04_tese_compactos_centro.ipynb` |
-| Perfil, localização e fatores | `outputs/analise/resumo_etapa3.md` | `notebooks/03_analise_airbnb.ipynb` |
-| Métricas e cenários | — | `notebooks/02_metricas_airbnb.ipynb` |
-| Auditoria e limpeza | `outputs/auditoria/` | `notebooks/01_auditoria.ipynb` |
-| Logs completos de IA | `ai-log/ai-log.md` | — |
+| Assunto                                  | Arquivo (relatório)                              | Notebook (renderizado)                     |
+| ---------------------------------------- | ------------------------------------------------ | ------------------------------------------ |
+| Recomendação e retorno                   | `outputs/recomendacao/recomendacao_executiva.md` | `notebooks/05_recomendacao_retorno.ipynb`  |
+| Veredito da tese dos compactos no Centro | `outputs/tese/veredito_tese.md`                  | `notebooks/04_tese_compactos_centro.ipynb` |
+| Perfil, localização e fatores            | `outputs/analise/resumo_etapa3.md`               | `notebooks/03_analise_airbnb.ipynb`        |
+| Métricas e cenários                      | —                                                | `notebooks/02_metricas_airbnb.ipynb`       |
+| Auditoria e limpeza                      | `outputs/auditoria/`                             | `notebooks/01_auditoria.ipynb`             |
+| Logs completos de IA                     | `ai-log/ai-log.md`                               | —                                          |
 
 ---
 
