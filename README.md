@@ -37,15 +37,43 @@
 
 **Veredito da tese de compactos no Centro** (retorno bruto indicativo por segmento — Centro 1Q atrás de outros segmentos, apoiando a refutação):
 
-![Retorno da tese de compactos no Centro](outputs/tese/03_retorno_indicativo_tese.png)
+---
 
-**Diária mediana por nº de quartos** (perfil de maior receita, Etapa 3):
+## Vendo os resultados — você NÃO precisa rodar nada
 
-![Diária mediana por nº de quartos](outputs/analise/01_diaria_por_quartos.png)
+No GitHub, os notebooks `.ipynb` são renderizados com todas as saídas já executadas, e os gráficos em `outputs/` aparecem direto. **Não é necessário instalar nada nem executar nenhum código** para conferir o trabalho:
+
+1. **Analise** — `notebooks/03_analise_airbnb.ipynb` (perfil, localização e fatores) e figuras em `outputs/analise/`.
+2. **Tese** — `notebooks/04_tese_compactos_centro.ipynb` + gráficos em `outputs/tese/`.
+3. **Recomendação** — `notebooks/05_recomendacao_retorno.ipynb` + `outputs/recomendacao/`.
+4. Use a tabela **Onde está a resposta** abaixo para ir direto a cada conclusão.
+
+Os notebooks guardam as saídas, então o resultado que está no texto aparece renderizado abaixo de cada célula — só abrir e ler.
+
+| Assunto | Arquivo (relatório) | Notebook (renderizado) |
+|---|---|---|
+| Recomendação e retorno | `outputs/recomendacao/recomendacao_executiva.md` | `notebooks/05_recomendacao_retorno.ipynb` |
+| Veredito da tese dos compactos no Centro | `outputs/tese/veredito_tese.md` | `notebooks/04_tese_compactos_centro.ipynb` |
+| Perfil, localização e fatores | `outputs/analise/resumo_etapa3.md` | `notebooks/03_analise_airbnb.ipynb` |
+| Métricas e cenários | — | `notebooks/02_metricas_airbnb.ipynb` |
+| Auditoria e limpeza | `outputs/auditoria/` | `notebooks/01_auditoria.ipynb` |
+| Logs completos de IA | `ai-log/ai-log.md` | — |
 
 ---
 
-## Como rodar (reproduzibilidade)
+## Fontes, hipóteses e limitações (resumo)
+
+- **Fontes de dados:** 5 CSVs locais em `data/` (Airbnb: `Details`, `Hosts`, `Mesh`, `Price_AV`; vendas: `VivaReal`). Snapshot de Itapema (SC).
+- **Proxies e hipóteses:** diária é **anunciada**, não reserva/receita; ocupação (40/55/70%) é **hipótese de sensibilidade**, não fato da base; retorno é **bruto/líquido estimado** antes de IR e sem financiamento.
+- **Custo e impostos:** ITBI (1,5%), cartório (tabela 2026 TJSC), condomínio, IPTU, preparação/mobília e operação — detalhadas no relatório.
+- **Limitações:** 959 de 4.441 anúncios têm preço (21,6%), período Airbnb cobre só jan–abr/2025 (sem ciclo anual completo), preço de venda anunciado ≠ transação, sem join imobiliário entre Airbnb e VivaReal.
+- **Fontes externas:** [desafio](https://seazone-tech.github.io/jovens-talentos-2026-hackathon-data/) · [base de dados](https://github.com/seazone-tech/jovens-talentos-2026-hackathon-data) · [ITBI Itapema](https://site.itapema.sc.leg.br/elegis2/detalhe-proposicao/cod_proposicao/24075) · [Emolumentos TJSC 2026](https://www.tjsc.jus.br/documents/d/corregedoria-geral-da-justica/circularcgj643-2025-pdf)
+
+---
+
+## Anexo — reproduzir do zero (opcional)
+
+Apenas para quem quiser **regenerar** os resultados localmente. Não é necessário para ver o trabalho (ver seção "Vendo os resultados").
 
 ```powershell
 python -m venv .venv
@@ -53,7 +81,7 @@ python -m venv .venv
 .\.venv\Scripts\python.exe -m jupyter lab
 ```
 
-Execute os notebooks **na ordem**, a partir da raiz (todos usam caminhos relativos e leem apenas os CSVs locais de `data/`):
+Execute os notebooks **na ordem**, a partir da raiz (caminhos relativos; leem somente os CSVs locais de `data/`):
 
 ```
 notebooks/00_setup.ipynb
@@ -65,26 +93,6 @@ notebooks/05_recomendacao_retorno.ipynb  → outputs/recomendacao/
 ```
 
 `data/` é **somente leitura** e não é alterada pela análise (hashes verificados a cada execução).
-
-## Onde está a resposta
-
-| Assunto                                  | Arquivo                                          |
-| ---------------------------------------- | ------------------------------------------------ |
-| Recomendação e retorno                   | `outputs/recomendacao/recomendacao_executiva.md` |
-| Veredito da tese dos compactos no Centro | `outputs/tese/veredito_tese.md`                  |
-| Perfil, localização e fatores            | `outputs/analise/resumo_etapa3.md`               |
-| Auditoria e limpeza                      | `outputs/auditoria/`                             |
-| Logs completos de IA                     | `ai-log/ai-log.md`                               |
-
----
-
-## Fontes, hipóteses e limitações (resumo)
-
-- **Fontes de dados:** 5 CSVs locais em `data/` (Airbnb: `Details`, `Hosts`, `Mesh`, `Price_AV`; vendas: `VivaReal`). Snapshot de Itapema (SC).
-- **Proxies e hipóteses:** diária é **anunciada**, não reserva/receita; ocupação (40/55/70%) é **hipótese de sensibilidade**, não fato da base; retorno é **bruto/líquido estimado** antes de IR e sem financiamento.
-- **Custo e impostos:** ITBI (1,5%), cartório (tabela 2026 TJSC), condomínio, IPTU, preparação/mobília e operação — detalhadas no relatório.
-- **Limitações:** 959 de 4.441 anúncios têm preço (21,6%), período Airbnb cobre só jan–abr/2025 (sem ciclo anual completo), preço de venda anunciado ≠ transação, sem join imobiliário entre Airbnb e VivaReal.
-- **Fontes externas:** [desafio](https://seazone-tech.github.io/jovens-talentos-2026-hackathon-data/) · [base de dados](https://github.com/seazone-tech/jovens-talentos-2026-hackathon-data) · [ITBI Itapema](https://site.itapema.sc.leg.br/elegis2/detalhe-proposicao/cod_proposicao/24075) · [Emolumentos TJSC 2026](https://www.tjsc.jus.br/documents/d/corregedoria-geral-da-justica/circularcgj643-2025-pdf)
 
 ---
 
